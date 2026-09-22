@@ -1,0 +1,106 @@
+@use "variables" as *;
+
+// Home page: intro, course tiles and a few pulled-out cards.
+
+.home-intro {
+	text-align: center;
+	max-width: 620px;
+	margin: 0 auto 50px auto;
+	color: #57503f;
+}
+
+.home-search {
+	max-width: 560px;
+	margin: 0 auto 60px auto;
+	display: flex;
+	gap: 8px;
+
+	input {
+		flex: 1;
+		min-width: 0;
+		font-size: 1em;
+		padding: 13px 16px;
+		border: 1px solid $rule;
+		border-radius: 3px;
+		background: #fff;
+
+		&:focus {
+			outline: none;
+			border-color: $accent;
+		}
+	}
+}
+
+.section-head {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	border-bottom: 1px solid $rule;
+	padding: 0 0 10px 0;
+	margin: 0 0 22px 0;
+
+	h2 {
+		font-size: 1.3em;
+	}
+
+	a {
+		font-size: .85em;
+	}
+}
+
+.course-tiles {
+	display: grid;
+	gap: 14px;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	margin: 0 0 60px 0;
+}
+
+.course-tile {
+	border: 1px solid $rule;
+	border-radius: 3px;
+	background: #fff;
+	padding: 22px 20px;
+	color: $ink;
+	border-left: 4px solid $light-grey;
+	transition: transform .15s ease, border-color .15s ease;
+
+	&:hover {
+		text-decoration: none;
+		transform: translateY(-2px);
+
+		strong {
+			color: $accent;
+		}
+	}
+
+	strong {
+		display: block;
+		font-family: 'Antic Slab', Georgia, serif;
+		font-size: 1.3em;
+		font-weight: 400;
+	}
+
+	span {
+		font-size: .8em;
+		color: $light-grey;
+	}
+
+	&.course-main { border-left-color: #c0392b; }
+	&.course-side { border-left-color: #4b8b6b; }
+	&.course-dessert { border-left-color: #b86fa3; }
+	&.course-breakfast { border-left-color: #d99a2b; }
+	&.course-condiment { border-left-color: #7b6fb8; }
+	&.course-drink { border-left-color: #3d89a8; }
+}
+
+.page-prose {
+	max-width: 680px;
+
+	h1 {
+		margin: 0 0 20px 0;
+	}
+
+	h2 {
+		margin: 36px 0 10px 0;
+	}
+}

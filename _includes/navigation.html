@@ -1,0 +1,6 @@
+<nav class="site-nav">
+	{% for link in site.data.navigation %}
+		{% assign target = link.link | relative_url %}
+		<a href="{{ target }}"{% if page.url == link.link %} class="active"{% endif %}>{{ link.name }}</a>
+	{% endfor %}
+</nav>

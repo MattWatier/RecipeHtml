@@ -1,0 +1,224 @@
+@use "variables" as *;
+
+// Browse page: search box, facet chips and the recipe card grid.
+
+.browse {
+	.lede {
+		color: $light-grey;
+		margin: 10px 0 26px 0;
+	}
+}
+
+.browse-search {
+	margin: 0 0 26px 0;
+
+	input {
+		width: 100%;
+		box-sizing: border-box;
+		font-size: 1.05em;
+		padding: 14px 18px;
+		border: 1px solid $rule;
+		border-radius: 3px;
+		background: #fff;
+
+		&:focus {
+			outline: none;
+			border-color: $accent;
+		}
+	}
+}
+
+.facets {
+	display: grid;
+	gap: 18px 34px;
+	margin: 0 0 30px 0;
+
+	@media #{$mid-point} {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	h2 {
+		font-family: 'Fira Sans', sans-serif;
+		font-size: .74em;
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: .12em;
+		color: $light-grey;
+		margin: 0 0 8px 0;
+
+		span {
+			text-transform: none;
+			letter-spacing: .02em;
+			font-weight: 400;
+			opacity: .75;
+		}
+	}
+}
+
+.chips {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+}
+
+.chip {
+	font-size: .84em;
+	line-height: 1.5em;
+	padding: 5px 11px;
+	border: 1px solid $rule;
+	border-radius: 20px;
+	background: #fff;
+	color: #5d564c;
+	cursor: pointer;
+
+	i {
+		font-style: normal;
+		font-size: .82em;
+		color: $light-grey;
+		margin-left: 4px;
+	}
+
+	&:hover {
+		border-color: #c9c0ae;
+	}
+
+	&.on {
+		background: $accent;
+		border-color: $accent;
+		color: #fff;
+
+		i {
+			color: rgba(255, 255, 255, .75);
+		}
+	}
+}
+
+.facet.exclude .chip.on {
+	background: #6b6358;
+	border-color: #6b6358;
+	text-decoration: line-through;
+}
+
+.browse-bar {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	align-items: center;
+	justify-content: space-between;
+	border-top: 1px solid $rule;
+	padding: 14px 0;
+	margin: 0 0 8px 0;
+
+	.result-count {
+		margin: 0;
+		font-size: .88em;
+		color: $light-grey;
+	}
+
+	.browse-bar-right {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+	}
+
+	label {
+		font-size: .74em;
+		text-transform: uppercase;
+		letter-spacing: .12em;
+		color: $light-grey;
+	}
+
+	select {
+		border: 1px solid $rule;
+		border-radius: 3px;
+		padding: 6px 8px;
+		background: #fff;
+		font-size: .88em;
+	}
+
+	.reset {
+		border: 0;
+		background: none;
+		color: $accent;
+		font-size: .88em;
+		cursor: pointer;
+		padding: 6px 2px;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+.recipe-grid {
+	display: grid;
+	gap: 14px;
+	grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+}
+
+.rcard {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid $rule;
+	border-radius: 3px;
+	background: #fff;
+	padding: 16px 18px 14px 18px;
+	color: $ink;
+	transition: border-color .15s ease, transform .15s ease;
+
+	&:hover {
+		text-decoration: none;
+		border-color: $accent;
+		transform: translateY(-2px);
+
+		h3 {
+			color: $accent;
+		}
+	}
+
+	h3 {
+		font-size: 1.05em;
+		margin: 8px 0 10px 0;
+		flex: 1;
+	}
+}
+
+.rcard-course {
+	font-size: .66em;
+	text-transform: uppercase;
+	letter-spacing: .14em;
+	color: $light-grey;
+
+	&:before {
+		content: '';
+		display: inline-block;
+		width: 7px;
+		height: 7px;
+		border-radius: 50%;
+		margin-right: 7px;
+		background: $light-grey;
+	}
+
+	&.course-main:before { background: #c0392b; }
+	&.course-side:before { background: #4b8b6b; }
+	&.course-dessert:before { background: #b86fa3; }
+	&.course-breakfast:before { background: #d99a2b; }
+	&.course-condiment:before { background: #7b6fb8; }
+	&.course-drink:before { background: #3d89a8; }
+}
+
+.rcard-meta {
+	font-size: .76em;
+	color: $light-grey;
+
+	span + span:before {
+		content: '\00b7';
+		padding: 0 6px;
+	}
+}
+
+.no-results {
+	text-align: center;
+	color: $light-grey;
+	padding: 50px 0;
+}

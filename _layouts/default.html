@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#fffdf8">
+
+		{% seo %}
+		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans:400,500,700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" media="screen" href="{{ '/css/screen.css' | relative_url }}">
+		{% if page.print_stylesheet %}
+			<link rel="stylesheet" media="print" href="{{ '/css/print.css' | relative_url }}">
+		{% endif %}
+		<link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+	</head>
+	<body>
+		{% include navigation.html %}
+
+		<header>
+			<a class="wordmark" href="{{ '/' | relative_url }}">
+				<span class="wordmark-kicker">The</span>
+				<span class="wordmark-name">Family Recipe Box</span>
+				<span class="wordmark-rule"></span>
+				<span class="wordmark-sub">{{ site.recipes | size }} recipes from the 1980s, 90s &amp; 95s</span>
+			</a>
+		</header>
+
+		<div class="container main-content">
+			<section class="content">{{ content }}</section>
+		</div>
+
+		<footer>
+			<div class="container">
+				<hr>
+				<p>
+					{{ site.title }} &middot; transcribed from the family recipe cards.
+				</p>
+			</div>
+		</footer>
+	</body>
+</html>

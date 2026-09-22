@@ -1,0 +1,169 @@
+@use "variables" as *;
+
+html, body {
+	padding: 0;
+	margin: 0;
+	line-height: 1.7em;
+	background: $paper;
+}
+
+body, input, textarea, select, button {
+	font-family: 'Fira Sans', sans-serif;
+	color: $ink;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+	font-family: 'Antic Slab', Georgia, serif;
+	line-height: 1.25em;
+	margin: 0;
+	padding: 0;
+	font-weight: 400;
+}
+
+h1 {
+	font-size: 2.2em;
+}
+
+h2 {
+	font-size: 1.35em;
+}
+
+img {
+	max-width: 100%;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid $rule;
+}
+
+a {
+	text-decoration: none;
+	color: $accent;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+// Filtered-out cards use the `hidden` attribute; flex/grid children would
+// otherwise ignore it.
+[hidden] {
+	display: none !important;
+}
+
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+header {
+	text-align: center;
+	padding: 90px 20px 45px 20px;
+}
+
+.wordmark {
+	display: inline-block;
+	color: $ink;
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: none;
+
+		.wordmark-name {
+			color: $accent;
+		}
+	}
+
+	span {
+		display: block;
+	}
+}
+
+.wordmark-kicker {
+	font-size: .72em;
+	letter-spacing: .32em;
+	text-transform: uppercase;
+	color: $light-grey;
+}
+
+.wordmark-name {
+	font-family: 'Antic Slab', Georgia, serif;
+	font-size: 2.6em;
+	line-height: 1.1em;
+	transition: color .15s ease;
+}
+
+.wordmark-rule {
+	width: 60px;
+	height: 2px;
+	background: $accent;
+	margin: 14px auto 12px auto;
+}
+
+.wordmark-sub {
+	font-size: .82em;
+	color: $light-grey;
+	letter-spacing: .06em;
+}
+
+footer {
+	color: $light-grey;
+	text-align: center;
+	padding: 20px 0 40px 0;
+	font-size: .85em;
+
+	p {
+		margin: 20px 0 0 0;
+	}
+}
+
+.button, button.button {
+	display: inline-block;
+	border: 1px solid $accent;
+	color: $accent;
+	background: none;
+	border-radius: 2px;
+	padding: 10px 22px;
+	font-size: .9em;
+	letter-spacing: .05em;
+	cursor: pointer;
+
+	&:hover {
+		background: $accent;
+		color: #fff;
+		text-decoration: none;
+	}
+}
+
+.pill {
+	display: inline-block;
+	font-size: .75em;
+	line-height: 1.6em;
+	letter-spacing: .04em;
+	text-transform: lowercase;
+	background: #f3efe6;
+	color: #6b6358;
+	border-radius: 2px;
+	padding: 2px 9px;
+	margin: 0 5px 5px 0;
+
+	&.warn {
+		background: $accent-soft;
+		color: #a5372a;
+	}
+}
+
+a.pill:hover {
+	background: $accent;
+	color: #fff;
+	text-decoration: none;
+}

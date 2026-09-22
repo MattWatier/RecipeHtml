@@ -1,0 +1,72 @@
+# ----
+# Site
+
+title: The Family Recipe Box
+url: "https://mattwatier.github.io"
+baseurl: "/RecipeHtml"
+
+description: >-
+  Three decades of handwritten and clipped family recipe cards, transcribed
+  and collected in one place.
+logo: /images/logo.png
+author:
+  name: The Family Recipe Box
+social:
+  name: The Family Recipe Box
+  links: []
+
+# -----
+# Build
+
+timezone: America/New_York
+permalink: pretty
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+      print_stylesheet: true
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - tools
+  - vendor
+  - .github
+
+# -----------
+# Course display order and labels, used by the browse page and navigation.
+
+courses:
+  - key: main
+    label: Mains
+  - key: side
+    label: Sides
+  - key: dessert
+    label: Desserts
+  - key: breakfast
+    label: Breakfast
+  - key: condiment
+    label: Condiments
+  - key: drink
+    label: Drinks

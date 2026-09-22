@@ -1,0 +1,14 @@
+@use "variables" as *;
+
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+.main-content {
+	padding: 0 24px 60px 24px;
+}
+
+.content {
+	min-width: 0;
+}

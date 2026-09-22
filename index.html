@@ -1,0 +1,74 @@
+---
+title: Home
+description: A family recipe box of 1980s, 1990s and 1995 recipe cards, transcribed and searchable.
+---
+{%- assign facets = site.data.facets -%}
+
+<p class="home-intro">
+	Three boxes of handwritten and clipped recipe cards, scanned, transcribed and
+	put somewhere they can actually be found. Every ingredient list, every step,
+	every scrawled note &mdash; {{ facets.total }} recipes in all.
+</p>
+
+<form class="home-search" action="{{ '/recipes/' | relative_url }}" method="get" onsubmit="location.href='{{ '/recipes/' | relative_url }}#q=' + encodeURIComponent(this.q.value); return false;">
+	<label class="sr-only" for="q">Search recipes</label>
+	<input type="search" id="q" name="q" placeholder="Search 343 recipes&hellip;" autocomplete="off">
+	<button type="submit" class="button">Search</button>
+</form>
+
+<div class="section-head">
+	<h2>Browse by course</h2>
+	<a href="{{ '/recipes/' | relative_url }}">See all {{ facets.total }} &rarr;</a>
+</div>
+
+<div class="course-tiles">
+	{% for course in facets.courses %}
+		<a class="course-tile course-{{ course.key }}" href="{{ '/recipes/#course=' | append: course.key | relative_url }}">
+			<strong>{{ course.label }}</strong>
+			<span>{{ course.count }} recipe{% if course.count != 1 %}s{% endif %}</span>
+		</a>
+	{% endfor %}
+</div>
+
+<div class="section-head">
+	<h2>Browse by era</h2>
+</div>
+
+<div class="course-tiles">
+	{% for era in facets.eras %}
+		<a class="course-tile" href="{{ '/recipes/#era=' | append: era.key | relative_url }}">
+			<strong>{{ era.key }}</strong>
+			<span>{{ era.count }} cards</span>
+		</a>
+	{% endfor %}
+</div>
+
+<div class="section-head">
+	<h2>The quickest in each course</h2>
+	<a href="{{ '/recipes/' | relative_url }}">Browse everything &rarr;</a>
+</div>
+
+{%- comment -%}
+Two cards per course rather than a flat slice, so the row shows the range of
+the collection instead of eight variations on the same thing.
+{%- endcomment -%}
+{%- assign picks = "" | split: "," -%}
+{%- for course in facets.courses -%}
+	{%- assign pool = site.recipes | where: "course", course.key | where_exp: "r", "r.total_minutes" | sort: "total_minutes" -%}
+	{%- assign take = pool | slice: 0, 2 -%}
+	{%- assign picks = picks | concat: take -%}
+{%- endfor -%}
+
+<div class="recipe-grid">
+	{% for recipe in picks %}
+		<a class="rcard" href="{{ recipe.url | relative_url }}">
+			<span class="rcard-course course-{{ recipe.course }}">{{ recipe.course_label }}</span>
+			<h3>{{ recipe.title }}</h3>
+			<span class="rcard-meta">
+				{%- if recipe.total_time %}<span>{{ recipe.total_time }}</span>{% endif -%}
+				{%- if recipe.servings %}<span>serves {{ recipe.servings }}</span>{% endif -%}
+				{%- if recipe.era %}<span>{{ recipe.era }}</span>{% endif -%}
+			</span>
+		</a>
+	{% endfor %}
+</div>

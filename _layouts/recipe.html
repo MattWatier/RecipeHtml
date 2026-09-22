@@ -1,0 +1,117 @@
+---
+layout: default
+---
+<article class="recipe-page">
+	<nav class="crumbs">
+		<a href="{{ '/recipes/' | relative_url }}">All recipes</a>
+		<span>&rsaquo;</span>
+		<a href="{{ '/recipes/#course=' | append: page.course | relative_url }}">{{ page.course_label }}</a>
+	</nav>
+
+	<h1>{{ page.title }}</h1>
+
+	<p class="recipe-tagline">
+		{% if page.cuisine and page.cuisine != "" %}<span class="pill">{{ page.cuisine }}</span>{% endif %}
+		<span class="pill">{{ page.course_label }}</span>
+		{% if page.era and page.era != "" %}<span class="pill">{{ page.era }} card</span>{% endif %}
+		{% if page.difficulty and page.difficulty != "" %}<span class="pill">{{ page.difficulty }}</span>{% endif %}
+	</p>
+
+	<ul class="recipe-overview">
+		{% if page.servings %}
+			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>Serves {{ page.servings }}</span></li>
+		{% endif %}
+		{% if page.prep_time %}
+			<li title="Prep time">{% include recipe-icon.html icon="time" %}<span>{{ page.prep_time }} prep</span></li>
+		{% endif %}
+		{% if page.cook_time %}
+			<li title="Cook time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cook_time }} cook</span></li>
+		{% endif %}
+		{% if page.oven_temp_f %}
+			<li title="Oven temperature">{% include recipe-icon.html icon="cook" %}<span>{{ page.oven_temp_f }}&deg;F oven</span></li>
+		{% endif %}
+	</ul>
+
+	{% if page.total_time %}
+		<p class="recipe-total">Total time about <strong>{{ page.total_time }}</strong>{% if page.yield and page.yield != "" %}, makes {{ page.yield }}{% endif %}.</p>
+	{% endif %}
+
+	<div class="recipe-contents">
+		<div class="ingredients">
+			<h2>Ingredients</h2>
+			{% if page.ingredients and page.ingredients.size > 0 %}
+				<ul>
+					{% for item in page.ingredients %}
+						<li>
+							{% if item.amount != "" or item.unit != "" %}<strong>{{ item.amount }} {{ item.unit }}</strong> {% endif %}{{ item.name }}{% if item.note != "" %}<span class="prep">, {{ item.note }}</span>{% endif %}
+						</li>
+					{% endfor %}
+				</ul>
+			{% else %}
+				<p class="empty">The card did not list ingredients separately &mdash; see the directions.</p>
+			{% endif %}
+		</div>
+
+		<div class="directions">
+			<h2>Directions</h2>
+			{% if page.steps and page.steps.size > 0 %}
+				<ol class="steps">
+					{% for step in page.steps %}
+						<li>
+							<h3>{{ step.title }}{% if step.duration != "" %} <span class="step-time">{{ step.duration }}</span>{% endif %}</h3>
+							<p>{{ step.note }}</p>
+							{% if step.tip != "" %}<p class="tip">{{ step.tip }}</p>{% endif %}
+						</li>
+					{% endfor %}
+				</ol>
+			{% else %}
+				<p class="empty">No directions were recorded on this card.</p>
+			{% endif %}
+		</div>
+	</div>
+
+	{% if page.nutrition %}
+		<section class="nutrition">
+			<h2>Nutrition <span class="per">per serving, estimated</span></h2>
+			<ul>
+				{% if page.nutrition.calories %}<li><b>{{ page.nutrition.calories }}</b><span>calories</span></li>{% endif %}
+				{% if page.nutrition.protein_g %}<li><b>{{ page.nutrition.protein_g }} g</b><span>protein</span></li>{% endif %}
+				{% if page.nutrition.fat_g %}<li><b>{{ page.nutrition.fat_g }} g</b><span>fat</span></li>{% endif %}
+				{% if page.nutrition.carbs_g %}<li><b>{{ page.nutrition.carbs_g }} g</b><span>carbs</span></li>{% endif %}
+			</ul>
+			<p class="disclaimer">
+				Estimated from USDA data against the parsed ingredient list{% if page.nutrition_confidence and page.nutrition_confidence != "complete" %}, and only {{ page.nutrition_confidence }} for this card{% endif %}. Treat it as a rough guide, not a measurement.
+			</p>
+		</section>
+	{% endif %}
+
+	{% if page.allergens and page.allergens.size > 0 %}
+		<p class="allergens"><b>Contains</b>
+			{% for allergen in page.allergens %}<span class="pill warn">{{ allergen }}</span>{% endfor %}
+		</p>
+	{% endif %}
+
+	{% if page.tags and page.tags.size > 0 %}
+		<p class="tag-row">
+			{% for tag in page.tags %}<a class="pill" href="{{ '/recipes/#tag=' | append: tag | relative_url }}">{{ tag }}</a>{% endfor %}
+		</p>
+	{% endif %}
+
+	{% if page.related and page.related.size > 0 %}
+		<section class="related">
+			<h2>Possibly the same recipe</h2>
+			<p>These cards look like near-duplicates of this one.</p>
+			<ul>
+				{% for other in page.related %}
+					<li><a href="{{ '/recipes/' | append: other.slug | append: '/' | relative_url }}">{{ other.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</section>
+	{% endif %}
+
+	<div class="cta">
+		<a class="button" href="{{ '/recipes/' | relative_url }}">Back to all recipes</a>
+	</div>
+
+	{% include recipe-schema.html %}
+</article>

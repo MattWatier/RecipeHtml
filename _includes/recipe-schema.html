@@ -1,0 +1,66 @@
+{%- comment -%}
+Schema.org Recipe markup so search engines can show rich results.
+Every value goes through `jsonify` to stay valid JSON.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "Recipe",
+	"name": {{ page.title | jsonify }},
+	"url": {{ page.url | absolute_url | jsonify }},
+	"description": {{ page.title | append: " — a " | append: page.era | append: " family recipe card." | jsonify }},
+	"recipeCategory": {{ page.course_label | jsonify }},
+	{%- if page.cuisine and page.cuisine != "" %}
+	"recipeCuisine": {{ page.cuisine | jsonify }},
+	{%- endif %}
+	{%- if page.servings %}
+	"recipeYield": {{ page.servings | append: " servings" | jsonify }},
+	{%- endif %}
+	{%- if page.prep_iso %}
+	"prepTime": {{ page.prep_iso | jsonify }},
+	{%- endif %}
+	{%- if page.cook_iso %}
+	"cookTime": {{ page.cook_iso | jsonify }},
+	{%- endif %}
+	{%- if page.total_iso %}
+	"totalTime": {{ page.total_iso | jsonify }},
+	{%- endif %}
+	{%- if page.tags and page.tags.size > 0 %}
+	"keywords": {{ page.tags | join: ", " | jsonify }},
+	{%- endif %}
+	{%- if page.nutrition %}
+	"nutrition": {
+		"@type": "NutritionInformation"
+		{%- if page.nutrition.calories %},
+		"calories": {{ page.nutrition.calories | append: " calories" | jsonify }}
+		{%- endif %}
+		{%- if page.nutrition.protein_g %},
+		"proteinContent": {{ page.nutrition.protein_g | append: " g" | jsonify }}
+		{%- endif %}
+		{%- if page.nutrition.fat_g %},
+		"fatContent": {{ page.nutrition.fat_g | append: " g" | jsonify }}
+		{%- endif %}
+		{%- if page.nutrition.carbs_g %},
+		"carbohydrateContent": {{ page.nutrition.carbs_g | append: " g" | jsonify }}
+		{%- endif %}
+	},
+	{%- endif %}
+	"recipeIngredient": [
+		{%- for item in page.ingredients -%}
+		{{ item.text | jsonify }}{% unless forloop.last %},{% endunless %}
+		{%- endfor -%}
+	],
+	"recipeInstructions": [
+		{%- for step in page.steps -%}
+		{
+			"@type": "HowToStep",
+			"name": {{ step.title | jsonify }},
+			"text": {{ step.note | jsonify }}
+			{%- if step.duration_iso != "" %},
+			"totalTime": {{ step.duration_iso | jsonify }}
+			{%- endif %}
+		}{% unless forloop.last %},{% endunless %}
+		{%- endfor -%}
+	]
+}
+</script>
