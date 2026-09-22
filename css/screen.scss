@@ -1,8 +1,13 @@
 ---
 ---
-@use "elements";
-@use "layout";
-@use "navigation";
-@use "recipes";
-@use "browse";
-@use "home";
+// `@import` rather than `@use`: GitHub's legacy Pages builder compiles with
+// libsass, which predates `@use` and silently passes it through as an unknown
+// at-rule, publishing an uncompiled stylesheet. `@import` works in both
+// libsass and dart-sass. Variables must be imported first.
+@import "variables";
+@import "elements";
+@import "layout";
+@import "navigation";
+@import "recipes";
+@import "browse";
+@import "home";
