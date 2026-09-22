@@ -3,7 +3,6 @@ title: Deviled Pork Chops
 slug: deviled-pork-chops
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ⅓
   unit: cup
@@ -79,6 +78,6 @@ nutrition:
   fat_g: 4.2
   carbs_g: 11.8
 nutrition_confidence: partial
-search: deviled pork chops mains 1990s whole-grain dijon mustard fresh orange juice brandy worcestershire
-  fresh tarragon pepper boneless pork chops
+search: deviled pork chops mains whole-grain dijon mustard fresh orange juice brandy worcestershire fresh
+  tarragon pepper boneless pork chops
 ---

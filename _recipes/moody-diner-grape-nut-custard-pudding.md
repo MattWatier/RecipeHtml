@@ -3,7 +3,6 @@ title: Moody Diner Grape Nut Custard Pudding
 slug: moody-diner-grape-nut-custard-pudding
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '4'
   unit: ''
@@ -140,6 +139,6 @@ nutrition:
   fat_g: 21.1
   carbs_g: 103.3
 nutrition_confidence: partial
-search: moody diner grape nut custard pudding desserts 1990s baked eggs sugar grape-nuts cereal vanilla
-  salt milk egg yolks flour egg whites double smooth
+search: moody diner grape nut custard pudding desserts baked eggs sugar grape-nuts cereal vanilla salt
+  milk egg yolks flour egg whites double smooth
 ---

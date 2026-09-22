@@ -3,7 +3,6 @@ title: Peppered Salmon Fillet with Mixed Tomato Salsa
 slug: peppered-salmon-fillet-with-mixed-tomato-salsa
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '4'
   unit: cup
@@ -110,6 +109,6 @@ nutrition:
   fat_g: 0.9
   carbs_g: 18.3
 nutrition_confidence: partial
-search: peppered salmon fillet with mixed tomato salsa mains mexican 1990s tomato red onion fresh mint
-  basil jalapeño lemon juice (6 oz.) salmon fillets dijon mustard (per fillet) ground pepper broiler
+search: peppered salmon fillet with mixed tomato salsa mains mexican tomato red onion fresh mint basil
+  jalapeño lemon juice (6 oz.) salmon fillets dijon mustard (per fillet) ground pepper broiler
 ---

@@ -3,7 +3,6 @@ title: Chili Con Carne
 slug: chili-con-carne
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -78,6 +77,6 @@ nutrition:
   fat_g: 19
   carbs_g: 49.7
 nutrition_confidence: partial
-search: chili con carne mains 1995s bacon fat onion hamburger tomatoes kidney beans sugar chili powder
-  garlic salt fry
+search: chili con carne mains bacon fat onion hamburger tomatoes kidney beans sugar chili powder garlic
+  salt fry
 ---

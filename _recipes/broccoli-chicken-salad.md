@@ -3,7 +3,6 @@ title: Broccoli ~ Chicken Salad
 slug: broccoli-chicken-salad
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: ''
@@ -69,6 +68,6 @@ nutrition:
   fat_g: 0.7
   carbs_g: 11.9
 nutrition_confidence: partial
-search: broccoli ~ chicken salad mains 1990s salad heads broccoli chicken or 3 chicken breasts parsley
-  green onions
+search: broccoli ~ chicken salad mains salad heads broccoli chicken or 3 chicken breasts parsley green
+  onions
 ---

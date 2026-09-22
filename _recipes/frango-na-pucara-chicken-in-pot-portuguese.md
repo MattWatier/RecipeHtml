@@ -3,7 +3,6 @@ title: Frango na Pucara - Chicken in Pot, Portuguese
 slug: frango-na-pucara-chicken-in-pot-portuguese
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: small
@@ -100,6 +99,6 @@ nutrition:
   fat_g: 22.2
   carbs_g: 20.9
 nutrition_confidence: partial
-search: frango na pucara - chicken in pot, portuguese mains portuguese 1980s baked casserole chicken ham
-  potatoes onions port brandy dry white wine butter garlic mustard
+search: frango na pucara - chicken in pot, portuguese mains portuguese baked casserole chicken ham potatoes
+  onions port brandy dry white wine butter garlic mustard
 ---

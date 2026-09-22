@@ -3,7 +3,6 @@ title: Atkins Diet Spicy Cauliflower Bake
 slug: atkins-diet-spicy-cauliflower-bake
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 50.4
   carbs_g: 46.5
 nutrition_confidence: estimated
-search: atkins diet spicy cauliflower bake sides italian 1990s baked butter onion garlic cauliflower eggs
-  parmesan bacon
+search: atkins diet spicy cauliflower bake sides italian baked butter onion garlic cauliflower eggs parmesan
+  bacon
 ---

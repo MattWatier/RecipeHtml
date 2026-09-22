@@ -3,7 +3,6 @@ title: Memphis Style Dry Rub BBQ
 slug: memphis-style-dry-rub-bbq
 course: condiment
 course_label: Condiments
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -68,6 +67,5 @@ nutrition:
   fat_g: 2.2
   carbs_g: 4.4
 nutrition_confidence: estimated
-search: memphis style dry rub bbq condiments 1990s paprika chili powder salt dry mustard garlic powder
-  pepper
+search: memphis style dry rub bbq condiments paprika chili powder salt dry mustard garlic powder pepper
 ---

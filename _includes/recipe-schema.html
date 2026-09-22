@@ -8,7 +8,7 @@ Every value goes through `jsonify` to stay valid JSON.
 	"@type": "Recipe",
 	"name": {{ page.title | jsonify }},
 	"url": {{ page.url | absolute_url | jsonify }},
-	"description": {{ page.title | append: " — a " | append: page.era | append: " family recipe card." | jsonify }},
+	"description": {{ page.title | append: " — a recipe transcribed from the family recipe cards." | jsonify }},
 	"recipeCategory": {{ page.course_label | jsonify }},
 	{%- if page.cuisine and page.cuisine != "" %}
 	"recipeCuisine": {{ page.cuisine | jsonify }},

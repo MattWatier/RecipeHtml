@@ -3,7 +3,6 @@ title: Balsamic Vinaigrette Chicken Over Greens
 slug: balsamic-vinaigrette-chicken-over-greens
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -92,6 +91,6 @@ nutrition:
   fat_g: 3.9
   carbs_g: 15.5
 nutrition_confidence: partial
-search: balsamic vinaigrette chicken over greens mains 1990s salad basil leaves balsamic vinegar finely
-  chopped shallots water honey olive oil black pepper skinless
+search: balsamic vinaigrette chicken over greens mains salad basil leaves balsamic vinegar finely chopped
+  shallots water honey olive oil black pepper skinless
 ---

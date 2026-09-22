@@ -3,7 +3,6 @@ title: Sour Cream Coffee Cake
 slug: sour-cream-coffee-cake
 course: breakfast
 course_label: Breakfast
-era: 1990s
 ingredients:
 - amount: '1'
   unit: stick
@@ -134,6 +133,6 @@ nutrition_confidence: partial
 related:
 - title: Pecan Sour Cream Coffee Cake
   slug: pecan-sour-cream-coffee-cake
-search: sour cream coffee cake breakfast 1990s baked butter sugar eggs vanilla (8 ounce) container sour
-  cream baking soda flour baking powder firmly chopped nuts cinnamon
+search: sour cream coffee cake breakfast baked butter sugar eggs vanilla (8 ounce) container sour cream
+  baking soda flour baking powder firmly chopped nuts cinnamon
 ---

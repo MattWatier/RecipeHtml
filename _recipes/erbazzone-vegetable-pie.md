@@ -3,7 +3,6 @@ title: Erbazzone - Vegetable Pie
 slug: erbazzone-vegetable-pie
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: 2½
   unit: cup
@@ -126,6 +125,6 @@ nutrition:
   fat_g: 38.3
   carbs_g: 93.6
 nutrition_confidence: partial
-search: erbazzone - vegetable pie mains italian 1990s baked flour lard or margarine soft beet greens or
-  spinach onion rindless bacon parmesan cheese prosciutto well buttered top
+search: erbazzone - vegetable pie mains italian baked flour lard or margarine soft beet greens or spinach
+  onion rindless bacon parmesan cheese prosciutto well buttered top
 ---

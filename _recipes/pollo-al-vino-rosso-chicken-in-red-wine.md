@@ -3,7 +3,6 @@ title: Pollo al Vino Rosso - Chicken in Red Wine
 slug: pollo-al-vino-rosso-chicken-in-red-wine
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -106,6 +105,6 @@ nutrition:
   fat_g: 14.2
   carbs_g: 11.5
 nutrition_confidence: partial
-search: pollo al vino rosso - chicken in red wine mains 1980s baked (4 lb.) chicken olive oil pancetta
-  dry red wine pearl onions roasting serving
+search: pollo al vino rosso - chicken in red wine mains baked (4 lb.) chicken olive oil pancetta dry red
+  wine pearl onions roasting serving
 ---

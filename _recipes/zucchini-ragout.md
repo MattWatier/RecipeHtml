@@ -3,7 +3,6 @@ title: Zucchini Ragout
 slug: zucchini-ragout
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '5'
   unit: ''
@@ -132,6 +131,6 @@ related:
   slug: zucchini-gratin-2
 - title: Zucchini Gratin
   slug: zucchini-gratin-2
-search: zucchini ragout sides 1980s zucchini oil butter sliced onion green peppers stalks celery tomatoes
-  basil parsley minced garlic tomato paste
+search: zucchini ragout sides zucchini oil butter sliced onion green peppers stalks celery tomatoes basil
+  parsley minced garlic tomato paste
 ---

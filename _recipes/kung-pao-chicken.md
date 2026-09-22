@@ -3,7 +3,6 @@ title: Kung Pao Chicken
 slug: kung-pao-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -160,8 +159,8 @@ nutrition:
   fat_g: 38.7
   carbs_g: 68.4
 nutrition_confidence: partial
-search: kung pao chicken mains chinese 1990s soy sauce (marinade) sake or rice wine (marinade) cornstarch
-  (marinade) dark sesame oil (marinade) boneless chicken breast vegetable oil (for chicken) chicken broth
-  sugar soy sauce (sauce) sake (sauce) cornstarch (sauce) dark sesame oil (sauce) vegetable oil (for aromatics)
+search: kung pao chicken mains chinese soy sauce (marinade) sake or rice wine (marinade) cornstarch (marinade)
+  dark sesame oil (marinade) boneless chicken breast vegetable oil (for chicken) chicken broth sugar soy
+  sauce (sauce) sake (sauce) cornstarch (sauce) dark sesame oil (sauce) vegetable oil (for aromatics)
   minced green onion minced fresh ginger minced garlic sliced water chestnuts unsalted dry-roasted peanuts
 ---

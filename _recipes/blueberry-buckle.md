@@ -3,7 +3,6 @@ title: Blueberry Buckle
 slug: blueberry-buckle
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: ¼
   unit: cup
@@ -102,6 +101,6 @@ nutrition:
   fat_g: 30.1
   carbs_g: 70.8
 nutrition_confidence: estimated
-search: blueberry buckle sides 1995s baked shortening flour sugar baking powder egg milk blueberries cinnamon
+search: blueberry buckle sides baked shortening flour sugar baking powder egg milk blueberries cinnamon
   butter
 ---

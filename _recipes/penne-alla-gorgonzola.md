@@ -3,7 +3,6 @@ title: Penne Alla Gorgonzola
 slug: penne-alla-gorgonzola
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -112,6 +111,6 @@ nutrition:
   fat_g: 20.2
   carbs_g: 63.2
 nutrition_confidence: partial
-search: penne alla gorgonzola sides 1990s penne (ridged) butter fresh sage or 1 t. dried milk gorgonzola
-  or saga blue (2 c.) black pepper nutmeg parmigiano-reggiano toasted walnuts heavy
+search: penne alla gorgonzola sides penne (ridged) butter fresh sage or 1 t. dried milk gorgonzola or
+  saga blue (2 c.) black pepper nutmeg parmigiano-reggiano toasted walnuts heavy
 ---

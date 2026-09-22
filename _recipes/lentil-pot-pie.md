@@ -3,7 +3,6 @@ title: Lentil Pot Pie
 slug: lentil-pot-pie
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -182,7 +181,7 @@ nutrition:
   fat_g: 14.1
   carbs_g: 45.7
 nutrition_confidence: partial
-search: lentil pot pie mains french 1990s baked casserole lentils onion stalk celery carrots water bouillon
+search: lentil pot pie mains french baked casserole lentils onion stalk celery carrots water bouillon
   cube or broth potatoes flour butter hot liquid from vegetables sage parsley salt sugar salt (for topping)
   baking powder eggs milk fry
 ---

@@ -3,7 +3,6 @@ title: Sautéed Sesame Chicken Breasts
 slug: sauteed-sesame-chicken-breasts
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '4'
   unit: ''
@@ -65,5 +64,5 @@ nutrition:
   fat_g: 9.2
   carbs_g: 2.6
 nutrition_confidence: partial
-search: sautéed sesame chicken breasts mains chinese 1990s boneless chicken breasts sesame seeds eggs
+search: sautéed sesame chicken breasts mains chinese boneless chicken breasts sesame seeds eggs
 ---

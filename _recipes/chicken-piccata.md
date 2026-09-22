@@ -3,7 +3,6 @@ title: Chicken Piccata
 slug: chicken-piccata
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '4'
   unit: ''
@@ -169,7 +168,7 @@ nutrition:
   fat_g: 27.4
   carbs_g: 4.7
 nutrition_confidence: partial
-search: chicken piccata mains 1980s baked boneless chicken breasts olive oil garlic lemon juice dry white
-  wine capers fresh parsley lemon pepper onion powder salt chicken broth heavy cream lemon pepper (for
-  gravy) onion powder (for gravy) dijon mustard roasting
+search: chicken piccata mains baked boneless chicken breasts olive oil garlic lemon juice dry white wine
+  capers fresh parsley lemon pepper onion powder salt chicken broth heavy cream lemon pepper (for gravy)
+  onion powder (for gravy) dijon mustard roasting
 ---

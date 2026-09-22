@@ -3,7 +3,6 @@ title: Sausage Fettucini
 slug: sausage-fettucini
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: tsp
@@ -92,6 +91,6 @@ nutrition:
   fat_g: 24.9
   carbs_g: 31.6
 nutrition_confidence: estimated
-search: sausage fettucini mains italian 1995s olive oil garlic italian sausage sun-dried tomatoes spaghetti
+search: sausage fettucini mains italian olive oil garlic italian sausage sun-dried tomatoes spaghetti
   sauce thick noodles (fettucini) butter parsley
 ---

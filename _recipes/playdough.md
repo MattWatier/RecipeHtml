@@ -3,7 +3,6 @@ title: Playdough
 slug: playdough
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -73,5 +72,5 @@ nutrition:
   fat_g: 29
   carbs_g: 30.9
 nutrition_confidence: partial
-search: playdough sides 1995s flour salt cream of tartar water vegetable oil ball
+search: playdough sides flour salt cream of tartar water vegetable oil ball
 ---

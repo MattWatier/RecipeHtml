@@ -3,7 +3,6 @@ title: Oven-Baked Broccoli "Au Gratin"
 slug: oven-baked-broccoli-au-gratin
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: head
@@ -96,6 +95,6 @@ nutrition:
   fat_g: 18.4
   carbs_g: 28.7
 nutrition_confidence: partial
-search: oven-baked broccoli "au gratin" sides 1990s baked casserole broccoli garlic garlic clove pecorino
-  cheese breadcrumbs baking
+search: oven-baked broccoli "au gratin" sides baked casserole broccoli garlic garlic clove pecorino cheese
+  breadcrumbs baking
 ---

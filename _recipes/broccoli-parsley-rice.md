@@ -3,7 +3,6 @@ title: Broccoli & Parsley Rice
 slug: broccoli-parsley-rice
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '3'
   unit: tbsp
@@ -115,6 +114,6 @@ nutrition:
   fat_g: 29.5
   carbs_g: 45.7
 nutrition_confidence: partial
-search: broccoli & parsley rice sides 1980s butter chopped broccoli onion celery stalk chopped parsley
-  raw brown rice grated sharp cheddar cheese light cream dried dill marjoram summer savory mixing oiled
+search: broccoli & parsley rice sides butter chopped broccoli onion celery stalk chopped parsley raw brown
+  rice grated sharp cheddar cheese light cream dried dill marjoram summer savory mixing oiled
 ---

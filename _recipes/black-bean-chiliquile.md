@@ -3,7 +3,6 @@ title: Black Bean Chiliquile
 slug: black-bean-chiliquile
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -155,7 +154,7 @@ nutrition:
   fat_g: 63.3
   carbs_g: 108.4
 nutrition_confidence: estimated
-search: black bean chiliquile sides mexican 1980s baked casserole olive oil chopped onion chopped tomatoes
-  frozen corn cooked black beans lime juice salt pepper swiss chard or spinach crushed tortilla chips
-  sharp cheddar cheese salsa
+search: black bean chiliquile sides mexican baked casserole olive oil chopped onion chopped tomatoes frozen
+  corn cooked black beans lime juice salt pepper swiss chard or spinach crushed tortilla chips sharp cheddar
+  cheese salsa
 ---

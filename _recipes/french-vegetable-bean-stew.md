@@ -3,7 +3,6 @@ title: French Vegetable Bean Stew
 slug: french-vegetable-bean-stew
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -118,7 +117,7 @@ nutrition:
   fat_g: 27.1
   carbs_g: 46
 nutrition_confidence: partial
-search: french vegetable bean stew sides french 1990s soup stew olive oil chopped leeks garlic cloves
-  ground fennel salt cubed potatoes undrained canned tomatoes dry white wine carrot cooked whole beans
-  minced fresh tarragon minced fresh parsley soup
+search: french vegetable bean stew sides french soup stew olive oil chopped leeks garlic cloves ground
+  fennel salt cubed potatoes undrained canned tomatoes dry white wine carrot cooked whole beans minced
+  fresh tarragon minced fresh parsley soup
 ---

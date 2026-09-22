@@ -3,7 +3,6 @@ title: Spring Chowder
 slug: spring-chowder
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -123,6 +122,6 @@ nutrition:
   fat_g: 71.7
   carbs_g: 20.6
 nutrition_confidence: partial
-search: spring chowder mains 1990s butter thinly sliced vidalia onion chopped carrot sliced celery chopped
-  ham chopped red potato (10 1/2 oz) can chicken broth flour milk salt pepper chopped sage nutmeg whisk
+search: spring chowder mains butter thinly sliced vidalia onion chopped carrot sliced celery chopped ham
+  chopped red potato (10 1/2 oz) can chicken broth flour milk salt pepper chopped sage nutmeg whisk
 ---

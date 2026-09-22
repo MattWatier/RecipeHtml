@@ -3,7 +3,6 @@ title: Pork, Apple + Cheddar Meatballs
 slug: pork-apple-cheddar-meatballs
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -90,6 +89,6 @@ nutrition:
   fat_g: 26.8
   carbs_g: 45.3
 nutrition_confidence: partial
-search: pork, apple + cheddar meatballs mains 1990s ground pork coarsely breadcrumbs apple onion parsley
-  salt pepper cooking
+search: pork, apple + cheddar meatballs mains ground pork coarsely breadcrumbs apple onion parsley salt
+  pepper cooking
 ---

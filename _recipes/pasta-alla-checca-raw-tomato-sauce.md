@@ -3,7 +3,6 @@ title: Pasta Alla Checca - Raw Tomato Sauce
 slug: pasta-alla-checca-raw-tomato-sauce
 course: condiment
 course_label: Condiments
-era: 1980s
 ingredients:
 - amount: '6'
   unit: large
@@ -93,6 +92,6 @@ nutrition:
   fat_g: 28.6
   carbs_g: 36.6
 nutrition_confidence: partial
-search: pasta alla checca - raw tomato sauce condiments 1980s ripe red tomatoes garlic garlic clove red
-  onions fresh basil salt extra-virgin olive oil pasta water
+search: pasta alla checca - raw tomato sauce condiments ripe red tomatoes garlic garlic clove red onions
+  fresh basil salt extra-virgin olive oil pasta water
 ---

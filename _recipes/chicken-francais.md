@@ -3,7 +3,6 @@ title: Chicken Français
 slug: chicken-francais
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ¾
   unit: cup
@@ -161,8 +160,7 @@ nutrition:
   fat_g: 20.4
   carbs_g: 22.4
 nutrition_confidence: partial
-search: chicken français mains italian 1980s egg substitute parmesan chopped fresh parsley dry white wine
-  (for egg mixture) lemon juice (for egg mixture) salt hot pepper sauce garlic garlic cloves skinless
-  flour olive oil (1 1/2 t. per batch) butter dry white wine (for sauce) lemon juice (for sauce) shallow
-  chicken
+search: chicken français mains italian egg substitute parmesan chopped fresh parsley dry white wine (for
+  egg mixture) lemon juice (for egg mixture) salt hot pepper sauce garlic garlic cloves skinless flour
+  olive oil (1 1/2 t. per batch) butter dry white wine (for sauce) lemon juice (for sauce) shallow chicken
 ---

@@ -3,7 +3,6 @@ title: Scallops, Peppers, & Pasta
 slug: scallops-peppers-pasta
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ½
   unit: lb
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 4.5
   carbs_g: 8.1
 nutrition_confidence: partial
-search: scallops, peppers, & pasta mains 1980s pasta spirals or rounds sea scallops fish stock onion red
-  pepper green pepper fresh mushrooms tomato sauce fennel seed fish stock (additional)
+search: scallops, peppers, & pasta mains pasta spirals or rounds sea scallops fish stock onion red pepper
+  green pepper fresh mushrooms tomato sauce fennel seed fish stock (additional)
 ---

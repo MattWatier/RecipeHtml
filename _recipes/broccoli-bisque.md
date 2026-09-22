@@ -3,7 +3,6 @@ title: Broccoli Bisque
 slug: broccoli-bisque
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ½
   unit: ''
@@ -83,5 +82,5 @@ nutrition:
   fat_g: 30.1
   carbs_g: 29
 nutrition_confidence: partial
-search: broccoli bisque sides 1990s onion carrot chicken stock oil flour food roux
+search: broccoli bisque sides onion carrot chicken stock oil flour food roux
 ---

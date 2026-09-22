@@ -3,7 +3,6 @@ title: Crunchy Bean Skillet
 slug: crunchy-bean-skillet
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: cup
@@ -93,7 +92,7 @@ nutrition:
   fat_g: 32.8
   carbs_g: 137.6
 nutrition_confidence: estimated
-search: crunchy bean skillet sides 1990s celery green onions fresh parsley (or 1 teaspoon dried) fresh
-  basil (or 1 teaspoon dried) fresh oregano (or 1 teaspoon dried) (15 or 16 oz.) cannellini beans (14
-  oz.) spaghetti sauce mozzarella walnuts
+search: crunchy bean skillet sides celery green onions fresh parsley (or 1 teaspoon dried) fresh basil
+  (or 1 teaspoon dried) fresh oregano (or 1 teaspoon dried) (15 or 16 oz.) cannellini beans (14 oz.) spaghetti
+  sauce mozzarella walnuts
 ---

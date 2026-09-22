@@ -3,7 +3,6 @@ title: Baked Pancakes
 slug: baked-pancakes
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: '3'
   unit: ''
@@ -95,5 +94,5 @@ nutrition:
   fat_g: 8.5
   carbs_g: 20
 nutrition_confidence: estimated
-search: baked pancakes breakfast 1995s baked eggs milk flour salt unsalted butter
+search: baked pancakes breakfast baked eggs milk flour salt unsalted butter
 ---

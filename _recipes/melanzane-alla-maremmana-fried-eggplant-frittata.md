@@ -3,7 +3,6 @@ title: Melanzane alla Maremmana (Fried Eggplant Frittata)
 slug: melanzane-alla-maremmana-fried-eggplant-frittata
 course: breakfast
 course_label: Breakfast
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -96,6 +95,6 @@ nutrition:
   fat_g: 30.8
   carbs_g: 17
 nutrition_confidence: partial
-search: melanzane alla maremmana (fried eggplant frittata) breakfast 1980s baked small eggplant olive
-  oil eggs plum tomatoes mixing omelet
+search: melanzane alla maremmana (fried eggplant frittata) breakfast baked small eggplant olive oil eggs
+  plum tomatoes mixing omelet
 ---

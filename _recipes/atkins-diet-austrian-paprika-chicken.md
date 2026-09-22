@@ -3,7 +3,6 @@ title: Atkins Diet Austrian Paprika Chicken
 slug: atkins-diet-austrian-paprika-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -106,6 +105,6 @@ nutrition:
   fat_g: 16
   carbs_g: 6.8
 nutrition_confidence: partial
-search: atkins diet austrian paprika chicken mains 1990s baked casserole butter vegetable oil chicken
-  onions garlic paprika chicken stock sour cream
+search: atkins diet austrian paprika chicken mains baked casserole butter vegetable oil chicken onions
+  garlic paprika chicken stock sour cream
 ---

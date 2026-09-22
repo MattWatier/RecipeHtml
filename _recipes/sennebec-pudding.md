@@ -3,7 +3,6 @@ title: Sennebec Pudding
 slug: sennebec-pudding
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -100,6 +99,6 @@ nutrition:
   fat_g: 34.8
   carbs_g: 110
 nutrition_confidence: estimated
-search: sennebec pudding desserts 1990s baked casserole blueberries rhubarb tapioca sugar sugar (topping)
-  flour oatmeal wheat germ walnuts butter
+search: sennebec pudding desserts baked casserole blueberries rhubarb tapioca sugar sugar (topping) flour
+  oatmeal wheat germ walnuts butter
 ---

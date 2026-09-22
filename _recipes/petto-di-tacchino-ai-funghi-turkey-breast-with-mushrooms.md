@@ -3,7 +3,6 @@ title: Petto di Tacchino ai Funghi - Turkey Breast with Mushrooms
 slug: petto-di-tacchino-ai-funghi-turkey-breast-with-mushrooms
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -149,7 +148,7 @@ nutrition:
   fat_g: 21.8
   carbs_g: 41.3
 nutrition_confidence: partial
-search: petto di tacchino ai funghi - turkey breast with mushrooms mains 1980s baked fresh sage rosemary
-  garlic garlic cloves turkey breast pancetta piece caul fat olive oil dried porcini mushrooms dry white
-  wine flat cylinder roasting
+search: petto di tacchino ai funghi - turkey breast with mushrooms mains baked fresh sage rosemary garlic
+  garlic cloves turkey breast pancetta piece caul fat olive oil dried porcini mushrooms dry white wine
+  flat cylinder roasting
 ---

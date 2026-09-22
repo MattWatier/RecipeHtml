@@ -3,7 +3,6 @@ title: Oat Pan Rolls
 slug: oat-pan-rolls
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -122,6 +121,6 @@ nutrition:
   fat_g: 28.2
   carbs_g: 74.1
 nutrition_confidence: partial
-search: oat pan rolls sides 1990s baked quick-cooking oats butter salt boiling water yeast warm water
-  soft flour (start with 2 c greased
+search: oat pan rolls sides baked quick-cooking oats butter salt boiling water yeast warm water soft flour
+  (start with 2 c greased
 ---

@@ -3,7 +3,6 @@ title: Fennel-Crusted Pork Tenderloin
 slug: fennel-crusted-pork-tenderloin
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -103,6 +102,6 @@ nutrition:
   fat_g: 9
   carbs_g: 7.2
 nutrition_confidence: partial
-search: fennel-crusted pork tenderloin mains 1990s fennel seeds coriander seeds chicken broth worcestershire
+search: fennel-crusted pork tenderloin mains fennel seeds coriander seeds chicken broth worcestershire
   bottled salt black pepper pork tenderloin olive oil food
 ---

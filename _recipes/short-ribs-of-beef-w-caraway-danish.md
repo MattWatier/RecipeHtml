@@ -3,7 +3,6 @@ title: Short Ribs of Beef w/ Caraway - Danish
 slug: short-ribs-of-beef-w-caraway-danish
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -102,6 +101,6 @@ nutrition:
   fat_g: 75.6
   carbs_g: 6.6
 nutrition_confidence: partial
-search: short ribs of beef w/ caraway - danish mains 1980s butter oil short ribs of beef onion caraway
-  seeds thyme bay leaf beef stock
+search: short ribs of beef w/ caraway - danish mains butter oil short ribs of beef onion caraway seeds
+  thyme bay leaf beef stock
 ---

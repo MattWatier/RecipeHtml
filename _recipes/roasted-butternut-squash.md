@@ -3,7 +3,6 @@ title: Roasted Butternut Squash
 slug: roasted-butternut-squash
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '4'
   unit: cup
@@ -82,5 +81,5 @@ nutrition:
   fat_g: 1.1
   carbs_g: 26.8
 nutrition_confidence: partial
-search: roasted butternut squash sides 1990s baked diced butternut squash salt cinnamon nutmeg single
+search: roasted butternut squash sides baked diced butternut squash salt cinnamon nutmeg single
 ---

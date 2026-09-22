@@ -3,7 +3,6 @@ title: Roast Chicken - Great Britain
 slug: roast-chicken-great-britain
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: medium
@@ -51,5 +50,5 @@ total_time: 1 hr 30 min
 total_iso: PT1H30M
 tags:
 - baked
-search: roast chicken - great britain mains 1980s baked chicken rashes of bacon roasting
+search: roast chicken - great britain mains baked chicken rashes of bacon roasting
 ---

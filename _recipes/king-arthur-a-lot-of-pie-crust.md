@@ -3,7 +3,6 @@ title: King Arthur A Lot of Pie Crust
 slug: king-arthur-a-lot-of-pie-crust
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '4'
   unit: cup
@@ -90,5 +89,5 @@ nutrition:
   fat_g: 101.6
   carbs_g: 106.5
 nutrition_confidence: estimated
-search: king arthur a lot of pie crust desserts 1990s flour salt butter egg vinegar ice water
+search: king arthur a lot of pie crust desserts flour salt butter egg vinegar ice water
 ---

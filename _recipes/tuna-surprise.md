@@ -3,7 +3,6 @@ title: Tuna Surprise
 slug: tuna-surprise
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '4'
   unit: tbsp
@@ -112,6 +111,6 @@ nutrition:
   fat_g: 53.4
   carbs_g: 37
 nutrition_confidence: partial
-search: tuna surprise mains 1990s baked butter eggs milk flour regular salt seasoned salt baking powder
-  chopped spinach monterey jack (6 oz) can tuna
+search: tuna surprise mains baked butter eggs milk flour regular salt seasoned salt baking powder chopped
+  spinach monterey jack (6 oz) can tuna
 ---

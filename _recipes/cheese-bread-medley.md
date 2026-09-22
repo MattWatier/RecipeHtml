@@ -3,7 +3,6 @@ title: Cheese & Bread Medley
 slug: cheese-bread-medley
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -133,6 +132,6 @@ nutrition_confidence: partial
 related:
 - title: Cheese + Bread Pudding
   slug: cheese-bread-pudding
-search: cheese & bread medley sides italian 1990s baked bread casserole butter onion garlic eggs milk
-  dry white wine whole grain bread grated cheese parmesan dijon mustard paprika oiled
+search: cheese & bread medley sides italian baked bread casserole butter onion garlic eggs milk dry white
+  wine whole grain bread grated cheese parmesan dijon mustard paprika oiled
 ---

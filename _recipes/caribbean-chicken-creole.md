@@ -3,7 +3,6 @@ title: Caribbean Chicken Creole
 slug: caribbean-chicken-creole
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: medium
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 3.6
   carbs_g: 8.5
 nutrition_confidence: partial
-search: caribbean chicken creole mains cajun 1990s chicken paprika salt olive oil green pepper celery
-  onion water tomatoes dried tarragon
+search: caribbean chicken creole mains cajun chicken paprika salt olive oil green pepper celery onion
+  water tomatoes dried tarragon
 ---

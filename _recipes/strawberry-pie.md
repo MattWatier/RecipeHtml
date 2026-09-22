@@ -3,7 +3,6 @@ title: Strawberry Pie
 slug: strawberry-pie
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '3'
   unit: ''
@@ -97,6 +96,6 @@ nutrition_confidence: partial
 related:
 - title: Strawberry Bread
   slug: strawberry-bread
-search: strawberry pie desserts 1990s squares (1 ounce each) semisweet chocolate butter pastry shell packages
+search: strawberry pie desserts squares (1 ounce each) semisweet chocolate butter pastry shell packages
   (3 ounces each) cream cheese sour cream sugar vanilla to 4 cups fresh strawberries strawberry jam
 ---

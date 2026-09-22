@@ -3,7 +3,6 @@ title: Cheeseburger Pie
 slug: cheeseburger-pie
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: ¾
   unit: lb
@@ -143,7 +142,7 @@ nutrition:
   fat_g: 28.8
   carbs_g: 34.4
 nutrition_confidence: partial
-search: cheeseburger pie mains 1995s baked ground beef chopped onions green pepper bread crumbs tomato
-  sauce oregano salt (filling) (9 in.) unbaked pie shell egg salt (cheese topping) milk mustard worcester
-  sauce grated cheese
+search: cheeseburger pie mains baked ground beef chopped onions green pepper bread crumbs tomato sauce
+  oregano salt (filling) (9 in.) unbaked pie shell egg salt (cheese topping) milk mustard worcester sauce
+  grated cheese
 ---

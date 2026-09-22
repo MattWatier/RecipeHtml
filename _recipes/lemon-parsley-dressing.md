@@ -3,7 +3,6 @@ title: Lemon-Parsley Dressing
 slug: lemon-parsley-dressing
 course: condiment
 course_label: Condiments
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -53,5 +52,5 @@ nutrition:
   fat_g: 7.2
   carbs_g: 2.6
 nutrition_confidence: estimated
-search: lemon-parsley dressing condiments 1990s oil lemon juice parsley salt chopped green pepper
+search: lemon-parsley dressing condiments oil lemon juice parsley salt chopped green pepper
 ---

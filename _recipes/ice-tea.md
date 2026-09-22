@@ -3,7 +3,6 @@ title: Ice Tea
 slug: ice-tea
 course: drink
 course_label: Drinks
-era: 1995s
 ingredients:
 - amount: '2'
   unit: qt
@@ -86,5 +85,5 @@ nutrition:
   fat_g: 0.9
   carbs_g: 108.7
 nutrition_confidence: partial
-search: ice tea drinks 1995s (8 c.) water teabags sugar lemons limes mint ice
+search: ice tea drinks (8 c.) water teabags sugar lemons limes mint ice
 ---

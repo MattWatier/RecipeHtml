@@ -3,7 +3,6 @@ title: Cream of Tomato Soup
 slug: cream-of-tomato-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 30.5
   carbs_g: 31.9
 nutrition_confidence: partial
-search: cream of tomato soup sides 1990s soup carrot green pepper onion basil oil flour chicken stock
-  tomatoes tablespoon tomato paste ( roux
+search: cream of tomato soup sides soup carrot green pepper onion basil oil flour chicken stock tomatoes
+  tablespoon tomato paste ( roux
 ---

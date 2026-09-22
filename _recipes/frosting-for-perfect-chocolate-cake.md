@@ -3,7 +3,6 @@ title: Frosting for Perfect Chocolate Cake
 slug: frosting-for-perfect-chocolate-cake
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '1'
   unit: ''
@@ -80,6 +79,6 @@ nutrition:
   fat_g: 36.5
   carbs_g: 125.9
 nutrition_confidence: partial
-search: frosting for perfect chocolate cake desserts 1995s (6 oz.) package semi-sweet chocolate morsels
-  half-and-half butter or margarine sifted powdered sugar heavy electric
+search: frosting for perfect chocolate cake desserts (6 oz.) package semi-sweet chocolate morsels half-and-half
+  butter or margarine sifted powdered sugar heavy electric
 ---

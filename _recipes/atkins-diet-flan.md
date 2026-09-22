@@ -3,7 +3,6 @@ title: Atkins Diet Flan
 slug: atkins-diet-flan
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '5'
   unit: ''
@@ -88,6 +87,6 @@ nutrition:
   fat_g: 21.4
   carbs_g: 10
 nutrition_confidence: partial
-search: atkins diet flan desserts 1990s baked eggs heavy cream water sugar substitute capful almond extract
+search: atkins diet flan desserts baked eggs heavy cream water sugar substitute capful almond extract
   flan larger
 ---

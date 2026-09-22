@@ -3,7 +3,6 @@ title: Chicken Breasts Stuffed w/ Spinach & Ricotta
 slug: chicken-breasts-stuffed-w-spinach-ricotta
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: cup
@@ -117,6 +116,6 @@ nutrition:
   fat_g: 5.7
   carbs_g: 3.7
 nutrition_confidence: partial
-search: chicken breasts stuffed w/ spinach & ricotta mains italian 1980s baked ricotta cheese grated parmesan
+search: chicken breasts stuffed w/ spinach & ricotta mains italian baked ricotta cheese grated parmesan
   salt garlic powder black pepper 10-oz package frozen spinach egg skinless dry white wine
 ---

@@ -3,7 +3,6 @@ title: Pork, Mexican Style
 slug: pork-mexican-style
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 1½
   unit: lb
@@ -105,6 +104,6 @@ nutrition:
   fat_g: 21.7
   carbs_g: 7.3
 nutrition_confidence: partial
-search: pork, mexican style mains mexican 1980s bread pork yellow onion green pepper peanut oil garlic
-  ground cumin oregano dry sherry
+search: pork, mexican style mains mexican bread pork yellow onion green pepper peanut oil garlic ground
+  cumin oregano dry sherry
 ---

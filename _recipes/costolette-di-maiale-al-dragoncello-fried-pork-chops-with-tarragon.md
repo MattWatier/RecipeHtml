@@ -3,7 +3,6 @@ title: Costolette di Maiale al Dragoncello (Fried Pork Chops with Tarragon)
 slug: costolette-di-maiale-al-dragoncello-fried-pork-chops-with-tarragon
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '3'
   unit: tbsp
@@ -65,6 +64,6 @@ nutrition:
   fat_g: 11.3
   carbs_g: 6.4
 nutrition_confidence: partial
-search: costolette di maiale al dragoncello (fried pork chops with tarragon) mains 1990s olive oil pork
-  chops dry white wine fresh tarragon
+search: costolette di maiale al dragoncello (fried pork chops with tarragon) mains olive oil pork chops
+  dry white wine fresh tarragon
 ---

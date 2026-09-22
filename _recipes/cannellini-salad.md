@@ -3,7 +3,6 @@ title: Cannellini Salad
 slug: cannellini-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '15'
   unit: oz
@@ -66,6 +65,6 @@ nutrition:
   fat_g: 3.5
   carbs_g: 15.8
 nutrition_confidence: partial
-search: cannellini salad sides 1990s salad can cannellini beans parsley garlic minced fresh rosemary or
-  3 fresh sage leaves niçoise olives
+search: cannellini salad sides salad can cannellini beans parsley garlic minced fresh rosemary or 3 fresh
+  sage leaves niçoise olives
 ---

@@ -3,7 +3,6 @@ title: Stuffed Mushrooms
 slug: stuffed-mushrooms
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '8'
   unit: large
@@ -93,6 +92,6 @@ nutrition:
   fat_g: 8.9
   carbs_g: 6.2
 nutrition_confidence: partial
-search: stuffed mushrooms sides 1990s baked bread mushrooms butter green onion bread crumbs chopped ham
-  or chicken parsley or chives
+search: stuffed mushrooms sides baked bread mushrooms butter green onion bread crumbs chopped ham or chicken
+  parsley or chives
 ---

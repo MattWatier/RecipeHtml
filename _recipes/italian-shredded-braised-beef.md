@@ -3,7 +3,6 @@ title: Italian Shredded Braised Beef
 slug: italian-shredded-braised-beef
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 2½
   unit: lb
@@ -269,7 +268,7 @@ nutrition:
   fat_g: 64.4
   carbs_g: 30.6
 nutrition_confidence: partial
-search: italian shredded braised beef mains italian 1980s baked boneless chuck roast salt black pepper
-  italian sausage olive oil onion carrot mushrooms garlic dry white wine (15 oz) tomato sauce roasted
-  red pepper fennel seed dried basil dried rosemary beef bouillon water or beef stock slotted fork
+search: italian shredded braised beef mains italian baked boneless chuck roast salt black pepper italian
+  sausage olive oil onion carrot mushrooms garlic dry white wine (15 oz) tomato sauce roasted red pepper
+  fennel seed dried basil dried rosemary beef bouillon water or beef stock slotted fork
 ---

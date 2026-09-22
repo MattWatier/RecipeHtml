@@ -3,7 +3,6 @@ title: Sun-dried Tomato + Parmesan Carbonara
 slug: sun-dried-tomato-parmesan-carbonara
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '10'
   unit: ''
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 32
   carbs_g: 120.6
 nutrition_confidence: partial
-search: sun-dried tomato + parmesan carbonara mains italian 1980s sun-dried tomatoes eggs heavy cream
-  whole-grain mustard parmesan fresh basil leaves
+search: sun-dried tomato + parmesan carbonara mains italian sun-dried tomatoes eggs heavy cream whole-grain
+  mustard parmesan fresh basil leaves
 ---

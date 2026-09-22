@@ -3,7 +3,6 @@ title: Portuguese Soup
 slug: portuguese-soup
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ¼
   unit: cup
@@ -168,7 +167,7 @@ nutrition:
   fat_g: 137.5
   carbs_g: 46.3
 nutrition_confidence: partial
-search: portuguese soup mains portuguese 1980s soup stew olive oil chopped onion garlic diced turnip diced
-  cauliflower sliced smoked sausage kale (14 1/2 oz) chicken broth tabasco bony cuts of pork green pepper
-  zucchini cumin dried oregano red pepper flakes soup
+search: portuguese soup mains portuguese soup stew olive oil chopped onion garlic diced turnip diced cauliflower
+  sliced smoked sausage kale (14 1/2 oz) chicken broth tabasco bony cuts of pork green pepper zucchini
+  cumin dried oregano red pepper flakes soup
 ---

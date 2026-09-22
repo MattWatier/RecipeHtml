@@ -3,7 +3,6 @@ title: Tuscan Pork Loin
 slug: tuscan-pork-loin
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tsp
@@ -110,6 +109,6 @@ nutrition:
   fat_g: 9.1
   carbs_g: 3.2
 nutrition_confidence: partial
-search: tuscan pork loin mains 1990s baked kosher salt garlic olive oil fresh rosemary lemon zest dry
-  vermouth or white wine white wine vinegar roasting cutting
+search: tuscan pork loin mains baked kosher salt garlic olive oil fresh rosemary lemon zest dry vermouth
+  or white wine white wine vinegar roasting cutting
 ---

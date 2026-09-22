@@ -3,7 +3,6 @@ title: Lazy Chicken Cordon Bleu
 slug: lazy-chicken-cordon-bleu
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: stick
@@ -100,6 +99,6 @@ nutrition:
   fat_g: 69.9
   carbs_g: 91.5
 nutrition_confidence: partial
-search: lazy chicken cordon bleu mains italian 1990s baked bread butter boneless chicken breasts dry italian
+search: lazy chicken cordon bleu mains italian baked bread butter boneless chicken breasts dry italian
   bread crumbs sliced ham sliced swiss cheese dry white wine (14 1/2 oz) can beef broth (or chicken broth)
 ---

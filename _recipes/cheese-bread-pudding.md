@@ -3,7 +3,6 @@ title: Cheese + Bread Pudding
 slug: cheese-bread-pudding
 course: dessert
 course_label: Desserts
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -145,6 +144,6 @@ nutrition_confidence: partial
 related:
 - title: Cheese & Bread Medley
   slug: cheese-bread-medley
-search: cheese + bread pudding desserts italian 1980s baked casserole butter onion garlic eggs milk dry
-  white wine whole grain bread firmly grated parmesan dijon mustard paprika caraway seeds ( oiled
+search: cheese + bread pudding desserts italian baked casserole butter onion garlic eggs milk dry white
+  wine whole grain bread firmly grated parmesan dijon mustard paprika caraway seeds ( oiled
 ---

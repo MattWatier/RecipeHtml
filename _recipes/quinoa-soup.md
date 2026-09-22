@@ -3,7 +3,6 @@ title: Quinoa Soup
 slug: quinoa-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -117,6 +116,6 @@ nutrition:
   fat_g: 6.8
   carbs_g: 25
 nutrition_confidence: partial
-search: quinoa soup sides 1990s soup oil chopped green onion garlic garlic cloves cumin paprika oregano
-  quinoa water kosher salt peeled floury baking potatoes chopped cabbage or hearty greens minced cilantro
+search: quinoa soup sides soup oil chopped green onion garlic garlic cloves cumin paprika oregano quinoa
+  water kosher salt peeled floury baking potatoes chopped cabbage or hearty greens minced cilantro
 ---

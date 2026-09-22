@@ -3,7 +3,6 @@ title: Chicken Mole w/ Green Beans
 slug: chicken-mole-w-green-beans
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '8'
   unit: ''
@@ -128,6 +127,6 @@ nutrition:
   fat_g: 15
   carbs_g: 20.4
 nutrition_confidence: partial
-search: chicken mole w/ green beans mains 1990s chicken chicken thighs green beans olive oil finely chopped
+search: chicken mole w/ green beans mains chicken chicken thighs green beans olive oil finely chopped
   onion chili powder bottled unsweetened cocoa cinnamon dried thyme sugar salt chicken broth sprayed
 ---

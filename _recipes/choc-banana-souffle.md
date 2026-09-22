@@ -3,7 +3,6 @@ title: Choc-Banana Souffle
 slug: choc-banana-souffle
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '2'
   unit: tsp
@@ -149,6 +148,6 @@ nutrition:
   fat_g: 5.7
   carbs_g: 76.2
 nutrition_confidence: partial
-search: choc-banana souffle sides 1995s baked sugar (for the dish) sugar flour unsweetened cocoa low-fat
-  milk egg yolks banana melted margarine dark rum vanilla egg whites sugar (for the whites) souffl
+search: choc-banana souffle sides baked sugar (for the dish) sugar flour unsweetened cocoa low-fat milk
+  egg yolks banana melted margarine dark rum vanilla egg whites sugar (for the whites) souffl
 ---

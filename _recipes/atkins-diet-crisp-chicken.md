@@ -3,7 +3,6 @@ title: Atkins Diet Crisp Chicken
 slug: atkins-diet-crisp-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -97,6 +96,6 @@ nutrition:
   fat_g: 21
   carbs_g: 1.7
 nutrition_confidence: partial
-search: atkins diet crisp chicken mains 1990s baked (5 lb) chicken olive oil white wine size red onion
-  grated jarlsberg cheese grated sharp cheddar baking
+search: atkins diet crisp chicken mains baked (5 lb) chicken olive oil white wine size red onion grated
+  jarlsberg cheese grated sharp cheddar baking
 ---

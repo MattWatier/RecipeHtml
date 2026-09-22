@@ -3,7 +3,6 @@ title: Veal Roulade
 slug: veal-roulade
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '4'
   unit: ''
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 20.5
   carbs_g: 2.9
 nutrition_confidence: partial
-search: veal roulade mains italian 1990s baked veal cutlets prosciutto ham jarlsberg egg grated parmesan
-  butter dry white wine baking
+search: veal roulade mains italian baked veal cutlets prosciutto ham jarlsberg egg grated parmesan butter
+  dry white wine baking
 ---

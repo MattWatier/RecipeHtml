@@ -3,7 +3,6 @@ title: Bread Salad w/ Cranberries, Spinach, Chicken
 slug: bread-salad-w-cranberries-spinach-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tsp
@@ -187,9 +186,9 @@ nutrition:
   fat_g: 18.5
   carbs_g: 90.8
 nutrition_confidence: partial
-search: bread salad w/ cranberries, spinach, chicken mains french 1990s bread salad ground fennel ground
-  coriander kosher salt (for chicken) ground red pepper skinless olive oil shallots garlic garlic cloves
-  red wine vinegar soaked orange rind orange juice cranberry juice honey thyme black pepper kosher salt
-  (for vinaigrette) loosely cubed french bread dried sweetened cranberries pine nuts thinly sliced shallots
-  (for salad) sliced kalamata olives
+search: bread salad w/ cranberries, spinach, chicken mains french bread salad ground fennel ground coriander
+  kosher salt (for chicken) ground red pepper skinless olive oil shallots garlic garlic cloves red wine
+  vinegar soaked orange rind orange juice cranberry juice honey thyme black pepper kosher salt (for vinaigrette)
+  loosely cubed french bread dried sweetened cranberries pine nuts thinly sliced shallots (for salad)
+  sliced kalamata olives
 ---

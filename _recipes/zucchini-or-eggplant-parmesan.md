@@ -3,7 +3,6 @@ title: Zucchini or Eggplant Parmesan
 slug: zucchini-or-eggplant-parmesan
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '1'
   unit: ''
@@ -132,5 +131,5 @@ tags:
 - bread
 allergens:
 - dairy
-search: zucchini or eggplant parmesan sides italian 1995s baked bread shallow wire layer
+search: zucchini or eggplant parmesan sides italian baked bread shallow wire layer
 ---

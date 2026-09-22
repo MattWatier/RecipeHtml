@@ -3,7 +3,6 @@ title: Atkins Diet Cole Slaw
 slug: atkins-diet-cole-slaw
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: medium
@@ -71,6 +70,6 @@ nutrition:
   fat_g: 12.3
   carbs_g: 1.2
 nutrition_confidence: partial
-search: atkins diet cole slaw sides 1990s cabbage salt lemon juice packet sugar substitute mayonnaise
-  dijon mustard
+search: atkins diet cole slaw sides cabbage salt lemon juice packet sugar substitute mayonnaise dijon
+  mustard
 ---

@@ -3,7 +3,6 @@ title: Coventry Chicken Stew
 slug: coventry-chicken-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -143,6 +142,6 @@ nutrition:
   fat_g: 52.4
   carbs_g: 31.1
 nutrition_confidence: partial
-search: coventry chicken stew mains 1980s soup stew (5 lb) fowl bay leaves peppercorns cloves onion carrot
-  salt thyme turnip potatoes stalks celery green pepper reserved chicken fat flour roux
+search: coventry chicken stew mains soup stew (5 lb) fowl bay leaves peppercorns cloves onion carrot salt
+  thyme turnip potatoes stalks celery green pepper reserved chicken fat flour roux
 ---

@@ -3,7 +3,6 @@ title: Soda Bread
 slug: soda-bread
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '2'
   unit: tsp
@@ -141,6 +140,6 @@ nutrition:
   fat_g: 19.5
   carbs_g: 122.4
 nutrition_confidence: partial
-search: soda bread sides 1995s baked bread baking soda cream of tartar salt all-purpose flour liquid shortening
+search: soda bread sides baked bread baking soda cream of tartar salt all-purpose flour liquid shortening
   buttermilk soft loaf greased baking
 ---

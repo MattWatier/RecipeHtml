@@ -3,7 +3,6 @@ title: Roquefort, Lettuce & Flageolet Bean Salad
 slug: roquefort-lettuce-flageolet-bean-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -79,7 +78,7 @@ nutrition:
   fat_g: 34.6
   carbs_g: 13.1
 nutrition_confidence: partial
-search: roquefort, lettuce & flageolet bean salad sides 1990s salad extra virgin olive oil white wine
-  vinegar red or green leaf lettuce 15-oz can flageolet beans or small white beans (4 oz) roquefort cheese
-  fresh mint leaves honey
+search: roquefort, lettuce & flageolet bean salad sides salad extra virgin olive oil white wine vinegar
+  red or green leaf lettuce 15-oz can flageolet beans or small white beans (4 oz) roquefort cheese fresh
+  mint leaves honey
 ---

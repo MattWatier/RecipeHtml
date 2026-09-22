@@ -3,7 +3,6 @@ title: Beet Greens with Garlic & Olive Oil
 slug: beet-greens-with-garlic-olive-oil
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 1½
   unit: lb
@@ -76,6 +75,6 @@ nutrition:
   fat_g: 10.8
   carbs_g: 5.9
 nutrition_confidence: partial
-search: beet greens with garlic & olive oil sides 1990s beet or turnip greens olive oil garlic clove lemon
-  juice stock
+search: beet greens with garlic & olive oil sides beet or turnip greens olive oil garlic clove lemon juice
+  stock
 ---

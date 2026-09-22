@@ -3,7 +3,6 @@ title: Steak with Madeira-Onion Sauce
 slug: steak-with-madeira-onion-sauce
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '16'
   unit: oz
@@ -139,6 +138,6 @@ nutrition:
   fat_g: 36.1
   carbs_g: 11.5
 nutrition_confidence: partial
-search: steak with madeira-onion sauce mains 1980s steak salt black pepper butter or neutral oil onion
-  madeira dry red wine paprika cold butter
+search: steak with madeira-onion sauce mains steak salt black pepper butter or neutral oil onion madeira
+  dry red wine paprika cold butter
 ---

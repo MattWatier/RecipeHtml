@@ -3,7 +3,6 @@ title: Chicken & Vegetable Tagine
 slug: chicken-vegetable-tagine
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -179,7 +178,7 @@ nutrition:
   fat_g: 19.1
   carbs_g: 21.8
 nutrition_confidence: partial
-search: chicken & vegetable tagine mains 1980s baked stew olive oil slivered onions cloves garlic sweet
-  hungarian paprika kosher salt turmeric ground coriander fennel seeds ground cumin ground ginger drained
-  water lemon juice chicken chicken legs eggplant slivered almonds parsley baking
+search: chicken & vegetable tagine mains baked stew olive oil slivered onions cloves garlic sweet hungarian
+  paprika kosher salt turmeric ground coriander fennel seeds ground cumin ground ginger drained water
+  lemon juice chicken chicken legs eggplant slivered almonds parsley baking
 ---

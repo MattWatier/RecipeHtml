@@ -3,7 +3,6 @@ title: Onions Sautéed w/ Peppers
 slug: onions-sauteed-w-peppers
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 3½
   unit: ''
@@ -99,6 +98,6 @@ nutrition:
   fat_g: 5
   carbs_g: 9.8
 nutrition_confidence: partial
-search: onions sautéed w/ peppers sides italian 1990s baked casserole yellow onions garlic olive oil green
-  peppers red bell peppers tomato paste red wine oregano
+search: onions sautéed w/ peppers sides italian baked casserole yellow onions garlic olive oil green peppers
+  red bell peppers tomato paste red wine oregano
 ---

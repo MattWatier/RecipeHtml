@@ -3,7 +3,6 @@ title: Golden Winter Soup
 slug: golden-winter-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -123,6 +122,6 @@ nutrition:
   fat_g: 36.4
   carbs_g: 47
 nutrition_confidence: partial
-search: golden winter soup sides 1990s bread soup butter cubed cubed russet potato (12 oz) kosher salt
-  black pepper sliced leek (2 medium) chicken broth half-and-half baguette shredded gruyère
+search: golden winter soup sides bread soup butter cubed cubed russet potato (12 oz) kosher salt black
+  pepper sliced leek (2 medium) chicken broth half-and-half baguette shredded gruyère
 ---

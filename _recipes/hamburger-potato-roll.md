@@ -3,7 +3,6 @@ title: Hamburger Potato Roll
 slug: hamburger-potato-roll
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -171,7 +170,7 @@ nutrition:
   fat_g: 21
   carbs_g: 22.7
 nutrition_confidence: partial
-search: hamburger potato roll mains 1990s baked bread drippings onion garlic clove ground beef egg bread
-  salt oregano dry bread crumbs seasoned mashed potato parsley or green pepper strips bacon (optional)
-  mixing piece rectangle double shallow
+search: hamburger potato roll mains baked bread drippings onion garlic clove ground beef egg bread salt
+  oregano dry bread crumbs seasoned mashed potato parsley or green pepper strips bacon (optional) mixing
+  piece rectangle double shallow
 ---

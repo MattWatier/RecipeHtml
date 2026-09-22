@@ -3,7 +3,6 @@ title: Feijoada - Brazilian
 slug: feijoada-brazilian
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -122,6 +121,6 @@ nutrition:
   fat_g: 11.2
   carbs_g: 64.8
 nutrition_confidence: partial
-search: feijoada - brazilian mains 1990s chopped onion garlic minced celery red water fresh cilantro dried
-  thyme ground fennel ground coriander cooked black beans chopped collards or kale water (for greens)
+search: feijoada - brazilian mains chopped onion garlic minced celery red water fresh cilantro dried thyme
+  ground fennel ground coriander cooked black beans chopped collards or kale water (for greens)
 ---

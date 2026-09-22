@@ -3,7 +3,6 @@ title: Italian Baked Chicken
 slug: italian-baked-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: cup
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 38.8
   carbs_g: 48
 nutrition_confidence: partial
-search: italian baked chicken mains italian 1980s baked bread dry italian bread crumbs grated parmesan
-  eggs olive oil fryer
+search: italian baked chicken mains italian baked bread dry italian bread crumbs grated parmesan eggs
+  olive oil fryer
 ---

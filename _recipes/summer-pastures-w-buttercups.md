@@ -3,7 +3,6 @@ title: Summer Pastures w/ Buttercups
 slug: summer-pastures-w-buttercups
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '2'
   unit: lb
@@ -120,6 +119,6 @@ nutrition:
   fat_g: 53.5
   carbs_g: 64.1
 nutrition_confidence: partial
-search: summer pastures w/ buttercups sides italian 1995s baked casserole russet potatoes butter ripe
-  tomatoes basil mozzarella cheese hard-boiled eggs chopped parsley salt and pepper parmesan shallow
+search: summer pastures w/ buttercups sides italian baked casserole russet potatoes butter ripe tomatoes
+  basil mozzarella cheese hard-boiled eggs chopped parsley salt and pepper parmesan shallow
 ---

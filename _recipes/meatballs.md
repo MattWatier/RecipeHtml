@@ -3,7 +3,6 @@ title: Meatballs
 slug: meatballs
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: lb
@@ -94,6 +93,6 @@ nutrition:
   fat_g: 22.7
   carbs_g: 33.2
 nutrition_confidence: partial
-search: meatballs mains 1995s bread ground beef soft white bread crumbs water milk yellow onion worcestershire
+search: meatballs mains bread ground beef soft white bread crumbs water milk yellow onion worcestershire
   sauce salt pepper cooking oil time
 ---

@@ -3,7 +3,6 @@ title: Crunchey Chicken
 slug: crunchey-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -117,6 +116,6 @@ nutrition:
   fat_g: 14.3
   carbs_g: 3
 nutrition_confidence: partial
-search: crunchey chicken mains 1980s baked (8 oz) container sour cream lemon juice worcestershire sauce
-  paprika celery salt boneless chicken breasts pkg. herb seasoned stuffing (2 c.) butter greased
+search: crunchey chicken mains baked (8 oz) container sour cream lemon juice worcestershire sauce paprika
+  celery salt boneless chicken breasts pkg. herb seasoned stuffing (2 c.) butter greased
 ---

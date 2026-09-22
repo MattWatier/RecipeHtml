@@ -3,7 +3,6 @@ title: Pasta + Grain Pilaf
 slug: pasta-grain-pilaf
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '3'
   unit: tbsp
@@ -119,6 +118,6 @@ nutrition:
   fat_g: 14.5
   carbs_g: 33.6
 nutrition_confidence: partial
-search: pasta + grain pilaf sides 1990s baked casserole butter onion red pepper celery shallot long-grain
-  rice bulgur orzo chicken stock salt tight
+search: pasta + grain pilaf sides baked casserole butter onion red pepper celery shallot long-grain rice
+  bulgur orzo chicken stock salt tight
 ---

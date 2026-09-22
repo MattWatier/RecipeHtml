@@ -3,7 +3,6 @@ title: Chicken Ghivetch
 slug: chicken-ghivetch
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '6'
   unit: ''
@@ -108,6 +107,6 @@ nutrition:
   fat_g: 15.3
   carbs_g: 17.6
 nutrition_confidence: partial
-search: chicken ghivetch mains 1995s baked casserole chicken chicken thighs cauliflower potatoes carrots
-  eggplant onions red or green pepper ribs celery salt can tomatoes garlic chicken broth dried dill
+search: chicken ghivetch mains baked casserole chicken chicken thighs cauliflower potatoes carrots eggplant
+  onions red or green pepper ribs celery salt can tomatoes garlic chicken broth dried dill
 ---

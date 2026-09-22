@@ -3,7 +3,6 @@ title: Cloud Biscuits
 slug: cloud-biscuits
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: '2'
   unit: cup
@@ -109,6 +108,5 @@ nutrition:
   fat_g: 31.5
   carbs_g: 60
 nutrition_confidence: partial
-search: cloud biscuits breakfast 1995s baked flour sugar baking powder salt shortening egg milk dough
-  ungreased
+search: cloud biscuits breakfast baked flour sugar baking powder salt shortening egg milk dough ungreased
 ---

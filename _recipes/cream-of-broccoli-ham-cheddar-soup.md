@@ -3,7 +3,6 @@ title: Cream of Broccoli, Ham, + Cheddar Soup
 slug: cream-of-broccoli-ham-cheddar-soup
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -130,7 +129,7 @@ nutrition:
   fat_g: 25.6
   carbs_g: 17.5
 nutrition_confidence: partial
-search: cream of broccoli, ham, + cheddar soup mains 1990s soup olive oil chopped green onion garlic garlic
+search: cream of broccoli, ham, + cheddar soup mains soup olive oil chopped green onion garlic garlic
   cloves dried thyme (14 oz) cans chicken broth water fresh broccoli florets heavy cream diced ham (cut
   into 1/4-inch dice) shredded cheddar cheese food
 ---

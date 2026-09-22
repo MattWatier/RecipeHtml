@@ -3,7 +3,6 @@ title: Poulet Sauté Chasseur
 slug: poulet-saute-chasseur
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -132,6 +131,6 @@ nutrition:
   fat_g: 29.5
   carbs_g: 14.2
 nutrition_confidence: partial
-search: poulet sauté chasseur mains 1980s butter oil sliced mushrooms green onions chopped tomatoes (or
-  1 15-oz can) garlic salt basil white wine frypan
+search: poulet sauté chasseur mains butter oil sliced mushrooms green onions chopped tomatoes (or 1 15-oz
+  can) garlic salt basil white wine frypan
 ---

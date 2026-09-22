@@ -3,7 +3,6 @@ title: Zucchini Gratin
 slug: zucchini-gratin
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -131,7 +130,7 @@ related:
   slug: zucchini-ragout
 - title: Zucchini Ragout
   slug: zucchini-ragout
-search: zucchini gratin sides italian 1980s baked butter (for sautéing) zucchini dried tarragon parmesan
-  cheese (first layer) parmesan cheese (second layer) milk whipping cream eggs parmesan cheese (to sprinkle
-  on top)
+search: zucchini gratin sides italian baked butter (for sautéing) zucchini dried tarragon parmesan cheese
+  (first layer) parmesan cheese (second layer) milk whipping cream eggs parmesan cheese (to sprinkle on
+  top)
 ---

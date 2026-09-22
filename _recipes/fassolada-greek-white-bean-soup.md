@@ -3,7 +3,6 @@ title: Fassolada - Greek White Bean Soup
 slug: fassolada-greek-white-bean-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 1½
   unit: cup
@@ -105,6 +104,6 @@ nutrition:
   fat_g: 136.3
   carbs_g: 407.2
 nutrition_confidence: partial
-search: fassolada - greek white bean soup sides greek 1990s soup large white beans cool water extra-virgin
-  olive oil onions carrots celery ribs green bell peppers tomato purée soup
+search: fassolada - greek white bean soup sides greek soup large white beans cool water extra-virgin olive
+  oil onions carrots celery ribs green bell peppers tomato purée soup
 ---

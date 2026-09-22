@@ -3,7 +3,6 @@ title: 60 Minute Rolls
 slug: 60-minute-rolls
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 3½
   unit: cup
@@ -143,5 +142,5 @@ nutrition:
   fat_g: 24.3
   carbs_g: 147
 nutrition_confidence: partial
-search: 60 minute rolls sides 1990s baked flour sugar salt yeast milk water butter time greased warm
+search: 60 minute rolls sides baked flour sugar salt yeast milk water butter time greased warm
 ---

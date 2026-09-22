@@ -3,7 +3,6 @@ title: Hungarian Stew
 slug: hungarian-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -133,7 +132,7 @@ nutrition_confidence: partial
 related:
 - title: Hungarian Pork Stew
   slug: hungarian-pork-stew
-search: hungarian stew mains cajun 1980s stew london broil cubed and browned garlic onions coriander paprika
+search: hungarian stew mains cajun stew london broil cubed and browned garlic onions coriander paprika
   hot cajun salt black pepper tomatoes - cubed carrots green pepper - cubed potatoes - cubed red wine
   square of unsweetened chocolate
 ---

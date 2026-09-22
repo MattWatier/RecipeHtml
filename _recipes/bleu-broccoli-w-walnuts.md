@@ -3,7 +3,6 @@ title: Bleu Broccoli w/ Walnuts
 slug: bleu-broccoli-w-walnuts
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 1½
   unit: lb
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 40.7
   carbs_g: 41.3
 nutrition_confidence: partial
-search: bleu broccoli w/ walnuts sides 1990s broccoli creamy bleu cheese heavy or whipping cream unsalted
-  butter clove garlic roughly chopped walnuts freshly ground black pepper
+search: bleu broccoli w/ walnuts sides broccoli creamy bleu cheese heavy or whipping cream unsalted butter
+  clove garlic roughly chopped walnuts freshly ground black pepper
 ---

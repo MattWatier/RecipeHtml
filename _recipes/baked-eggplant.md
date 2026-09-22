@@ -3,7 +3,6 @@ title: Baked Eggplant
 slug: baked-eggplant
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -74,6 +73,5 @@ nutrition:
   fat_g: 6
   carbs_g: 9.6
 nutrition_confidence: partial
-search: baked eggplant sides 1980s baked eggplant onions tomatoes basil leaves or oregano grated cheese
-  baking
+search: baked eggplant sides baked eggplant onions tomatoes basil leaves or oregano grated cheese baking
 ---

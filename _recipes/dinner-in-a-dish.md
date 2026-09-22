@@ -3,7 +3,6 @@ title: Dinner-in-a-Dish
 slug: dinner-in-a-dish
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '2'
   unit: tsp
@@ -121,6 +120,6 @@ nutrition:
   fat_g: 8.4
   carbs_g: 46.3
 nutrition_confidence: partial
-search: dinner-in-a-dish mains 1995s baked bread casserole bell peppers onion salt hamburger eggs kernel
-  corn med. tomatoes bread crumbs layer
+search: dinner-in-a-dish mains baked bread casserole bell peppers onion salt hamburger eggs kernel corn
+  med. tomatoes bread crumbs layer
 ---

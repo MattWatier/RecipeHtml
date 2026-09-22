@@ -3,7 +3,6 @@ title: Beef Gulyas
 slug: beef-gulyas
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '2'
   unit: lb
@@ -97,5 +96,5 @@ nutrition_confidence: partial
 related:
 - title: Rinds gulyas
   slug: rinds-gulyas
-search: beef gulyas mains 1995s onions paprika cubed beef or 3 t. water tomato purée salt vinegar marjoram
+search: beef gulyas mains onions paprika cubed beef or 3 t. water tomato purée salt vinegar marjoram
 ---

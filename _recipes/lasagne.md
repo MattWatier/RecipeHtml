@@ -3,7 +3,6 @@ title: Lasagne
 slug: lasagne
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: can
@@ -87,5 +86,5 @@ nutrition:
   fat_g: 24.2
   carbs_g: 23.4
 nutrition_confidence: estimated
-search: lasagne mains italian 1995s baked tomato sauce ricotta eggs shredded mozzarella grated parmesan
+search: lasagne mains italian baked tomato sauce ricotta eggs shredded mozzarella grated parmesan
 ---

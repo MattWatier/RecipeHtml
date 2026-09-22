@@ -3,7 +3,6 @@ title: Moody's Taco Soup
 slug: moody-s-taco-soup
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -103,7 +102,7 @@ nutrition:
   fat_g: 41.4
   carbs_g: 33
 nutrition_confidence: partial
-search: moody's taco soup mains mexican 1990s salad soup ground beef onion (16 oz) cans mexican-style
-  chili beans (16 oz) can whole kernel corn (14 oz) can (15 oz) can tomato sauce water (4 oz) can taco
-  seasoning mix ranch-style salad dressing mix
+search: moody's taco soup mains mexican salad soup ground beef onion (16 oz) cans mexican-style chili
+  beans (16 oz) can whole kernel corn (14 oz) can (15 oz) can tomato sauce water (4 oz) can taco seasoning
+  mix ranch-style salad dressing mix
 ---

@@ -3,7 +3,6 @@ title: Chicken Cacciatore - Atkins Diet
 slug: chicken-cacciatore-atkins-diet
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: slice
@@ -139,7 +138,6 @@ nutrition:
   fat_g: 7.6
   carbs_g: 3.2
 nutrition_confidence: partial
-search: chicken cacciatore - atkins diet mains 1990s bacon / lardons olive oil chicken chicken pieces
-  butter chopped onion shiitake mushroom garlic bay leaf pepper basil tomato sauce brandy (just before
-  serving)
+search: chicken cacciatore - atkins diet mains bacon / lardons olive oil chicken chicken pieces butter
+  chopped onion shiitake mushroom garlic bay leaf pepper basil tomato sauce brandy (just before serving)
 ---

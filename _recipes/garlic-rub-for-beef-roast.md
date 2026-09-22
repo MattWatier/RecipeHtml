@@ -3,7 +3,6 @@ title: Garlic Rub for Beef Roast
 slug: garlic-rub-for-beef-roast
 course: condiment
 course_label: Condiments
-era: 1980s
 ingredients:
 - amount: '4'
   unit: large
@@ -82,6 +81,6 @@ nutrition:
   fat_g: 2.5
   carbs_g: 4.1
 nutrition_confidence: partial
-search: garlic rub for beef roast condiments 1980s garlic cloves salt pepper fresh rosemary thyme dijon
-  mustard spoon
+search: garlic rub for beef roast condiments garlic cloves salt pepper fresh rosemary thyme dijon mustard
+  spoon
 ---

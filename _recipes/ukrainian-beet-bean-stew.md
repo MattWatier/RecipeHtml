@@ -3,7 +3,6 @@ title: Ukrainian Beet + Bean Stew
 slug: ukrainian-beet-bean-stew
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -144,7 +143,7 @@ nutrition:
   fat_g: 25.6
   carbs_g: 33.3
 nutrition_confidence: partial
-search: ukrainian beet + bean stew sides 1990s stew vegetable oil sliced onion chopped celery water sliced
-  cabbage sliced carrots chopped potatoes peeled undrained tomatoes caraway seeds white or cider vinegar
-  salt cooked kidney beans dried dill dollop
+search: ukrainian beet + bean stew sides stew vegetable oil sliced onion chopped celery water sliced cabbage
+  sliced carrots chopped potatoes peeled undrained tomatoes caraway seeds white or cider vinegar salt
+  cooked kidney beans dried dill dollop
 ---

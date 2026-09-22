@@ -3,7 +3,6 @@ title: Strawberry Bread
 slug: strawberry-bread
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -127,6 +126,6 @@ nutrition_confidence: partial
 related:
 - title: Strawberry Pie
   slug: strawberry-pie
-search: strawberry bread sides 1995s baked bread butter sugar vanilla salt lemon juice eggs sour cream
-  baking soda flour walnuts strawberry preserves time tester
+search: strawberry bread sides baked bread butter sugar vanilla salt lemon juice eggs sour cream baking
+  soda flour walnuts strawberry preserves time tester
 ---

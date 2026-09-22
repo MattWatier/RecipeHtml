@@ -3,7 +3,6 @@ title: Baked Pork Chops with Creole Sauce
 slug: baked-pork-chops-with-creole-sauce
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tsp
@@ -88,6 +87,6 @@ nutrition:
   fat_g: 2.1
   carbs_g: 4.2
 nutrition_confidence: partial
-search: baked pork chops with creole sauce mains cajun 1980s baked casserole oil green pepper chopped
-  onion canned tomatoes bay leaf pork chops fry
+search: baked pork chops with creole sauce mains cajun baked casserole oil green pepper chopped onion
+  canned tomatoes bay leaf pork chops fry
 ---

@@ -3,7 +3,6 @@ title: Sesame Chicken
 slug: sesame-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients: []
 steps:
 - title: Bread the chicken
@@ -35,5 +34,5 @@ tags:
 - bread
 allergens:
 - sesame
-search: sesame chicken mains chinese 1980s bread
+search: sesame chicken mains chinese bread
 ---

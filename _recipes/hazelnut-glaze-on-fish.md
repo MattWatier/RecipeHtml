@@ -3,7 +3,6 @@ title: Hazelnut Glaze on Fish
 slug: hazelnut-glaze-on-fish
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ½
   unit: cup
@@ -76,5 +75,5 @@ nutrition:
   fat_g: 34.8
   carbs_g: 6.3
 nutrition_confidence: partial
-search: hazelnut glaze on fish mains 1980s hazelnuts oil balsamic vinegar pie paper
+search: hazelnut glaze on fish mains hazelnuts oil balsamic vinegar pie paper
 ---

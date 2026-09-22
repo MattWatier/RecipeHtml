@@ -3,7 +3,6 @@ title: Eggplant w/ Cheese + Walnuts
 slug: eggplant-w-cheese-walnuts
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: 2¼
   unit: lb
@@ -146,6 +145,6 @@ nutrition:
   fat_g: 83.2
   carbs_g: 24.7
 nutrition_confidence: partial
-search: eggplant w/ cheese + walnuts sides 1980s baked casserole eggplant garlic olive oil red onions
-  peeled plum tomatoes dry white wine salt walnut pieces fontina cheese mozzarella cheese shallow
+search: eggplant w/ cheese + walnuts sides baked casserole eggplant garlic olive oil red onions peeled
+  plum tomatoes dry white wine salt walnut pieces fontina cheese mozzarella cheese shallow
 ---

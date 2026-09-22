@@ -3,7 +3,6 @@ title: London Broil Salad
 slug: london-broil-salad
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: clove
@@ -122,6 +121,6 @@ nutrition:
   fat_g: 22.5
   carbs_g: 4
 nutrition_confidence: partial
-search: london broil salad mains 1990s salad garlic shallow olive oil balsamic vinegar chopped fresh thyme
-  marjoram dijon mustard salt pepper flank steak
+search: london broil salad mains salad garlic shallow olive oil balsamic vinegar chopped fresh thyme marjoram
+  dijon mustard salt pepper flank steak
 ---

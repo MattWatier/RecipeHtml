@@ -3,7 +3,6 @@ title: Indian Tandoori-Style Chicken
 slug: indian-tandoori-style-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -164,8 +163,8 @@ nutrition:
   fat_g: 2.6
   carbs_g: 5.6
 nutrition_confidence: partial
-search: indian tandoori-style chicken mains indian 1980s baked (2 1/2-3 lb) whole chicken ground coriander
-  ground cumin salt ground cardamom pepper ground cinnamon ground cloves (8 oz) carton plain yogurt (for
-  marinade) paprika grated gingerroot lemon juice finely chopped onion garlic water (8 oz) carton plain
-  yogurt (for sauce) chopped cucumber diced pimiento plastic
+search: indian tandoori-style chicken mains indian baked (2 1/2-3 lb) whole chicken ground coriander ground
+  cumin salt ground cardamom pepper ground cinnamon ground cloves (8 oz) carton plain yogurt (for marinade)
+  paprika grated gingerroot lemon juice finely chopped onion garlic water (8 oz) carton plain yogurt (for
+  sauce) chopped cucumber diced pimiento plastic
 ---

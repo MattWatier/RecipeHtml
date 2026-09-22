@@ -3,7 +3,6 @@ title: Portuguese Sausage • Potato Soup - Caldo Verde
 slug: portuguese-sausage-potato-soup-caldo-verde
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '3'
   unit: cup
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 34.6
   carbs_g: 34.8
 nutrition_confidence: partial
-search: portuguese sausage • potato soup - caldo verde mains portuguese 1990s soup water smoked garlic
-  sausage (such as linguiça) russet potatoes canned chicken broth bunch kale olive oil
+search: portuguese sausage • potato soup - caldo verde mains portuguese soup water smoked garlic sausage
+  (such as linguiça) russet potatoes canned chicken broth bunch kale olive oil
 ---

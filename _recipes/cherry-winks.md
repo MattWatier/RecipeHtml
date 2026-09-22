@@ -3,7 +3,6 @@ title: Cherry Winks
 slug: cherry-winks
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: 2¼
   unit: cup
@@ -136,6 +135,6 @@ nutrition:
   fat_g: 93.1
   carbs_g: 120.4
 nutrition_confidence: partial
-search: cherry winks sides 1995s baked flour baking powder soda salt shortening sugar eggs milk vanilla
-  pecans oats chopped cherries cookie
+search: cherry winks sides baked flour baking powder soda salt shortening sugar eggs milk vanilla pecans
+  oats chopped cherries cookie
 ---

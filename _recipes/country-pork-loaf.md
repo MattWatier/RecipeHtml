@@ -3,7 +3,6 @@ title: Country Pork Loaf
 slug: country-pork-loaf
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '3'
   unit: ''
@@ -140,6 +139,6 @@ nutrition:
   fat_g: 23.6
   carbs_g: 9.9
 nutrition_confidence: partial
-search: country pork loaf mains 1980s baked bread eggs ground pork onion egg white dried bread crumbs
-  chopped parsley salt sage pepper egg yolk water
+search: country pork loaf mains baked bread eggs ground pork onion egg white dried bread crumbs chopped
+  parsley salt sage pepper egg yolk water
 ---

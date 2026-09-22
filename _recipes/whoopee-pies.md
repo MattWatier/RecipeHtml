@@ -3,7 +3,6 @@ title: Whoopee Pies
 slug: whoopee-pies
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '6'
   unit: tbsp
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 27.9
   carbs_g: 116
 nutrition_confidence: partial
-search: whoopee pies desserts 1990s baked crisco solid shortening sugar egg vanilla milk cocoa flour soda
-  salt ungreased mixing water
+search: whoopee pies desserts baked crisco solid shortening sugar egg vanilla milk cocoa flour soda salt
+  ungreased mixing water
 ---

@@ -3,7 +3,6 @@ title: Scalloped Chicken
 slug: scalloped-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '4'
   unit: cup
@@ -151,7 +150,7 @@ nutrition:
   fat_g: 49.4
   carbs_g: 119.5
 nutrition_confidence: partial
-search: scalloped chicken mains 1980s baked lightly toasted croutons parsley sage salt thyme marjoram
-  butter (for onion and celery) minced onion chicken broth (for dressing) butter (for sauce; or half the
-  fat) flour chicken broth (for sauce) eggs cooked chicken crackers double greased
+search: scalloped chicken mains baked lightly toasted croutons parsley sage salt thyme marjoram butter
+  (for onion and celery) minced onion chicken broth (for dressing) butter (for sauce; or half the fat)
+  flour chicken broth (for sauce) eggs cooked chicken crackers double greased
 ---

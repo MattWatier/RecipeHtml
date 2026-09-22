@@ -3,7 +3,6 @@ title: Piperade
 slug: piperade
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 13.1
   carbs_g: 4.6
 nutrition_confidence: partial
-search: piperade sides 1990s bacon grease onion diced green pepper diced tomato eggs diced ham shredded
-  gruyère asparagus spears fry omelet
+search: piperade sides bacon grease onion diced green pepper diced tomato eggs diced ham shredded gruyère
+  asparagus spears fry omelet
 ---

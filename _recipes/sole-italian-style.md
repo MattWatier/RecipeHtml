@@ -3,7 +3,6 @@ title: Sole - Italian Style
 slug: sole-italian-style
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 1½
   unit: lb
@@ -92,6 +91,6 @@ nutrition:
   fat_g: 25.5
   carbs_g: 2
 nutrition_confidence: estimated
-search: sole - italian style mains italian 1980s salad fresh sole fillets fresh parmesan or romano oregano
-  olive oil fish stock or clam juice
+search: sole - italian style mains italian salad fresh sole fillets fresh parmesan or romano oregano olive
+  oil fish stock or clam juice
 ---

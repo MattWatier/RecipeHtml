@@ -3,7 +3,6 @@ title: Buttermilk Chicken Tenders. The Fried Chicken Recipe
 slug: buttermilk-chicken-tenders-the-fried-chicken-recipe
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -95,6 +94,6 @@ nutrition:
   fat_g: 1.2
   carbs_g: 54.7
 nutrition_confidence: partial
-search: buttermilk chicken tenders. the fried chicken recipe mains 1990s flour salt pepper egg buttermilk
-  chicken chicken tenders
+search: buttermilk chicken tenders. the fried chicken recipe mains flour salt pepper egg buttermilk chicken
+  chicken tenders
 ---

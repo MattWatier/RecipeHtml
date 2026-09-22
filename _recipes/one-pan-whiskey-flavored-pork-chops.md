@@ -3,7 +3,6 @@ title: One-Pan Whiskey Flavored Pork Chops
 slug: one-pan-whiskey-flavored-pork-chops
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '0.667'
   unit: cup
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 8.5
   carbs_g: 11.2
 nutrition_confidence: partial
-search: one-pan whiskey flavored pork chops mains 1990s baked sour cream water flour salt sage black pepper
+search: one-pan whiskey flavored pork chops mains baked sour cream water flour salt sage black pepper
   pork chops chopped onion (8 oz) pkg fresh whiskey
 ---

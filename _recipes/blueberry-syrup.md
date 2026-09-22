@@ -3,7 +3,6 @@ title: Blueberry Syrup
 slug: blueberry-syrup
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '3'
   unit: cup
@@ -61,5 +60,5 @@ nutrition:
   fat_g: 0.9
   carbs_g: 98.7
 nutrition_confidence: estimated
-search: blueberry syrup sides 1995s berries sugar lemon juice lemon zest water
+search: blueberry syrup sides berries sugar lemon juice lemon zest water
 ---

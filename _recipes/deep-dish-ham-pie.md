@@ -3,7 +3,6 @@ title: Deep Dish Ham Pie
 slug: deep-dish-ham-pie
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -149,7 +148,6 @@ nutrition:
   fat_g: 52.4
   carbs_g: 42.5
 nutrition_confidence: partial
-search: deep dish ham pie mains 1980s baked casserole dough flour salt sharp cheddar cheese vegetable
-  shortening cold water butter dry mustard pepper instant milk hard-boiled eggs diced cooked ham (8 1/2
-  oz) can peas
+search: deep dish ham pie mains baked casserole dough flour salt sharp cheddar cheese vegetable shortening
+  cold water butter dry mustard pepper instant milk hard-boiled eggs diced cooked ham (8 1/2 oz) can peas
 ---

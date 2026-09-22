@@ -3,7 +3,6 @@ title: Zwiebelfleisch - Braised Beef w/ Onions
 slug: zwiebelfleisch-braised-beef-w-onions
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '8'
   unit: cup
@@ -127,7 +126,7 @@ nutrition:
   fat_g: 17.5
   carbs_g: 36.9
 nutrition_confidence: partial
-search: zwiebelfleisch - braised beef w/ onions mains 1980s casserole soup sliced onion butter sirloin
-  tip roast flour minced garlic salt marjoram thyme bay leaf in. lemon peel tarragon vinegar tomato paste
-  heavy soup
+search: zwiebelfleisch - braised beef w/ onions mains casserole soup sliced onion butter sirloin tip roast
+  flour minced garlic salt marjoram thyme bay leaf in. lemon peel tarragon vinegar tomato paste heavy
+  soup
 ---

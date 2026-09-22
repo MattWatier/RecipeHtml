@@ -3,7 +3,6 @@ title: Spaghetti Squash Carbonara
 slug: spaghetti-squash-carbonara
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: cup
@@ -129,6 +128,6 @@ nutrition:
   fat_g: 41.3
   carbs_g: 26.4
 nutrition_confidence: partial
-search: spaghetti squash carbonara mains italian 1980s spaghetti squash bacon eggs parmesan cheese garlic
-  butter heavy cream grated parmesan couple side
+search: spaghetti squash carbonara mains italian spaghetti squash bacon eggs parmesan cheese garlic butter
+  heavy cream grated parmesan couple side
 ---

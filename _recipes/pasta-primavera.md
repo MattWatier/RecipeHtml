@@ -3,7 +3,6 @@ title: Pasta Primavera
 slug: pasta-primavera
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: lb
@@ -131,6 +130,6 @@ nutrition:
   fat_g: 38.8
   carbs_g: 29.6
 nutrition_confidence: partial
-search: pasta primavera mains italian 1995s spaghetti butter heavy cream grated parmesan cheese mushrooms
-  onion broccoli florets carrots salt black pepper
+search: pasta primavera mains italian spaghetti butter heavy cream grated parmesan cheese mushrooms onion
+  broccoli florets carrots salt black pepper
 ---

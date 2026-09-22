@@ -3,7 +3,6 @@ title: Gulyas
 slug: gulyas
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -107,6 +106,6 @@ nutrition:
   fat_g: 18.1
   carbs_g: 22.9
 nutrition_confidence: partial
-search: gulyas mains 1980s onion paprika cubed beef or pork water tomato puree salt vinegar marjoram sour
-  cream (
+search: gulyas mains onion paprika cubed beef or pork water tomato puree salt vinegar marjoram sour cream
+  (
 ---

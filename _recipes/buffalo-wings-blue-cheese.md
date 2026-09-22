@@ -3,7 +3,6 @@ title: Buffalo Wings (Blue Cheese)
 slug: buffalo-wings-blue-cheese
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '24'
   unit: ''
@@ -122,7 +121,7 @@ nutrition:
   fat_g: 25.9
   carbs_g: 25.4
 nutrition_confidence: partial
-search: buffalo wings (blue cheese) mains 1995s baked soup chicken chicken wings envelopes lipton golden
-  onion recipe soup mix butter or margarine white vinegar water garlic to 2 tsp ground red pepper ground
-  cumin wish-bone chunky blue cheese dressing food single
+search: buffalo wings (blue cheese) mains baked soup chicken chicken wings envelopes lipton golden onion
+  recipe soup mix butter or margarine white vinegar water garlic to 2 tsp ground red pepper ground cumin
+  wish-bone chunky blue cheese dressing food single
 ---

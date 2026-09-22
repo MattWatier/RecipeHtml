@@ -7,10 +7,9 @@ description: How these family recipe cards were scanned, transcribed and turned 
 
 # About this recipe box
 
-This site is a transcription of three boxes of family recipe cards, collected
-between the 1980s and the mid 1990s. Some are handwritten, some are clipped
-from magazines and newspapers, and a few are typed on index cards. They had
-never been in one place before.
+This site is a transcription of three boxes of family recipe cards. Some are
+handwritten, some are clipped from magazines and newspapers, and a few are
+typed on index cards. They had never been in one place before.
 
 ## How it was made
 
@@ -26,10 +25,12 @@ rebuilt &mdash; the HTML is never edited by hand.
 
 ## A word of caution
 
-These are old cards, read by a machine. Amounts, times and oven temperatures
-have all been checked against the scans, but transcription errors are
-possible. Where a card was vague, a typical time was filled in rather than
-invented detail. Read the whole recipe before you start.
+These are old cards, read by a machine, so transcription errors are possible.
+Where a card was vague, a typical time was filled in rather than invented
+detail. Read the whole recipe before you start.
+
+The cards are not dated. Nothing on this site claims when a recipe is from,
+because in most cases there is no way to know.
 
 Nutrition figures are estimated from USDA data against the parsed ingredient
 list. They are a rough guide for comparing recipes, not a measurement.

@@ -3,7 +3,6 @@ title: Atkins Diet Ratatouille
 slug: atkins-diet-ratatouille
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 2½
   unit: tbsp
@@ -115,6 +114,6 @@ nutrition:
   fat_g: 11.7
   carbs_g: 2.3
 nutrition_confidence: partial
-search: atkins diet ratatouille sides 1990s baked casserole olive oil zucchini eggplant size onions garlic
-  green peppers (8 oz) can tomato sauce thyme basil chopped parsley
+search: atkins diet ratatouille sides baked casserole olive oil zucchini eggplant size onions garlic green
+  peppers (8 oz) can tomato sauce thyme basil chopped parsley
 ---

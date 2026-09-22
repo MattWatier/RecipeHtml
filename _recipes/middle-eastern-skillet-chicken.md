@@ -3,7 +3,6 @@ title: Middle Eastern Skillet Chicken
 slug: middle-eastern-skillet-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '3'
   unit: ''
@@ -131,6 +130,6 @@ nutrition:
   fat_g: 16.9
   carbs_g: 2.5
 nutrition_confidence: partial
-search: middle eastern skillet chicken mains 1980s boneless chicken breasts olive oil onion coriander
-  cumin cinnamon turmeric black pepper freshly (14 1/2 ounces) garlic chicken broth heavy
+search: middle eastern skillet chicken mains boneless chicken breasts olive oil onion coriander cumin
+  cinnamon turmeric black pepper freshly (14 1/2 ounces) garlic chicken broth heavy
 ---

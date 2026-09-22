@@ -3,7 +3,6 @@ title: Atkins Diet Mushroom Salad
 slug: atkins-diet-mushroom-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 2½
   unit: slice
@@ -78,5 +77,5 @@ nutrition:
   fat_g: 23.5
   carbs_g: 15.6
 nutrition_confidence: estimated
-search: atkins diet mushroom salad sides italian 1990s salad bacon butter lemon juice parsley white mushrooms
+search: atkins diet mushroom salad sides italian salad bacon butter lemon juice parsley white mushrooms
 ---

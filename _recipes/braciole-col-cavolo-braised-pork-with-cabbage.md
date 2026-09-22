@@ -3,7 +3,6 @@ title: Braciole col Cavolo - Braised Pork with Cabbage
 slug: braciole-col-cavolo-braised-pork-with-cabbage
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '6'
   unit: slice
@@ -78,6 +77,6 @@ nutrition:
   fat_g: 18.2
   carbs_g: 14.4
 nutrition_confidence: partial
-search: braciole col cavolo - braised pork with cabbage mains 1990s lean pork black cabbage or savoy olive
-  oil garlic garlic cloves dry white wine
+search: braciole col cavolo - braised pork with cabbage mains lean pork black cabbage or savoy olive oil
+  garlic garlic cloves dry white wine
 ---

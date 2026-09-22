@@ -3,7 +3,6 @@ title: Toad in the Hole
 slug: toad-in-the-hole
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -146,6 +145,6 @@ nutrition:
   fat_g: 86.7
   carbs_g: 32.3
 nutrition_confidence: partial
-search: toad in the hole mains 1995s baked flour salt milk cold water eggs sausage melted beef or bacon
-  drippings or veg. shortening hot beef gravy mixing time cool covered baking
+search: toad in the hole mains baked flour salt milk cold water eggs sausage melted beef or bacon drippings
+  or veg. shortening hot beef gravy mixing time cool covered baking
 ---

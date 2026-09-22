@@ -3,7 +3,6 @@ title: Calypso Chicken
 slug: calypso-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 2½
   unit: cup
@@ -162,7 +161,7 @@ nutrition:
   fat_g: 40.4
   carbs_g: 19.2
 nutrition_confidence: partial
-search: calypso chicken mains mexican 1980s chopped onion minced green pepper fresh lime juice fresh thyme
-  garlic garlic cloves (4 oz) skinned salt water serrano chile (14 1/2 oz) can white rum seeded (1-inch)
-  fresh pineapple cubes peeled star fruit vegetable oil ripe plantains
+search: calypso chicken mains mexican chopped onion minced green pepper fresh lime juice fresh thyme garlic
+  garlic cloves (4 oz) skinned salt water serrano chile (14 1/2 oz) can white rum seeded (1-inch) fresh
+  pineapple cubes peeled star fruit vegetable oil ripe plantains
 ---

@@ -3,7 +3,6 @@ title: Hot Cocoa
 slug: hot-cocoa
 course: drink
 course_label: Drinks
-era: 1995s
 ingredients:
 - amount: '3'
   unit: cup
@@ -60,5 +59,5 @@ nutrition:
   fat_g: 6.3
   carbs_g: 29
 nutrition_confidence: estimated
-search: hot cocoa drinks 1995s milk cocoa sugar butter vanilla
+search: hot cocoa drinks milk cocoa sugar butter vanilla
 ---

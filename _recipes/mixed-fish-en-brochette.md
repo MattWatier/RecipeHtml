@@ -3,7 +3,6 @@ title: Mixed Fish en Brochette
 slug: mixed-fish-en-brochette
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -123,7 +122,7 @@ nutrition:
   fat_g: 7.3
   carbs_g: 8.3
 nutrition_confidence: partial
-search: mixed fish en brochette mains 1980s swordfish steak (10 oz) tuna steak (8 oz) sea scallops (8
-  oz) to large shrimp grated fresh ginger coarse-grained mustard lemon juice oil (part vegetable and part
-  olive) finely chopped green onion finely chopped fresh coriander glass
+search: mixed fish en brochette mains swordfish steak (10 oz) tuna steak (8 oz) sea scallops (8 oz) to
+  large shrimp grated fresh ginger coarse-grained mustard lemon juice oil (part vegetable and part olive)
+  finely chopped green onion finely chopped fresh coriander glass
 ---

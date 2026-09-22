@@ -3,7 +3,6 @@ title: Kozacka Cabbage Soup
 slug: kozacka-cabbage-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -95,6 +94,6 @@ nutrition:
   fat_g: 0.7
   carbs_g: 13.8
 nutrition_confidence: partial
-search: kozacka cabbage soup sides 1990s soup ham bone with meat green pepper stalks celery onion green
-  cabbage water tomato juice (or 3 quarts water with 6 ounces tomato paste) flour paprika
+search: kozacka cabbage soup sides soup ham bone with meat green pepper stalks celery onion green cabbage
+  water tomato juice (or 3 quarts water with 6 ounces tomato paste) flour paprika
 ---

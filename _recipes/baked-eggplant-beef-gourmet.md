@@ -3,7 +3,6 @@ title: Baked Eggplant + Beef Gourmet
 slug: baked-eggplant-beef-gourmet
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: ''
@@ -131,6 +130,6 @@ nutrition:
   fat_g: 53.4
   carbs_g: 29.3
 nutrition_confidence: partial
-search: baked eggplant + beef gourmet mains italian 1980s baked (1 lb) eggplants olive oil onions green
-  peppers ground round tomatoes garlic garlic clove tomato sauce parmesan shallow
+search: baked eggplant + beef gourmet mains italian baked (1 lb) eggplants olive oil onions green peppers
+  ground round tomatoes garlic garlic clove tomato sauce parmesan shallow
 ---

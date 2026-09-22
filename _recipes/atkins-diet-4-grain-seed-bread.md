@@ -3,7 +3,6 @@ title: Atkins Diet 4 Grain-Seed Bread
 slug: atkins-diet-4-grain-seed-bread
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -156,7 +155,7 @@ nutrition:
   fat_g: 26.9
   carbs_g: 11.9
 nutrition_confidence: partial
-search: atkins diet 4 grain-seed bread sides 1990s baked bread unbleached flour whole wheat flour sesame
-  seeds corn meal baking powder egg egg yolks pkt sugar substitute seasoned salt whole-milk ricotta cheese
-  butter egg whites cream of tartar pumpkin seeds oiled
+search: atkins diet 4 grain-seed bread sides baked bread unbleached flour whole wheat flour sesame seeds
+  corn meal baking powder egg egg yolks pkt sugar substitute seasoned salt whole-milk ricotta cheese butter
+  egg whites cream of tartar pumpkin seeds oiled
 ---

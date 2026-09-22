@@ -3,7 +3,6 @@ title: Zucchini Gratin
 slug: zucchini-gratin-2
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: lb
@@ -114,6 +113,6 @@ related:
   slug: zucchini-ragout
 - title: Zucchini Ragout
   slug: zucchini-ragout
-search: zucchini gratin sides italian 1990s baked fresh zucchini garlic powder melted butter (for first
-  layer) grated parmesan pie
+search: zucchini gratin sides italian baked fresh zucchini garlic powder melted butter (for first layer)
+  grated parmesan pie
 ---

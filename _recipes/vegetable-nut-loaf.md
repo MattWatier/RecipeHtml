@@ -3,7 +3,6 @@ title: Vegetable-Nut Loaf
 slug: vegetable-nut-loaf
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ¼
   unit: cup
@@ -173,7 +172,7 @@ nutrition:
   fat_g: 38.9
   carbs_g: 31.5
 nutrition_confidence: partial
-search: vegetable-nut loaf sides chinese 1990s baked butter chopped carrots chopped celery chopped onion
-  flour salt pepper thyme milk shredded natural cheddar cheese chopped walnuts or pecans wheat germ eggs
-  water soy sauce
+search: vegetable-nut loaf sides chinese baked butter chopped carrots chopped celery chopped onion flour
+  salt pepper thyme milk shredded natural cheddar cheese chopped walnuts or pecans wheat germ eggs water
+  soy sauce
 ---

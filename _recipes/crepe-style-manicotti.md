@@ -3,7 +3,6 @@ title: Crepe-Style Manicotti
 slug: crepe-style-manicotti
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: '1'
   unit: ''
@@ -148,7 +147,7 @@ nutrition:
   fat_g: 17.6
   carbs_g: 10.9
 nutrition_confidence: partial
-search: crepe-style manicotti breakfast italian 1995s baked baking ground beef onion clove garlic (8 oz)
-  can tomatoes (6 oz) can tomato paste basil sugar fennel seed water salt eggs ricotta cheese parmesan
-  cheese parsley pepper mozzarella cheese
+search: crepe-style manicotti breakfast italian baked baking ground beef onion clove garlic (8 oz) can
+  tomatoes (6 oz) can tomato paste basil sugar fennel seed water salt eggs ricotta cheese parmesan cheese
+  parsley pepper mozzarella cheese
 ---

@@ -3,7 +3,6 @@ title: Tonno con Piselli (Fresh Tuna with Peas)
 slug: tonno-con-piselli-fresh-tuna-with-peas
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '3'
   unit: tbsp
@@ -72,6 +71,6 @@ nutrition:
   fat_g: 11.7
   carbs_g: 44.4
 nutrition_confidence: partial
-search: tonno con piselli (fresh tuna with peas) mains italian 1990s olive oil tuna steaks shelled green
-  peas chopped italian parsley dry white wine single
+search: tonno con piselli (fresh tuna with peas) mains italian olive oil tuna steaks shelled green peas
+  chopped italian parsley dry white wine single
 ---

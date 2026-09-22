@@ -3,7 +3,6 @@ title: Salmon w/ Orange Marmalade
 slug: salmon-w-orange-marmalade
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ¼
   unit: cup
@@ -95,6 +94,6 @@ nutrition:
   fat_g: 32
   carbs_g: 25.5
 nutrition_confidence: partial
-search: salmon w/ orange marmalade mains chinese 1990s baked orange marmalade soy sauce garlic garlic
-  cloves salmon fillet salt broiler
+search: salmon w/ orange marmalade mains chinese baked orange marmalade soy sauce garlic garlic cloves
+  salmon fillet salt broiler
 ---

@@ -3,7 +3,6 @@ title: Pork Souvlakia
 slug: pork-souvlakia
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -90,6 +89,6 @@ nutrition:
   fat_g: 14.5
   carbs_g: 2.9
 nutrition_confidence: partial
-search: pork souvlakia mains chinese 1980s bread salad pork yellow onion green peppers olive oil lemon
-  juice light soy sauce oregano
+search: pork souvlakia mains chinese bread salad pork yellow onion green peppers olive oil lemon juice
+  light soy sauce oregano
 ---

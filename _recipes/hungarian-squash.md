@@ -3,7 +3,6 @@ title: Hungarian Squash
 slug: hungarian-squash
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: small
@@ -84,6 +83,6 @@ nutrition:
   fat_g: 13.5
   carbs_g: 31.7
 nutrition_confidence: partial
-search: hungarian squash sides 1990s onion garlic butter cubed winter squash water paprika dill weed chopped
+search: hungarian squash sides onion garlic butter cubed winter squash water paprika dill weed chopped
   parsley
 ---

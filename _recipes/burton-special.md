@@ -3,7 +3,6 @@ title: Burton Special
 slug: burton-special
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 1½
   unit: lb
@@ -77,6 +76,6 @@ nutrition:
   fat_g: 18
   carbs_g: 88.5
 nutrition_confidence: partial
-search: burton special mains 1980s casserole soup hamburger raw scraped potatoes sliced carrots catsup
-  tomato soup
+search: burton special mains casserole soup hamburger raw scraped potatoes sliced carrots catsup tomato
+  soup
 ---

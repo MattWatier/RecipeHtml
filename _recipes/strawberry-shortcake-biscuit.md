@@ -3,7 +3,6 @@ title: Strawberry Shortcake Biscuit
 slug: strawberry-shortcake-biscuit
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: '2'
   unit: cup
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 32.1
   carbs_g: 58.7
 nutrition_confidence: partial
-search: strawberry shortcake biscuit breakfast 1995s baked sifted flour salt baking powder shortening
-  sugar milk pastry well fork ungreased
+search: strawberry shortcake biscuit breakfast baked sifted flour salt baking powder shortening sugar
+  milk pastry well fork ungreased
 ---

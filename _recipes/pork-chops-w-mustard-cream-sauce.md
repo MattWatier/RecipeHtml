@@ -3,7 +3,6 @@ title: Pork Chops w/ Mustard Cream Sauce
 slug: pork-chops-w-mustard-cream-sauce
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -81,6 +80,6 @@ nutrition:
   fat_g: 9.9
   carbs_g: 0.9
 nutrition_confidence: partial
-search: pork chops w/ mustard cream sauce mains 1990s olive oil pork chops dry white wine heavy cream
-  dijon mustard
+search: pork chops w/ mustard cream sauce mains olive oil pork chops dry white wine heavy cream dijon
+  mustard
 ---

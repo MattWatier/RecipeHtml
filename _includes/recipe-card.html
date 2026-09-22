@@ -1,0 +1,23 @@
+{%- comment -%}
+One recipe tile, used by both the browse grid and the home page. The data
+attributes are what js/browse.js filters and sorts on; they are harmless
+elsewhere.
+{%- endcomment -%}
+<a class="rcard" href="{{ include.recipe.url | relative_url }}"
+   data-search="{{ include.recipe.search | escape }}"
+   data-title="{{ include.recipe.title | downcase | escape }}"
+   data-course="{{ include.recipe.course }}"
+   data-cuisine="{{ include.recipe.cuisine }}"
+   data-tag="{{ include.recipe.tags | join: '|' }}"
+   data-without="{{ include.recipe.allergens | join: '|' }}"
+   data-time="{{ include.recipe.total_minutes | default: 0 }}"
+   data-calories="{{ include.recipe.nutrition.calories | default: 0 }}">
+	<span class="rcard-course course-{{ include.recipe.course }}">{{ include.recipe.course_label }}</span>
+	<h3>{{ include.recipe.title }}</h3>
+	<span class="rcard-meta">
+		{%- if include.recipe.total_time %}<span>{{ include.recipe.total_time }}</span>{% endif -%}
+		{%- if include.recipe.servings %}<span>serves {{ include.recipe.servings }}</span>{% endif -%}
+		{%- if include.recipe.nutrition.calories %}<span>{{ include.recipe.nutrition.calories }} cal</span>{% endif -%}
+		{%- if include.recipe.cuisine and include.recipe.cuisine != "" %}<span>{{ include.recipe.cuisine }}</span>{% endif -%}
+	</span>
+</a>

@@ -3,7 +3,6 @@ title: Castilian Garlic Soup
 slug: castilian-garlic-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '8'
   unit: clove
@@ -133,7 +132,7 @@ nutrition:
   fat_g: 23.3
   carbs_g: 33.3
 nutrition_confidence: partial
-search: castilian garlic soup sides italian 1990s bread soup garlic garlic cloves extra-virgin olive oil
-  sweet paprika cayenne chicken stock amontillado or oloroso sherry ground cumin thin toasted slices crusty
+search: castilian garlic soup sides italian bread soup garlic garlic cloves extra-virgin olive oil sweet
+  paprika cayenne chicken stock amontillado or oloroso sherry ground cumin thin toasted slices crusty
   bread eggs ( soup fork
 ---

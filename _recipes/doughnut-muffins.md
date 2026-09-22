@@ -3,7 +3,6 @@ title: Doughnut Muffins
 slug: doughnut-muffins
 course: breakfast
 course_label: Breakfast
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -110,5 +109,5 @@ nutrition:
   fat_g: 19.1
   carbs_g: 67
 nutrition_confidence: partial
-search: doughnut muffins breakfast 1990s baked egg oil milk flour baking powder sugar salt nutmeg mixing
+search: doughnut muffins breakfast baked egg oil milk flour baking powder sugar salt nutmeg mixing
 ---

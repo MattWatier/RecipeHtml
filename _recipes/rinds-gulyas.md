@@ -3,7 +3,6 @@ title: Rinds gulyas
 slug: rinds-gulyas
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -103,6 +102,6 @@ nutrition_confidence: partial
 related:
 - title: Beef Gulyas
   slug: beef-gulyas
-search: rinds gulyas mains 1980s onions paprika cubed beef or 3 tablespoons water tomato puree salt vinegar
+search: rinds gulyas mains onions paprika cubed beef or 3 tablespoons water tomato puree salt vinegar
   marjoram
 ---

@@ -3,7 +3,6 @@ title: Baguette
 slug: baguette
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: cup
@@ -132,5 +131,5 @@ nutrition:
   fat_g: 25.9
   carbs_g: 295.3
 nutrition_confidence: partial
-search: baguette sides 1990s baked bread warm water yeast sugar salt bread flour mixing stiff long cloud
+search: baguette sides baked bread warm water yeast sugar salt bread flour mixing stiff long cloud
 ---

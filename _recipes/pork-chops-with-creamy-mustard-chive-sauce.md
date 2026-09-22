@@ -3,7 +3,6 @@ title: Pork Chops with Creamy Mustard Chive Sauce
 slug: pork-chops-with-creamy-mustard-chive-sauce
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 1½
   unit: tbsp
@@ -101,7 +100,7 @@ nutrition:
   fat_g: 8.9
   carbs_g: 9.6
 nutrition_confidence: partial
-search: pork chops with creamy mustard chive sauce mains 1980s olive oil (3/4-inch thick) loin pork chops
-  onion all-purpose flour dry white wine cider vinegar heavy cream (or half & half) coarse-grained dijon
-  mustard fresh chives heavy
+search: pork chops with creamy mustard chive sauce mains olive oil (3/4-inch thick) loin pork chops onion
+  all-purpose flour dry white wine cider vinegar heavy cream (or half & half) coarse-grained dijon mustard
+  fresh chives heavy
 ---

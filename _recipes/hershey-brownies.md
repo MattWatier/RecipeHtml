@@ -3,7 +3,6 @@ title: Hershey Brownies
 slug: hershey-brownies
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: ¾
   unit: cup
@@ -96,6 +95,6 @@ nutrition:
   fat_g: 39.4
   carbs_g: 113.7
 nutrition_confidence: partial
-search: hershey brownies desserts 1995s baked butter or margarine sugar vanilla eggs unsifted flour cocoa
-  baking powder salt greased
+search: hershey brownies desserts baked butter or margarine sugar vanilla eggs unsifted flour cocoa baking
+  powder salt greased
 ---

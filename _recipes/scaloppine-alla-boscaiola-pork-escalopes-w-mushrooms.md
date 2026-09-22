@@ -3,7 +3,6 @@ title: Scaloppine alla Boscaiola - Pork Escalopes w/ Mushrooms
 slug: scaloppine-alla-boscaiola-pork-escalopes-w-mushrooms
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '10'
   unit: oz
@@ -92,6 +91,6 @@ nutrition:
   fat_g: 41.1
   carbs_g: 3.4
 nutrition_confidence: partial
-search: scaloppine alla boscaiola - pork escalopes w/ mushrooms mains 1990s fresh porcini olive oil lean
-  pork garlic garlic cloves dry white wine fresh thyme dampened
+search: scaloppine alla boscaiola - pork escalopes w/ mushrooms mains fresh porcini olive oil lean pork
+  garlic garlic cloves dry white wine fresh thyme dampened
 ---

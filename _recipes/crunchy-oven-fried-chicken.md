@@ -3,7 +3,6 @@ title: Crunchy Oven Fried Chicken
 slug: crunchy-oven-fried-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -114,6 +113,6 @@ nutrition_confidence: partial
 related:
 - title: Oven Fried Chicken
   slug: oven-fried-chicken
-search: crunchy oven fried chicken mains 1980s baked chicken tender buttermilk lime juice dijon style
-  mustard black pepper paprika garlic powder salt
+search: crunchy oven fried chicken mains baked chicken tender buttermilk lime juice dijon style mustard
+  black pepper paprika garlic powder salt
 ---

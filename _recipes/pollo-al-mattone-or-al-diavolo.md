@@ -3,7 +3,6 @@ title: Pollo al Mattone or al Diavolo
 slug: pollo-al-mattone-or-al-diavolo
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -94,6 +93,6 @@ nutrition:
   fat_g: 28
   carbs_g: 1.2
 nutrition_confidence: partial
-search: pollo al mattone or al diavolo mains 1990s olive oil salt black pepper red pepper flakes fresh
-  rosemary fresh parsley dried thyme chicken chicken breasts
+search: pollo al mattone or al diavolo mains olive oil salt black pepper red pepper flakes fresh rosemary
+  fresh parsley dried thyme chicken chicken breasts
 ---

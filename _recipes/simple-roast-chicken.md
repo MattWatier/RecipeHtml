@@ -3,7 +3,6 @@ title: Simple Roast Chicken
 slug: simple-roast-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -103,6 +102,6 @@ nutrition:
   fat_g: 8.7
   carbs_g: 0.1
 nutrition_confidence: partial
-search: simple roast chicken mains 1980s baked (5 lb) roasting chicken onion garlic sprigs fresh tarragon
-  sprigs fresh thyme olive oil kosher salt pepper roasting
+search: simple roast chicken mains baked (5 lb) roasting chicken onion garlic sprigs fresh tarragon sprigs
+  fresh thyme olive oil kosher salt pepper roasting
 ---

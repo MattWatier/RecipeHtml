@@ -3,7 +3,6 @@ title: Slaw Chez Nous
 slug: slaw-chez-nous
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -88,6 +87,6 @@ nutrition:
   fat_g: 12.6
   carbs_g: 7.1
 nutrition_confidence: partial
-search: slaw chez nous sides chinese 1990s almonds sesame seeds cabbage scallions or chives red bell pepper
+search: slaw chez nous sides chinese almonds sesame seeds cabbage scallions or chives red bell pepper
   oil rice vinegar honey
 ---

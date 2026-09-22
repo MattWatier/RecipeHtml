@@ -3,7 +3,6 @@ title: Bubble & Squeak
 slug: bubble-squeak
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '3'
   unit: ''
@@ -84,5 +83,5 @@ nutrition:
   fat_g: 12
   carbs_g: 24.1
 nutrition_confidence: partial
-search: bubble & squeak sides 1995s boiled unpeeled potatoes cabbage onion zucchini bacon chopped ham
+search: bubble & squeak sides boiled unpeeled potatoes cabbage onion zucchini bacon chopped ham
 ---

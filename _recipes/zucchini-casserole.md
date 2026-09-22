@@ -3,7 +3,6 @@ title: Zucchini Casserole
 slug: zucchini-casserole
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '2'
   unit: ''
@@ -79,6 +78,5 @@ nutrition:
   fat_g: 27.7
   carbs_g: 85
 nutrition_confidence: partial
-search: zucchini casserole sides 1980s baked casserole onions chopped zucchini tomatoes grated cheese
-  oiled
+search: zucchini casserole sides baked casserole onions chopped zucchini tomatoes grated cheese oiled
 ---

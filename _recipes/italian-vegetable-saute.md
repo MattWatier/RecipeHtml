@@ -3,7 +3,6 @@ title: Italian Vegetable Sauté
 slug: italian-vegetable-saute
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '4'
   unit: ''
@@ -116,6 +115,6 @@ nutrition:
   fat_g: 16.3
   carbs_g: 23
 nutrition_confidence: partial
-search: italian vegetable sauté sides italian 1980s carrots cauliflower zucchini garlic olive oil yellow
-  onions beef stock parmesan or romano fry
+search: italian vegetable sauté sides italian carrots cauliflower zucchini garlic olive oil yellow onions
+  beef stock parmesan or romano fry
 ---

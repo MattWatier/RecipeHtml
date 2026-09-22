@@ -3,7 +3,6 @@ title: Chicken Fried Rice
 slug: chicken-fried-rice
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -96,5 +95,5 @@ nutrition:
   fat_g: 10.2
   carbs_g: 1.4
 nutrition_confidence: partial
-search: chicken fried rice mains chinese 1980s egg peanut oil scallions soy sauce cooked chicken rubber
+search: chicken fried rice mains chinese egg peanut oil scallions soy sauce cooked chicken rubber
 ---

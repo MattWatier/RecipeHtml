@@ -3,7 +3,6 @@ title: Atkins Diet Deviled Salmon Eggs
 slug: atkins-diet-deviled-salmon-eggs
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '6'
   unit: ''
@@ -89,6 +88,6 @@ nutrition:
   fat_g: 9.6
   carbs_g: 3.3
 nutrition_confidence: estimated
-search: atkins diet deviled salmon eggs mains 1990s eggs mayonnaise salmon lemon juice prepared mustard
-  worcestershire salt
+search: atkins diet deviled salmon eggs mains eggs mayonnaise salmon lemon juice prepared mustard worcestershire
+  salt
 ---

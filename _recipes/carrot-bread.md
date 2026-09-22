@@ -3,7 +3,6 @@ title: Carrot Bread
 slug: carrot-bread
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ¾
   unit: cup
@@ -123,6 +122,6 @@ nutrition:
   fat_g: 45.2
   carbs_g: 98.5
 nutrition_confidence: partial
-search: carrot bread sides 1990s baked bread oil sugar eggs flour baking powder salt cinnamon grated raw
-  carrots vanilla chopped nuts time well
+search: carrot bread sides baked bread oil sugar eggs flour baking powder salt cinnamon grated raw carrots
+  vanilla chopped nuts time well
 ---

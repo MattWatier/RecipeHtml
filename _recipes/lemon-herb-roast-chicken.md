@@ -3,7 +3,6 @@ title: Lemon-Herb Roast Chicken
 slug: lemon-herb-roast-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ½
   unit: cup
@@ -153,7 +152,7 @@ nutrition:
   fat_g: 24.3
   carbs_g: 13.7
 nutrition_confidence: partial
-search: lemon-herb roast chicken mains 1980s baked (1 stick) butter chopped fresh rosemary or 2 t. dried
-  thyme or 2 t. dried cloves garlic grated lemon peel (6 1/2 to 7 lb) roasting chicken dry white wine
-  flour hand glass
+search: lemon-herb roast chicken mains baked (1 stick) butter chopped fresh rosemary or 2 t. dried thyme
+  or 2 t. dried cloves garlic grated lemon peel (6 1/2 to 7 lb) roasting chicken dry white wine flour
+  hand glass
 ---

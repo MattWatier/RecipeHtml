@@ -3,7 +3,6 @@ title: Cole Slaw Dressing
 slug: cole-slaw-dressing-2
 course: condiment
 course_label: Condiments
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -63,5 +62,5 @@ nutrition_confidence: estimated
 related:
 - title: Cole Slaw Dressing
   slug: cole-slaw-dressing
-search: cole slaw dressing condiments 1990s mayo sour cream lemon juice sugar celery seed
+search: cole slaw dressing condiments mayo sour cream lemon juice sugar celery seed
 ---

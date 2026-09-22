@@ -3,7 +3,6 @@ title: Ragu
 slug: ragu
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 24.8
   carbs_g: 43.7
 nutrition_confidence: partial
-search: ragu mains 1980s soup olive oil butter chopped parsley onion carrot hamburger milk (28 oz) can
-  tomatoes salt sugar pepper soup
+search: ragu mains soup olive oil butter chopped parsley onion carrot hamburger milk (28 oz) can tomatoes
+  salt sugar pepper soup
 ---

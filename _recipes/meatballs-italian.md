@@ -3,7 +3,6 @@ title: Meatballs - Italian
 slug: meatballs-italian
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: cup
@@ -96,6 +95,6 @@ nutrition:
   fat_g: 11.7
   carbs_g: 42.5
 nutrition_confidence: partial
-search: meatballs - italian mains italian 1980s baked onion hamburg eggs worcestershire italian seasoning
-  dozen ritz crackers garlic powder chili sauce
+search: meatballs - italian mains italian baked onion hamburg eggs worcestershire italian seasoning dozen
+  ritz crackers garlic powder chili sauce
 ---

@@ -3,7 +3,6 @@ title: Kate's Steak
 slug: kate-s-steak
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -41,5 +40,5 @@ total_time: 1 hr 5 min
 total_iso: PT1H5M
 tags:
 - baked
-search: kate's steak mains 1980s baked combo
+search: kate's steak mains baked combo
 ---

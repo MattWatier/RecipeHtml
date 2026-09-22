@@ -3,7 +3,6 @@ title: Potted Steak, Burgundy Style
 slug: potted-steak-burgundy-style
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 1½
   unit: lb
@@ -188,6 +187,6 @@ nutrition:
   fat_g: 33.4
   carbs_g: 12.9
 nutrition_confidence: partial
-search: potted steak, burgundy style mains 1980s baked casserole chuck steak salt black pepper all-purpose
-  flour bacon drippings onion fresh mushrooms dry red wine beef stock dried thyme bay leaf
+search: potted steak, burgundy style mains baked casserole chuck steak salt black pepper all-purpose flour
+  bacon drippings onion fresh mushrooms dry red wine beef stock dried thyme bay leaf
 ---

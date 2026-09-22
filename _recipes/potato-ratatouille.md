@@ -3,7 +3,6 @@ title: Potato Ratatouille
 slug: potato-ratatouille
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: large
@@ -84,6 +83,6 @@ nutrition:
   fat_g: 46.9
   carbs_g: 1.9
 nutrition_confidence: partial
-search: potato ratatouille sides 1990s onions garlic water green peppers zucchini potatoes chopped tomatoes
+search: potato ratatouille sides onions garlic water green peppers zucchini potatoes chopped tomatoes
   (or one 32-ounce can) dried basil dried oregano chopped parsley
 ---

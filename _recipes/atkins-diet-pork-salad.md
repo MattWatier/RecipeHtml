@@ -3,7 +3,6 @@ title: Atkins Diet Pork Salad
 slug: atkins-diet-pork-salad
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -91,6 +90,6 @@ nutrition_confidence: partial
 related:
 - title: Atkins Diet Chicken Salad
   slug: atkins-diet-chicken-salad
-search: atkins diet pork salad mains italian 1990s salad cooked leftover pork olive oil fresh rosemary
-  balsamic vinegar dijon mustard heads bibb lettuce parmesan cheese shavings
+search: atkins diet pork salad mains italian salad cooked leftover pork olive oil fresh rosemary balsamic
+  vinegar dijon mustard heads bibb lettuce parmesan cheese shavings
 ---

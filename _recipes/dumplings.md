@@ -3,7 +3,6 @@ title: Dumplings
 slug: dumplings
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -90,5 +89,5 @@ nutrition:
   fat_g: 8.7
   carbs_g: 28.3
 nutrition_confidence: partial
-search: dumplings sides 1995s stew flour baking powder salt shortening milk soft
+search: dumplings sides stew flour baking powder salt shortening milk soft
 ---

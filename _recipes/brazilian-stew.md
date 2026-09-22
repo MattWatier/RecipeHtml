@@ -3,7 +3,6 @@ title: Brazilian Stew
 slug: brazilian-stew
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: 1½
   unit: lb
@@ -72,5 +71,5 @@ nutrition:
   fat_g: 41.5
   carbs_g: 17.9
 nutrition_confidence: partial
-search: brazilian stew mains 1990s stew chuck steak chicken can tomatoes green pepper yellow onion tabasco
+search: brazilian stew mains stew chuck steak chicken can tomatoes green pepper yellow onion tabasco
 ---

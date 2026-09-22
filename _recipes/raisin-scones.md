@@ -3,7 +3,6 @@ title: Raisin Scones
 slug: raisin-scones
 course: breakfast
 course_label: Breakfast
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -140,6 +139,6 @@ nutrition:
   fat_g: 30.3
   carbs_g: 111.6
 nutrition_confidence: partial
-search: raisin scones breakfast 1990s baked flour sugar baking powder salt baking soda nutmeg butter raisins
+search: raisin scones breakfast baked flour sugar baking powder salt baking soda nutmeg butter raisins
   buttermilk egg circle greased fork
 ---

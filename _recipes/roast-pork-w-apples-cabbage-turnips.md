@@ -3,7 +3,6 @@ title: Roast Pork w/ Apples, Cabbage, & Turnips
 slug: roast-pork-w-apples-cabbage-turnips
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -113,7 +112,7 @@ nutrition:
   fat_g: 34.4
   carbs_g: 9
 nutrition_confidence: partial
-search: roast pork w/ apples, cabbage, & turnips mains 1990s baked 3-lb boneless pork loin roast finely
-  chopped onion applewood-smoked bacon thinly sliced peeled tart apple cabbage cubed turnip dry white
-  wine maple syrup cider vinegar salt pepper
+search: roast pork w/ apples, cabbage, & turnips mains baked 3-lb boneless pork loin roast finely chopped
+  onion applewood-smoked bacon thinly sliced peeled tart apple cabbage cubed turnip dry white wine maple
+  syrup cider vinegar salt pepper
 ---

@@ -3,7 +3,6 @@ title: Mediterranean Bean Soup
 slug: mediterranean-bean-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: medium
@@ -146,7 +145,7 @@ nutrition:
   fat_g: 8.7
   carbs_g: 23.5
 nutrition_confidence: partial
-search: mediterranean bean soup sides 1990s bread soup to large onion or 3 medium carrots garlic or 2
-  garlic cloves extra virgin olive oil dollop dried beans boiling water fresh thyme or 1 t. dried or 2
-  bay leaves chopped flat-leaf parsley soup of cut
+search: mediterranean bean soup sides bread soup to large onion or 3 medium carrots garlic or 2 garlic
+  cloves extra virgin olive oil dollop dried beans boiling water fresh thyme or 1 t. dried or 2 bay leaves
+  chopped flat-leaf parsley soup of cut
 ---

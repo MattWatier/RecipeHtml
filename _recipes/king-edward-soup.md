@@ -3,7 +3,6 @@ title: King Edward Soup
 slug: king-edward-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tsp
@@ -127,7 +126,7 @@ nutrition:
   fat_g: 31.4
   carbs_g: 94.5
 nutrition_confidence: partial
-search: king edward soup sides 1990s soup olive oil sliced mushrooms chopped onions garlic garlic cloves
-  finely chopped yellow squash zucchini water cooked rice fresh basil plum tomatoes (3/4 lb) (10 1/2 oz)
-  cans beef consommé soup
+search: king edward soup sides soup olive oil sliced mushrooms chopped onions garlic garlic cloves finely
+  chopped yellow squash zucchini water cooked rice fresh basil plum tomatoes (3/4 lb) (10 1/2 oz) cans
+  beef consommé soup
 ---

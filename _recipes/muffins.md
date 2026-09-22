@@ -3,7 +3,6 @@ title: Muffins
 slug: muffins
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: '2'
   unit: cup
@@ -92,5 +91,5 @@ nutrition:
   fat_g: 13.4
   carbs_g: 5.3
 nutrition_confidence: estimated
-search: muffins breakfast 1995s baked 2 t. flour baking powder sugar salt egg milk oil or 1/4 c
+search: muffins breakfast baked 2 t. flour baking powder sugar salt egg milk oil or 1/4 c
 ---

@@ -3,7 +3,6 @@ title: Key Lime Chicken
 slug: key-lime-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -77,5 +76,5 @@ nutrition:
   fat_g: 28.8
   carbs_g: 5.3
 nutrition_confidence: partial
-search: key lime chicken mains 1990s lime juice olive oil grated onion tarragon seasoned salt pepper broiler
+search: key lime chicken mains lime juice olive oil grated onion tarragon seasoned salt pepper broiler
 ---

@@ -3,7 +3,6 @@ title: Broccoli Salad
 slug: broccoli-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -121,6 +120,6 @@ nutrition:
   fat_g: 36.1
   carbs_g: 18.3
 nutrition_confidence: partial
-search: broccoli salad sides italian 1990s salad olive oil vinegar garlic italian seasoning salt pepper
-  frozen broccoli cuts tomatoes cucumber scallions parsley lemon juice
+search: broccoli salad sides italian salad olive oil vinegar garlic italian seasoning salt pepper frozen
+  broccoli cuts tomatoes cucumber scallions parsley lemon juice
 ---

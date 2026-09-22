@@ -3,7 +3,6 @@ title: Pipérade - Basque
 slug: piperade-basque
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '10'
   unit: ''
@@ -92,6 +91,6 @@ nutrition:
   fat_g: 6
   carbs_g: 7
 nutrition_confidence: partial
-search: pipérade - basque sides 1990s strips ham oil or butter yellow onion green or red peppers garlic
-  or 3 firm red tomatoes speck
+search: pipérade - basque sides strips ham oil or butter yellow onion green or red peppers garlic or 3
+  firm red tomatoes speck
 ---

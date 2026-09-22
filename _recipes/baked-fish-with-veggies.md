@@ -3,7 +3,6 @@ title: Baked Fish with Veggies
 slug: baked-fish-with-veggies
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: small
@@ -120,6 +119,6 @@ nutrition:
   fat_g: 17.4
   carbs_g: 19.3
 nutrition_confidence: partial
-search: baked fish with veggies mains 1990s baked bread onion pepper butter stalk celery flour milk rice
-  wine tarragon fillets trout
+search: baked fish with veggies mains baked bread onion pepper butter stalk celery flour milk rice wine
+  tarragon fillets trout
 ---

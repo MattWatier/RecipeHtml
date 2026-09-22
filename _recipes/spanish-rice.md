@@ -3,7 +3,6 @@ title: Spanish Rice
 slug: spanish-rice
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: ''
@@ -69,5 +68,5 @@ nutrition:
   fat_g: 0.4
   carbs_g: 39.7
 nutrition_confidence: partial
-search: spanish rice sides 1990s onions green pepper carrot cooked rice jar tomatoes blue
+search: spanish rice sides onions green pepper carrot cooked rice jar tomatoes blue
 ---

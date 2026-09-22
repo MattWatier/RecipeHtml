@@ -3,7 +3,6 @@ title: Atkins Diet Vanilla Ice Cream
 slug: atkins-diet-vanilla-ice-cream
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '5'
   unit: ''
@@ -83,6 +82,6 @@ nutrition_confidence: partial
 related:
 - title: Atkins Diet Blueberry Ice Cream
   slug: atkins-diet-blueberry-ice-cream
-search: atkins diet vanilla ice cream desserts 1990s egg egg yolks vanilla sugar substitute water heavy
-  cream refrigerator
+search: atkins diet vanilla ice cream desserts egg egg yolks vanilla sugar substitute water heavy cream
+  refrigerator
 ---

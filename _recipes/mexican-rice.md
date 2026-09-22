@@ -3,7 +3,6 @@ title: Mexican Rice
 slug: mexican-rice
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '1'
   unit: medium
@@ -94,6 +93,6 @@ nutrition:
   fat_g: 2.3
   carbs_g: 19.4
 nutrition_confidence: partial
-search: mexican rice sides mexican 1995s sized onion garlic vegetable oil uncooked regular rice sized
-  tomato chili powder salt condensed beef bouillon water
+search: mexican rice sides mexican sized onion garlic vegetable oil uncooked regular rice sized tomato
+  chili powder salt condensed beef bouillon water
 ---

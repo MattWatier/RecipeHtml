@@ -3,7 +3,6 @@ title: Lemon & Garlic Dressing for Salads & Vegs.
 slug: lemon-garlic-dressing-for-salads-vegs
 course: condiment
 course_label: Condiments
-era: 1990s
 ingredients:
 - amount: ½
   unit: clove
@@ -97,6 +96,6 @@ nutrition:
   fat_g: 11.9
   carbs_g: 0.5
 nutrition_confidence: partial
-search: lemon & garlic dressing for salads & vegs. condiments 1990s salad garlic garlic clove salt lemon
-  juice olive oil salad smooth
+search: lemon & garlic dressing for salads & vegs. condiments salad garlic garlic clove salt lemon juice
+  olive oil salad smooth
 ---

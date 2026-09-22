@@ -3,7 +3,6 @@ title: Aioli
 slug: aioli
 course: condiment
 course_label: Condiments
-era: 1990s
 ingredients:
 - amount: '4'
   unit: clove
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 3.2
   carbs_g: 16.1
 nutrition_confidence: partial
-search: aioli condiments 1990s garlic egg salt lemon juice to 2/3 cup olive oil onion flakes ground thyme
-  ground allspice cinnamon black pepper cayenne pepper onion powder nutmeg splenda
+search: aioli condiments garlic egg salt lemon juice to 2/3 cup olive oil onion flakes ground thyme ground
+  allspice cinnamon black pepper cayenne pepper onion powder nutmeg splenda
 ---

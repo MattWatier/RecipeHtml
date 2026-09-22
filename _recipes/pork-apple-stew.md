@@ -3,7 +3,6 @@ title: Pork & Apple Stew
 slug: pork-apple-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -97,5 +96,5 @@ nutrition:
   fat_g: 17.3
   carbs_g: 23.5
 nutrition_confidence: partial
-search: pork & apple stew mains 1980s stew pork carrots onions potatoes bay leaves basil rosemary apples
+search: pork & apple stew mains stew pork carrots onions potatoes bay leaves basil rosemary apples
 ---

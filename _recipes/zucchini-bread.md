@@ -3,7 +3,6 @@ title: Zucchini Bread
 slug: zucchini-bread
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: 1½
   unit: cup
@@ -123,6 +122,6 @@ nutrition:
   fat_g: 27.1
   carbs_g: 223
 nutrition_confidence: estimated
-search: zucchini bread sides 1995s baked bread whole-wheat flour white flour sugar chopped walnuts cinnamon
+search: zucchini bread sides baked bread whole-wheat flour white flour sugar chopped walnuts cinnamon
   baking soda baking powder egg egg whites applesauce buttermilk grated zucchini
 ---

@@ -3,7 +3,6 @@ title: Bird Drops
 slug: bird-drops
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '2'
   unit: cup
@@ -92,5 +91,5 @@ nutrition:
   fat_g: 36.5
   carbs_g: 135.5
 nutrition_confidence: partial
-search: bird drops desserts 1995s sugar cocoa margarine milk peanut butter vanilla oatmeal full
+search: bird drops desserts sugar cocoa margarine milk peanut butter vanilla oatmeal full
 ---

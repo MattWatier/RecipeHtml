@@ -3,7 +3,6 @@ title: Pasta with Garlic & Bread Crumbs
 slug: pasta-with-garlic-bread-crumbs
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '12'
   unit: oz
@@ -95,6 +94,6 @@ nutrition:
   fat_g: 32.5
   carbs_g: 22.9
 nutrition_confidence: estimated
-search: pasta with garlic & bread crumbs sides 1980s bread thin spaghetti olive oil garlic fresh bread
-  crumbs lemon juice water chopped parsley salt
+search: pasta with garlic & bread crumbs sides bread thin spaghetti olive oil garlic fresh bread crumbs
+  lemon juice water chopped parsley salt
 ---

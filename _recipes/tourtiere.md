@@ -3,7 +3,6 @@ title: Tourtière
 slug: tourtiere
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -117,6 +116,6 @@ nutrition:
   fat_g: 19.6
   carbs_g: 0.1
 nutrition_confidence: partial
-search: tourtière mains 1980s baked ground or onion garlic clove salt pepper water to 1/2 cup breadcrumbs
-  double cooked
+search: tourtière mains baked ground or onion garlic clove salt pepper water to 1/2 cup breadcrumbs double
+  cooked
 ---

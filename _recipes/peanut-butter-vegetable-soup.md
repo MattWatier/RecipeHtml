@@ -3,7 +3,6 @@ title: Peanut Butter-Vegetable Soup
 slug: peanut-butter-vegetable-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '3'
   unit: ''
@@ -119,7 +118,6 @@ nutrition:
   fat_g: 22.8
   carbs_g: 9
 nutrition_confidence: partial
-search: peanut butter-vegetable soup sides 1990s soup stalks celery carrots onion garlic margarine or
-  butter water (16-ounce) can tomatoes potato zucchini vegetable or chicken bouillon pepper peanut butter
-  broth
+search: peanut butter-vegetable soup sides soup stalks celery carrots onion garlic margarine or butter
+  water (16-ounce) can tomatoes potato zucchini vegetable or chicken bouillon pepper peanut butter broth
 ---

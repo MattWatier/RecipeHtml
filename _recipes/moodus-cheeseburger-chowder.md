@@ -3,7 +3,6 @@ title: Moodus Cheeseburger Chowder
 slug: moodus-cheeseburger-chowder
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -103,6 +102,6 @@ nutrition:
   fat_g: 34.6
   carbs_g: 20.6
 nutrition_confidence: partial
-search: moodus cheeseburger chowder mains 1990s ground beef celery onion green pepper flour salt milk
-  beef bouillon sharp cheddar cheese
+search: moodus cheeseburger chowder mains ground beef celery onion green pepper flour salt milk beef bouillon
+  sharp cheddar cheese
 ---

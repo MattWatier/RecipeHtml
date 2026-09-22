@@ -3,7 +3,6 @@ title: Carote in Stufato
 slug: carote-in-stufato
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ⅓
   unit: cup
@@ -78,6 +77,5 @@ nutrition:
   fat_g: 19.3
   carbs_g: 24.6
 nutrition_confidence: partial
-search: carote in stufato sides 1990s olive oil pancetta yellow onion garlic garlic clove carrots chopped
-  parsley
+search: carote in stufato sides olive oil pancetta yellow onion garlic garlic clove carrots chopped parsley
 ---

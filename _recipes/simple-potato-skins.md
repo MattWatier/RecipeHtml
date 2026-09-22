@@ -3,7 +3,6 @@ title: Simple Potato Skins
 slug: simple-potato-skins
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '3'
   unit: ''
@@ -93,5 +92,5 @@ nutrition:
   fat_g: 13.7
   carbs_g: 12.9
 nutrition_confidence: partial
-search: simple potato skins sides mexican 1990s baked salad baking potatoes olive oil fork cookie
+search: simple potato skins sides mexican baked salad baking potatoes olive oil fork cookie
 ---

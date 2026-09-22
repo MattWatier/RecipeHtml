@@ -3,7 +3,6 @@ title: Fingerprint Cookies
 slug: fingerprint-cookies
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -122,6 +121,6 @@ nutrition:
   fat_g: 60.7
   carbs_g: 192.1
 nutrition_confidence: partial
-search: fingerprint cookies desserts 1995s baked butter sugar eggs almond extract vanilla whole wheat
-  flour white flour baking powder ground ginger salt thumb
+search: fingerprint cookies desserts baked butter sugar eggs almond extract vanilla whole wheat flour
+  white flour baking powder ground ginger salt thumb
 ---

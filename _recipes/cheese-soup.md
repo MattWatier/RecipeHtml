@@ -3,7 +3,6 @@ title: Cheese Soup
 slug: cheese-soup
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '4'
   unit: tbsp
@@ -108,6 +107,6 @@ nutrition:
   fat_g: 110.9
   carbs_g: 67.5
 nutrition_confidence: estimated
-search: cheese soup sides 1995s soup butter chopped celery chopped onion chopped green pepper flour chicken
+search: cheese soup sides soup butter chopped celery chopped onion chopped green pepper flour chicken
   bouillon sharp cheddar milk
 ---

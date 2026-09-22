@@ -3,7 +3,6 @@ title: Coffee Walnut Cookies
 slug: coffee-walnut-cookies
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: 2¼
   unit: cup
@@ -142,7 +141,7 @@ nutrition:
   fat_g: 71.6
   carbs_g: 133.1
 nutrition_confidence: partial
-search: coffee walnut cookies desserts 1995s baked flour soda salt softened butter or margarine firmly
-  instant coffee granules boiling water vanilla extract egg (12 oz) package mini chocolate chips (2 cups)
-  coarsely measuring ungreased
+search: coffee walnut cookies desserts baked flour soda salt softened butter or margarine firmly instant
+  coffee granules boiling water vanilla extract egg (12 oz) package mini chocolate chips (2 cups) coarsely
+  measuring ungreased
 ---

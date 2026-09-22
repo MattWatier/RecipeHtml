@@ -1,7 +1,7 @@
 ---
 title: Recipes
 permalink: /recipes/
-description: Search and filter every recipe card in the box by course, era, cuisine, tag or allergen.
+description: Search and filter every recipe card in the box by course, cuisine, tag or allergen.
 ---
 {%- assign facets = site.data.facets -%}
 {%- assign all_recipes = site.recipes | sort: "title" -%}
@@ -21,15 +21,6 @@ description: Search and filter every recipe card in the box by course, era, cuis
 			<div class="chips">
 				{% for course in facets.courses %}
 					<button type="button" class="chip" data-value="{{ course.key }}">{{ course.label }} <i>{{ course.count }}</i></button>
-				{% endfor %}
-			</div>
-		</div>
-
-		<div class="facet" data-facet="era">
-			<h2>Era</h2>
-			<div class="chips">
-				{% for era in facets.eras %}
-					<button type="button" class="chip" data-value="{{ era.key }}">{{ era.key }} <i>{{ era.count }}</i></button>
 				{% endfor %}
 			</div>
 		</div>
@@ -77,25 +68,7 @@ description: Search and filter every recipe card in the box by course, era, cuis
 
 	<div class="recipe-grid">
 		{% for recipe in all_recipes %}
-			<a class="rcard" href="{{ recipe.url | relative_url }}"
-			   data-search="{{ recipe.search | escape }}"
-			   data-title="{{ recipe.title | downcase | escape }}"
-			   data-course="{{ recipe.course }}"
-			   data-era="{{ recipe.era }}"
-			   data-cuisine="{{ recipe.cuisine }}"
-			   data-tag="{{ recipe.tags | join: '|' }}"
-			   data-without="{{ recipe.allergens | join: '|' }}"
-			   data-time="{{ recipe.total_minutes | default: 0 }}"
-			   data-calories="{{ recipe.nutrition.calories | default: 0 }}">
-				<span class="rcard-course course-{{ recipe.course }}">{{ recipe.course_label }}</span>
-				<h3>{{ recipe.title }}</h3>
-				<span class="rcard-meta">
-					{%- if recipe.total_time %}<span>{{ recipe.total_time }}</span>{% endif -%}
-					{%- if recipe.servings %}<span>serves {{ recipe.servings }}</span>{% endif -%}
-					{%- if recipe.nutrition.calories %}<span>{{ recipe.nutrition.calories }} cal</span>{% endif -%}
-					{%- if recipe.era %}<span>{{ recipe.era }}</span>{% endif -%}
-				</span>
-			</a>
+			{% include recipe-card.html recipe=recipe %}
 		{% endfor %}
 	</div>
 

@@ -3,7 +3,6 @@ title: Sliced Tomato Salad with Tarragon
 slug: sliced-tomato-salad-with-tarragon
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '8'
   unit: large
@@ -66,6 +65,6 @@ nutrition:
   fat_g: 14.7
   carbs_g: 10.1
 nutrition_confidence: partial
-search: sliced tomato salad with tarragon sides 1990s salad tomatoes olive oil balsamic vinegar fresh
-  tarragon platter
+search: sliced tomato salad with tarragon sides salad tomatoes olive oil balsamic vinegar fresh tarragon
+  platter
 ---

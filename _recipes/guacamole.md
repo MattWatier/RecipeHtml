@@ -3,7 +3,6 @@ title: Guacamole
 slug: guacamole
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '2'
   unit: large
@@ -69,5 +68,5 @@ nutrition:
   fat_g: 2.2
   carbs_g: 1.5
 nutrition_confidence: partial
-search: guacamole sides 1995s avocados lemon juice salt pepper grated onion hot green chili pepper
+search: guacamole sides avocados lemon juice salt pepper grated onion hot green chili pepper
 ---

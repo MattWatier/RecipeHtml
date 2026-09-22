@@ -3,7 +3,6 @@ title: Coconut Fudge Bundt Cake
 slug: coconut-fudge-bundt-cake
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: ¼
   unit: cup
@@ -156,7 +155,7 @@ nutrition:
   fat_g: 105
   carbs_g: 185.2
 nutrition_confidence: partial
-search: coconut fudge bundt cake desserts 1995s baked sugar egg vanilla (8 oz.) cream cheese coconut (6
-  oz.) semi-sweet chocolate chips oil flour cocoa baking soda baking powder salt hot coffee or water buttermilk
+search: coconut fudge bundt cake desserts baked sugar egg vanilla (8 oz.) cream cheese coconut (6 oz.)
+  semi-sweet chocolate chips oil flour cocoa baking soda baking powder salt hot coffee or water buttermilk
   or sour milk chopped walnuts bundt mixing
 ---

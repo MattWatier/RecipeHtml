@@ -3,7 +3,6 @@ title: Triple-Pepper Steamed Halibut
 slug: triple-pepper-steamed-halibut
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: 1½
   unit: tbsp
@@ -122,7 +121,7 @@ nutrition:
   fat_g: 4.1
   carbs_g: 18.2
 nutrition_confidence: partial
-search: triple-pepper steamed halibut mains 1990s extra virgin olive oil vertically strips red bell pepper
-  (2 large) strips yellow pepper (2 large) salt black pepper garlic cloves dry white wine chopped fresh
-  basil oregano (6 oz) halibut fillets salt (for fish) pepper (for fish)
+search: triple-pepper steamed halibut mains extra virgin olive oil vertically strips red bell pepper (2
+  large) strips yellow pepper (2 large) salt black pepper garlic cloves dry white wine chopped fresh basil
+  oregano (6 oz) halibut fillets salt (for fish) pepper (for fish)
 ---

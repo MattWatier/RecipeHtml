@@ -3,7 +3,6 @@ title: Short Ribs
 slug: short-ribs
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ¼
   unit: cup
@@ -156,6 +155,6 @@ nutrition:
   fat_g: 124.2
   carbs_g: 9.6
 nutrition_confidence: partial
-search: short ribs mains 1980s butter beef short ribs celery stalks carrots onion dry red wine beef broth
-  sherry garlic garlic cloves bay leaves fresh thyme sprig wide baking single work
+search: short ribs mains butter beef short ribs celery stalks carrots onion dry red wine beef broth sherry
+  garlic garlic cloves bay leaves fresh thyme sprig wide baking single work
 ---

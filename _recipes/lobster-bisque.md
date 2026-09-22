@@ -3,7 +3,6 @@ title: Lobster Bisque
 slug: lobster-bisque
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: ¼
   unit: cup
@@ -152,7 +151,6 @@ nutrition:
   fat_g: 75.7
   carbs_g: 6.4
 nutrition_confidence: partial
-search: lobster bisque mains chinese 1995s minced onion minced carrot butter lobster or seafood dry white
-  wine water or easy fish stock heavy cream egg egg yolks salt white pepper medium-dry sherry or brandy
-  double
+search: lobster bisque mains chinese minced onion minced carrot butter lobster or seafood dry white wine
+  water or easy fish stock heavy cream egg egg yolks salt white pepper medium-dry sherry or brandy double
 ---

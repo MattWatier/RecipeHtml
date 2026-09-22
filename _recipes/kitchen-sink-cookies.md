@@ -3,7 +3,6 @@ title: Kitchen Sink Cookies
 slug: kitchen-sink-cookies
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -151,6 +150,6 @@ nutrition:
   fat_g: 124.6
   carbs_g: 137.6
 nutrition_confidence: estimated
-search: kitchen sink cookies desserts 1995s baked butter eggs vanilla almond extract whole-wheat flour
-  white flour baking soda salt rolled oats sunflower seeds cocoa walnuts raisins chocolate chips
+search: kitchen sink cookies desserts baked butter eggs vanilla almond extract whole-wheat flour white
+  flour baking soda salt rolled oats sunflower seeds cocoa walnuts raisins chocolate chips
 ---

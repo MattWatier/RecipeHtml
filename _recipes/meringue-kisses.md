@@ -3,7 +3,6 @@ title: Meringue Kisses
 slug: meringue-kisses
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '2'
   unit: ''
@@ -98,5 +97,5 @@ nutrition:
   fat_g: 0.3
   carbs_g: 31.3
 nutrition_confidence: partial
-search: meringue kisses desserts 1995s egg egg whites sugar vanilla sugar (folded in) cookie damp
+search: meringue kisses desserts egg egg whites sugar vanilla sugar (folded in) cookie damp
 ---

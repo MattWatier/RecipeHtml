@@ -3,7 +3,6 @@ title: Skillet Chicken Florentine
 slug: skillet-chicken-florentine
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 2½
   unit: ''
@@ -116,6 +115,6 @@ nutrition:
   fat_g: 15.8
   carbs_g: 4
 nutrition_confidence: partial
-search: skillet chicken florentine mains italian 1980s boneless chicken breasts olive oil (10 ounces)
-  frozen chopped spinach garlic heavy cream parmesan cheese heavy
+search: skillet chicken florentine mains italian boneless chicken breasts olive oil (10 ounces) frozen
+  chopped spinach garlic heavy cream parmesan cheese heavy
 ---

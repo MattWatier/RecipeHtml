@@ -3,7 +3,6 @@ title: Passato di Ceci - Puréed Chick Peas
 slug: passato-di-ceci-pureed-chick-peas
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: 2½
   unit: cup
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 12.8
   carbs_g: 21.4
 nutrition_confidence: partial
-search: passato di ceci - puréed chick peas sides 1980s dried chick peas garlic garlic clove olive oil
-  plum tomatoes heavy food mound hollow
+search: passato di ceci - puréed chick peas sides dried chick peas garlic garlic clove olive oil plum
+  tomatoes heavy food mound hollow
 ---

@@ -3,7 +3,6 @@ title: Italian Potato + Cheese Casserole
 slug: italian-potato-cheese-casserole
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: lb
@@ -133,6 +132,6 @@ nutrition:
   fat_g: 35.9
   carbs_g: 43.4
 nutrition_confidence: partial
-search: italian potato + cheese casserole sides italian 1990s baked casserole russet potatoes butter salt
-  ripe tomatoes basil mozzarella cheese hard-boiled eggs chopped parsley parmesan shallow
+search: italian potato + cheese casserole sides italian baked casserole russet potatoes butter salt ripe
+  tomatoes basil mozzarella cheese hard-boiled eggs chopped parsley parmesan shallow
 ---

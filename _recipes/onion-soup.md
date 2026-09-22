@@ -3,7 +3,6 @@ title: Onion Soup
 slug: onion-soup
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '4'
   unit: large
@@ -71,5 +70,5 @@ nutrition:
   fat_g: 20.4
   carbs_g: 38.9
 nutrition_confidence: partial
-search: onion soup sides 1995s soup onions butter basic beef broth salt pepper
+search: onion soup sides soup onions butter basic beef broth salt pepper
 ---

@@ -3,7 +3,6 @@ title: Mushrooms à la Provençale
 slug: mushrooms-a-la-provencale
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '4'
   unit: tbsp
@@ -75,6 +74,6 @@ nutrition:
   fat_g: 25.8
   carbs_g: 41.6
 nutrition_confidence: partial
-search: mushrooms à la provençale sides 1990s bread butter or olive oil garlic onion white mushrooms fresh
-  bread crumbs parsley
+search: mushrooms à la provençale sides bread butter or olive oil garlic onion white mushrooms fresh bread
+  crumbs parsley
 ---

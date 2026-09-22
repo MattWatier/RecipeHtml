@@ -3,7 +3,6 @@ title: Old Drover's Inn Cheese Soup
 slug: old-drover-s-inn-cheese-soup
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: ½
   unit: cup
@@ -135,7 +134,7 @@ nutrition:
   fat_g: 63.4
   carbs_g: 40.7
 nutrition_confidence: partial
-search: old drover's inn cheese soup sides 1995s soup chopped raw carrots chopped raw celery chopped raw
-  onion chopped raw green pepper butter or margarine flour chicken bouillon grated sharp cheddar milk
-  chopped parsley dry sherry ( heavy
+search: old drover's inn cheese soup sides soup chopped raw carrots chopped raw celery chopped raw onion
+  chopped raw green pepper butter or margarine flour chicken bouillon grated sharp cheddar milk chopped
+  parsley dry sherry ( heavy
 ---

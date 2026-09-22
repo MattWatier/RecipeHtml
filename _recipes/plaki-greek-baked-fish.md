@@ -3,7 +3,6 @@ title: Plaki - Greek Baked Fish
 slug: plaki-greek-baked-fish
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '3'
   unit: ''
@@ -119,6 +118,6 @@ nutrition:
   fat_g: 17.9
   carbs_g: 19.3
 nutrition_confidence: partial
-search: plaki - greek baked fish mains greek 1980s baked casserole onions garlic olive oil canned tomatoes
-  chopped parsley oregano red wine white fish fillets lemon
+search: plaki - greek baked fish mains greek baked casserole onions garlic olive oil canned tomatoes chopped
+  parsley oregano red wine white fish fillets lemon
 ---

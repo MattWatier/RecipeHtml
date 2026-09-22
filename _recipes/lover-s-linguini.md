@@ -3,7 +3,6 @@ title: Lover's Linguini
 slug: lover-s-linguini
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '8'
   unit: oz
@@ -108,6 +107,6 @@ nutrition:
   fat_g: 52
   carbs_g: 6.1
 nutrition_confidence: partial
-search: lover's linguini mains italian 1980s linguini olive oil hot oil garlic handful fresh basil dry
-  white wine heavy cream salt pepper grated parmesan cheese
+search: lover's linguini mains italian linguini olive oil hot oil garlic handful fresh basil dry white
+  wine heavy cream salt pepper grated parmesan cheese
 ---

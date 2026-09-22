@@ -3,7 +3,6 @@ title: Salad
 slug: salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: clove
@@ -161,6 +160,6 @@ nutrition:
   fat_g: 31.3
   carbs_g: 32.7
 nutrition_confidence: partial
-search: salad sides italian 1990s salad garlic olive oil romaine fresh parsley green pepper cucumber sweet
-  red onion lemon juice worcestershire parmesan ripe tomato spinach salt scallions toasted salad
+search: salad sides italian salad garlic olive oil romaine fresh parsley green pepper cucumber sweet red
+  onion lemon juice worcestershire parmesan ripe tomato spinach salt scallions toasted salad
 ---

@@ -3,7 +3,6 @@ title: Shortcake
 slug: shortcake
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '2'
   unit: cup
@@ -96,5 +95,5 @@ nutrition:
   fat_g: 22.5
   carbs_g: 64.1
 nutrition_confidence: partial
-search: shortcake sides 1995s baked flour sugar baking powder salt shortening milk soft
+search: shortcake sides baked flour sugar baking powder salt shortening milk soft
 ---

@@ -3,7 +3,6 @@ title: Matt's Mustard Pork Roast
 slug: matt-s-mustard-pork-roast
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -125,6 +124,6 @@ nutrition:
   fat_g: 37
   carbs_g: 0.7
 nutrition_confidence: partial
-search: matt's mustard pork roast mains 1990s baked bread roasting thyme pepper salt good-quality pork
-  roast horseradish garlic grey poupon white wine
+search: matt's mustard pork roast mains baked bread roasting thyme pepper salt good-quality pork roast
+  horseradish garlic grey poupon white wine
 ---

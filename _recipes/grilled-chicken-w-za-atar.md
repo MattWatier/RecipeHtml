@@ -3,7 +3,6 @@ title: Grilled Chicken w/ Za'atar
 slug: grilled-chicken-w-za-atar
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -134,7 +133,7 @@ nutrition:
   fat_g: 17.8
   carbs_g: 8
 nutrition_confidence: partial
-search: grilled chicken w/ za'atar mains 1980s (3-4 lb) chicken za'atar garlic heads olive oil lemon zest
-  fresh lemon juice chopped fresh rosemary chile dried marjoram chopped fresh oregano sumac ground cumin
-  sesame seeds kosher salt pepper
+search: grilled chicken w/ za'atar mains (3-4 lb) chicken za'atar garlic heads olive oil lemon zest fresh
+  lemon juice chopped fresh rosemary chile dried marjoram chopped fresh oregano sumac ground cumin sesame
+  seeds kosher salt pepper
 ---

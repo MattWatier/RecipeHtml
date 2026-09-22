@@ -3,7 +3,6 @@ title: Danubian Chicken Stew
 slug: danubian-chicken-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 1½
   unit: tbsp
@@ -150,7 +149,7 @@ nutrition:
   fat_g: 78.1
   carbs_g: 17.7
 nutrition_confidence: partial
-search: danubian chicken stew mains 1980s bread stew vinegar sugar chicken thighs or wings bay leaf clove
-  caraway seeds rib celery carrot onion water tart apples cabbage heavy cream soft bread crumbs flour
-  paprika dill
+search: danubian chicken stew mains bread stew vinegar sugar chicken thighs or wings bay leaf clove caraway
+  seeds rib celery carrot onion water tart apples cabbage heavy cream soft bread crumbs flour paprika
+  dill
 ---

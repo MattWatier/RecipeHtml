@@ -3,7 +3,6 @@ title: Scallops & Creamy Brussels Sprouts Pasta
 slug: scallops-creamy-brussels-sprouts-pasta
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '12'
   unit: oz
@@ -164,6 +163,6 @@ nutrition:
   fat_g: 35.2
   carbs_g: 81.2
 nutrition_confidence: partial
-search: scallops & creamy brussels sprouts pasta mains italian 1990s pasta fresh small scallops brussels
-  sprouts bacon shallots garlic fresh parsley dry white wine heavy cream finely butter
+search: scallops & creamy brussels sprouts pasta mains italian pasta fresh small scallops brussels sprouts
+  bacon shallots garlic fresh parsley dry white wine heavy cream finely butter
 ---

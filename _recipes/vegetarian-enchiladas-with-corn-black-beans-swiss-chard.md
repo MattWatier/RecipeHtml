@@ -3,7 +3,6 @@ title: Vegetarian Enchiladas with Corn, Black Beans & Swiss Chard
 slug: vegetarian-enchiladas-with-corn-black-beans-swiss-chard
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -277,8 +276,8 @@ nutrition:
   fat_g: 41.9
   carbs_g: 43.1
 nutrition_confidence: partial
-search: vegetarian enchiladas with corn, black beans & swiss chard mains mexican 1990s baked wet browned
-  olive oil onion garlic extra-firm tofu ground cumin chili powder smoked paprika corn kernels (15 oz)
-  black beans tomato swiss chard lime juice salt black pepper shredded monterey jack corn or flour tortillas
+search: vegetarian enchiladas with corn, black beans & swiss chard mains mexican baked wet browned olive
+  oil onion garlic extra-firm tofu ground cumin chili powder smoked paprika corn kernels (15 oz) black
+  beans tomato swiss chard lime juice salt black pepper shredded monterey jack corn or flour tortillas
   enchilada sauce shredded cheese
 ---

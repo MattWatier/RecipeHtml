@@ -3,7 +3,6 @@ title: Home-Ec Peanut Butter Bars
 slug: home-ec-peanut-butter-bars
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: ¼
   unit: cup
@@ -83,6 +82,6 @@ nutrition:
   fat_g: 17.5
   carbs_g: 87.4
 nutrition_confidence: partial
-search: home-ec peanut butter bars desserts 1995s corn syrup vanilla peanut butter corn flakes rice krispies
+search: home-ec peanut butter bars desserts corn syrup vanilla peanut butter corn flakes rice krispies
   baking
 ---

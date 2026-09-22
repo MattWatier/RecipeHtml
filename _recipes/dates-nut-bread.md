@@ -3,7 +3,6 @@ title: Dates Nut Bread
 slug: dates-nut-bread
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ¾
   unit: cup
@@ -115,6 +114,6 @@ nutrition:
   fat_g: 19.9
   carbs_g: 136.9
 nutrition_confidence: partial
-search: dates nut bread sides 1990s baked bread chopped nuts dates soda salt solid shortening boiling
-  water eggs vanilla sugar flour greased
+search: dates nut bread sides baked bread chopped nuts dates soda salt solid shortening boiling water
+  eggs vanilla sugar flour greased
 ---

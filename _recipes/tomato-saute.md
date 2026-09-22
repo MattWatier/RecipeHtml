@@ -3,7 +3,6 @@ title: Tomato Sauté
 slug: tomato-saute
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: clove
@@ -66,5 +65,5 @@ nutrition:
   fat_g: 2
   carbs_g: 3.6
 nutrition_confidence: partial
-search: tomato sauté sides 1990s garlic onion stalks celery tomatoes butter
+search: tomato sauté sides garlic onion stalks celery tomatoes butter
 ---

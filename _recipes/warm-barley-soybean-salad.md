@@ -3,7 +3,6 @@ title: Warm Barley + Soybean Salad
 slug: warm-barley-soybean-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '3'
   unit: cup
@@ -101,7 +100,6 @@ nutrition:
   fat_g: 100.8
   carbs_g: 20.3
 nutrition_confidence: estimated
-search: warm barley + soybean salad sides 1990s salad water whole grain barley frozen soybeans finely
-  chopped red bell pepper chopped onion thinly sliced celery mayonnaise lemon juice chopped fresh cilantro
-  salt
+search: warm barley + soybean salad sides salad water whole grain barley frozen soybeans finely chopped
+  red bell pepper chopped onion thinly sliced celery mayonnaise lemon juice chopped fresh cilantro salt
 ---

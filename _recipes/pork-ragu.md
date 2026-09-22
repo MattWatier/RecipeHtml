@@ -3,7 +3,6 @@ title: Pork Ragu
 slug: pork-ragu
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: oz
@@ -171,7 +170,7 @@ nutrition:
   fat_g: 45.9
   carbs_g: 37.4
 nutrition_confidence: partial
-search: pork ragu mains italian 1990s dried porcini mushrooms boiling water olive oil crimini (baby bella)
-  mushrooms garlic garlic cloves dry white wine boneless pork rib chopped prosciutto mild italian sausage
-  onion carrot celery stalk crushed tomatoes chicken broth bay leaves
+search: pork ragu mains italian dried porcini mushrooms boiling water olive oil crimini (baby bella) mushrooms
+  garlic garlic cloves dry white wine boneless pork rib chopped prosciutto mild italian sausage onion
+  carrot celery stalk crushed tomatoes chicken broth bay leaves
 ---

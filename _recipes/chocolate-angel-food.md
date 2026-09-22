@@ -3,7 +3,6 @@ title: Chocolate Angel Food
 slug: chocolate-angel-food
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '0.667'
   unit: cup
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 3.7
   carbs_g: 41
 nutrition_confidence: partial
-search: chocolate angel food desserts 1995s baked cake flour unsweetened cocoa sugar salt cinnamon egg
-  whites cream of tartar warm water vanilla
+search: chocolate angel food desserts baked cake flour unsweetened cocoa sugar salt cinnamon egg whites
+  cream of tartar warm water vanilla
 ---

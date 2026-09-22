@@ -3,7 +3,6 @@ title: Banana Walnut Bread
 slug: banana-walnut-bread
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: 1¾
   unit: cup
@@ -108,6 +107,6 @@ nutrition:
   fat_g: 20.7
   carbs_g: 81.3
 nutrition_confidence: partial
-search: banana walnut bread sides 1995s baked bread flour mashed bananas baking powder baking soda salt
-  shortening sugar eggs well
+search: banana walnut bread sides baked bread flour mashed bananas baking powder baking soda salt shortening
+  sugar eggs well
 ---

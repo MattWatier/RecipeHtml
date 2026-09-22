@@ -3,7 +3,6 @@ title: Grilled Fish Fillets
 slug: grilled-fish-fillets
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -65,5 +64,5 @@ nutrition:
   fat_g: 4.8
   carbs_g: 0
 nutrition_confidence: partial
-search: grilled fish fillets mains 1980s olive oil butter oiled
+search: grilled fish fillets mains olive oil butter oiled
 ---

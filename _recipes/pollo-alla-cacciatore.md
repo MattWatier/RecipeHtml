@@ -3,7 +3,6 @@ title: Pollo Alla Cacciatore
 slug: pollo-alla-cacciatore
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -142,7 +141,6 @@ nutrition:
   fat_g: 2.9
   carbs_g: 5.8
 nutrition_confidence: partial
-search: pollo alla cacciatore mains 1980s fowl stalk celery whole carrot whole onion bay leaves thyme
-  potatoes green pepper sage oregano cloves parsley mushrooms butter white wine (15 ounce) can tomatoes
-  dry
+search: pollo alla cacciatore mains fowl stalk celery whole carrot whole onion bay leaves thyme potatoes
+  green pepper sage oregano cloves parsley mushrooms butter white wine (15 ounce) can tomatoes dry
 ---

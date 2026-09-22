@@ -3,7 +3,6 @@ title: Yorkshire Chicken
 slug: yorkshire-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ¼
   unit: cup
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 18.1
   carbs_g: 15.4
 nutrition_confidence: partial
-search: yorkshire chicken mains 1980s baked vegetable oil flour salt pepper sage whole chicken chicken
-  (3 1/2 lb) baking powder milk eggs chopped parsley baking
+search: yorkshire chicken mains baked vegetable oil flour salt pepper sage whole chicken chicken (3 1/2
+  lb) baking powder milk eggs chopped parsley baking
 ---

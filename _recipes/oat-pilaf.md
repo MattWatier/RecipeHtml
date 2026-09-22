@@ -3,7 +3,6 @@ title: Oat Pilaf
 slug: oat-pilaf
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '2'
   unit: ''
@@ -69,5 +68,5 @@ nutrition:
   fat_g: 11.6
   carbs_g: 41.5
 nutrition_confidence: partial
-search: oat pilaf sides 1980s eggs quick-cooking oats butter (14 oz) can chicken broth
+search: oat pilaf sides eggs quick-cooking oats butter (14 oz) can chicken broth
 ---

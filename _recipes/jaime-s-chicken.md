@@ -3,7 +3,6 @@ title: Jaime's Chicken
 slug: jaime-s-chicken
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '6'
   unit: ''
@@ -103,6 +102,6 @@ nutrition:
   fat_g: 3.9
   carbs_g: 39.8
 nutrition_confidence: partial
-search: jaime's chicken mains 1995s bread chicken chicken thighs milk flour bread crumbs garlic salt chili
-  powder pepper oregano sage basil
+search: jaime's chicken mains bread chicken chicken thighs milk flour bread crumbs garlic salt chili powder
+  pepper oregano sage basil
 ---

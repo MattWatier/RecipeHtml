@@ -3,7 +3,6 @@ title: Tabbouleh
 slug: tabbouleh
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '1'
   unit: cup
@@ -95,6 +94,6 @@ nutrition:
   fat_g: 14.4
   carbs_g: 36.5
 nutrition_confidence: partial
-search: tabbouleh sides 1980s bulgur boiling water minced parsley fresh mint onion ripe tomatoes oil lemon
-  juice salt pepper
+search: tabbouleh sides bulgur boiling water minced parsley fresh mint onion ripe tomatoes oil lemon juice
+  salt pepper
 ---

@@ -3,7 +3,6 @@ title: Gnocchi Del Casentino - Casentene Gnocchi
 slug: gnocchi-del-casentino-casentene-gnocchi
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: 2½
   unit: lb
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 31.6
   carbs_g: 7.6
 nutrition_confidence: partial
-search: gnocchi del casentino - casentene gnocchi sides italian 1980s mixed wild greens (dandelion ricotta
-  egg parmesan butter cloth shallow time slotted
+search: gnocchi del casentino - casentene gnocchi sides italian mixed wild greens (dandelion ricotta egg
+  parmesan butter cloth shallow time slotted
 ---

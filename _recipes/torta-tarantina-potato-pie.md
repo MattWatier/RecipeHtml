@@ -3,7 +3,6 @@ title: Torta Tarantina Potato Pie
 slug: torta-tarantina-potato-pie
 course: dessert
 course_label: Desserts
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -113,6 +112,6 @@ nutrition:
   fat_g: 27.4
   carbs_g: 70.9
 nutrition_confidence: partial
-search: torta tarantina potato pie desserts 1980s baked baking potatoes tomatoes olive oil (for potatoes)
-  mozzarella fillet anchovies olive oil (to drizzle) sieve round
+search: torta tarantina potato pie desserts baked baking potatoes tomatoes olive oil (for potatoes) mozzarella
+  fillet anchovies olive oil (to drizzle) sieve round
 ---

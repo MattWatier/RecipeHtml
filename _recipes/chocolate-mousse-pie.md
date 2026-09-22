@@ -3,7 +3,6 @@ title: Chocolate Mousse Pie
 slug: chocolate-mousse-pie
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '12'
   unit: oz
@@ -82,6 +81,6 @@ nutrition:
   fat_g: 101
   carbs_g: 88.4
 nutrition_confidence: partial
-search: chocolate mousse pie desserts 1990s semisweet chocolate vanilla chilled whipping cream sugar graham
+search: chocolate mousse pie desserts semisweet chocolate vanilla chilled whipping cream sugar graham
   cracker crust
 ---

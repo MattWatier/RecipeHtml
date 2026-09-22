@@ -3,7 +3,6 @@ title: Danish Fish Pudding
 slug: danish-fish-pudding
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: ''
@@ -103,6 +102,5 @@ nutrition:
   fat_g: 30.8
   carbs_g: 16
 nutrition_confidence: partial
-search: danish fish pudding mains 1990s baked bread eggs nutmeg milk fresh haddock or salmon heavy cream
-  food
+search: danish fish pudding mains baked bread eggs nutmeg milk fresh haddock or salmon heavy cream food
 ---

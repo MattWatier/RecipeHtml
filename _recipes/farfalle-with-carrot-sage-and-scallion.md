@@ -3,7 +3,6 @@ title: Farfalle with Carrot, Sage, and Scallion
 slug: farfalle-with-carrot-sage-and-scallion
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: ½
   unit: lb
@@ -114,6 +113,6 @@ nutrition:
   fat_g: 15.8
   carbs_g: 17.6
 nutrition_confidence: partial
-search: farfalle with carrot, sage, and scallion sides 1980s farfalle (bow-tie pasta) extra-virgin olive
-  oil butter carrots scallions fresh sage leaves jack cheese
+search: farfalle with carrot, sage, and scallion sides farfalle (bow-tie pasta) extra-virgin olive oil
+  butter carrots scallions fresh sage leaves jack cheese
 ---

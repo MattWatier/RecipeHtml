@@ -3,7 +3,6 @@ title: Cole Slaw Dressing
 slug: cole-slaw-dressing
 course: condiment
 course_label: Condiments
-era: 1990s
 ingredients:
 - amount: '1'
   unit: cup
@@ -66,5 +65,5 @@ nutrition_confidence: estimated
 related:
 - title: Cole Slaw Dressing
   slug: cole-slaw-dressing-2
-search: cole slaw dressing condiments 1990s mayonnaise sour cream sugar dry mustard horseradish
+search: cole slaw dressing condiments mayonnaise sour cream sugar dry mustard horseradish
 ---

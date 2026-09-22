@@ -3,7 +3,6 @@ title: Spaghetti alla Carbonara
 slug: spaghetti-alla-carbonara-2
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -99,6 +98,6 @@ nutrition_confidence: partial
 related:
 - title: Spaghetti alla Carbonara
   slug: spaghetti-alla-carbonara
-search: spaghetti alla carbonara mains italian 1980s spaghetti butter olive oil ham lean bacon mushrooms
-  pecorino or parmesan eggs
+search: spaghetti alla carbonara mains italian spaghetti butter olive oil ham lean bacon mushrooms pecorino
+  or parmesan eggs
 ---

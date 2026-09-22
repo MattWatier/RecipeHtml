@@ -3,7 +3,6 @@ title: Chicken Sauté
 slug: chicken-saute
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '4'
   unit: tbsp
@@ -70,5 +69,5 @@ nutrition:
   fat_g: 141.4
   carbs_g: 20
 nutrition_confidence: estimated
-search: chicken sauté mains 1980s butter frying chicken dry wine (first addition) dry wine (second addition)
+search: chicken sauté mains butter frying chicken dry wine (first addition) dry wine (second addition)
 ---

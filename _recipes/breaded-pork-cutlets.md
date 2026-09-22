@@ -3,7 +3,6 @@ title: Breaded Pork Cutlets
 slug: breaded-pork-cutlets
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: slice
@@ -107,6 +106,6 @@ nutrition:
   fat_g: 3.1
   carbs_g: 13.2
 nutrition_confidence: partial
-search: breaded pork cutlets mains 1990s bread whole wheat bread kosher salt black pepper sage thyme boneless
+search: breaded pork cutlets mains bread whole wheat bread kosher salt black pepper sage thyme boneless
   pork chops flour egg whites vegetable oil food
 ---

@@ -3,7 +3,6 @@ title: Maiale Ubriaco - Drunken Pork
 slug: maiale-ubriaco-drunken-pork
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -70,6 +69,5 @@ nutrition:
   fat_g: 3.6
   carbs_g: 1.1
 nutrition_confidence: partial
-search: maiale ubriaco - drunken pork mains 1990s olive oil pork chops fennel seed bay leaves dry red
-  wine
+search: maiale ubriaco - drunken pork mains olive oil pork chops fennel seed bay leaves dry red wine
 ---

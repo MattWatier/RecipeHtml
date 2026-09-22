@@ -3,7 +3,6 @@ title: Mama's Chocolate Chip Cookies
 slug: mama-s-chocolate-chip-cookies
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -130,6 +129,6 @@ nutrition:
   fat_g: 45
   carbs_g: 66.2
 nutrition_confidence: partial
-search: mama's chocolate chip cookies desserts 1990s baked butter boiling water instant coffee vanilla
-  egg flour soda salt (12 oz) package chocolate chips chopped walnuts ungreased
+search: mama's chocolate chip cookies desserts baked butter boiling water instant coffee vanilla egg flour
+  soda salt (12 oz) package chocolate chips chopped walnuts ungreased
 ---

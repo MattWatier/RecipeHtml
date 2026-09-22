@@ -3,7 +3,6 @@ title: Normandy Pork Chops
 slug: normandy-pork-chops
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '3'
   unit: ''
@@ -89,5 +88,5 @@ nutrition:
   fat_g: 1.6
   carbs_g: 66.6
 nutrition_confidence: partial
-search: normandy pork chops mains 1980s baked casserole pork chops apples cranberries sweet cider buttered
+search: normandy pork chops mains baked casserole pork chops apples cranberries sweet cider buttered
 ---

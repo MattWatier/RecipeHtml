@@ -3,7 +3,6 @@ title: Tender-to-the-Bone Spareribs w/ Auntie Joe Sauce
 slug: tender-to-the-bone-spareribs-w-auntie-joe-sauce
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: cup
@@ -86,6 +85,6 @@ nutrition:
   fat_g: 107.5
   carbs_g: 42.1
 nutrition_confidence: partial
-search: tender-to-the-bone spareribs w/ auntie joe sauce mains 1990s baked brewed coffee sugar salt ketchup
+search: tender-to-the-bone spareribs w/ auntie joe sauce mains baked brewed coffee sugar salt ketchup
   cider vinegar chopped onion country-style spareribs greased
 ---

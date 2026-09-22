@@ -3,7 +3,6 @@ title: Oat Cakes
 slug: oat-cakes
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '3'
   unit: cup
@@ -129,6 +128,6 @@ nutrition:
   fat_g: 85.1
   carbs_g: 102.2
 nutrition_confidence: partial
-search: oat cakes desserts 1990s baked rolled oats flour sugar (white or brown) baking powder baking soda
-  salt shortening butter cold water ball greased
+search: oat cakes desserts baked rolled oats flour sugar (white or brown) baking powder baking soda salt
+  shortening butter cold water ball greased
 ---

@@ -3,7 +3,6 @@ title: Provencal Chick Pea Soup
 slug: provencal-chick-pea-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ½
   unit: lb
@@ -122,6 +121,6 @@ nutrition:
   fat_g: 492
   carbs_g: 29.7
 nutrition_confidence: partial
-search: provencal chick pea soup sides 1990s bread soup dried chick peas cold water onion leeks extra
-  virgin olive oil red tomato thin strip of orange zest ground fennel seeds country-style bread soup thread
+search: provencal chick pea soup sides bread soup dried chick peas cold water onion leeks extra virgin
+  olive oil red tomato thin strip of orange zest ground fennel seeds country-style bread soup thread
 ---

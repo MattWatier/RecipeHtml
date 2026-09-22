@@ -3,7 +3,6 @@ title: Hilda's Yorkshire Scones
 slug: hilda-s-yorkshire-scones
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: 1½
   unit: cup
@@ -96,6 +95,6 @@ nutrition:
   fat_g: 10.8
   carbs_g: 55.5
 nutrition_confidence: estimated
-search: hilda's yorkshire scones breakfast 1995s baked sifted flour sugar salt baking powder margarine
-  seedless raisins egg milk caraway seed
+search: hilda's yorkshire scones breakfast baked sifted flour sugar salt baking powder margarine seedless
+  raisins egg milk caraway seed
 ---

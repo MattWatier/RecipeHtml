@@ -3,7 +3,6 @@ title: Chicken Marengo
 slug: chicken-marengo
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 2½
   unit: lb
@@ -121,6 +120,6 @@ nutrition:
   fat_g: 31.3
   carbs_g: 31.6
 nutrition_confidence: estimated
-search: chicken marengo mains 1980s chicken butter onions flour water white wine tomato puree mushrooms
-  oregano parsley
+search: chicken marengo mains chicken butter onions flour water white wine tomato puree mushrooms oregano
+  parsley
 ---

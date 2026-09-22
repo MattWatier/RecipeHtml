@@ -3,7 +3,6 @@ title: Cheese + Broccoli Soup
 slug: cheese-broccoli-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: ''
@@ -133,6 +132,6 @@ nutrition:
   fat_g: 35.5
   carbs_g: 46.4
 nutrition_confidence: partial
-search: cheese + broccoli soup sides 1990s soup chicken chicken-flavored bouillon cubes water broccoli
-  potato chopped onion butter flour salt pepper milk cheese soup
+search: cheese + broccoli soup sides soup chicken chicken-flavored bouillon cubes water broccoli potato
+  chopped onion butter flour salt pepper milk cheese soup
 ---

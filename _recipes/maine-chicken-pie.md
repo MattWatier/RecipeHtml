@@ -3,7 +3,6 @@ title: Maine Chicken Pie
 slug: maine-chicken-pie
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -123,6 +122,6 @@ nutrition:
   fat_g: 13.2
   carbs_g: 10
 nutrition_confidence: partial
-search: maine chicken pie mains 1980s baked (5 lb) stewing chicken water salt onion carrot stalk celery
-  flour chicken broth (from poaching) drops yellow food coloring ( cooked chicken ( frozen peas ( stock
+search: maine chicken pie mains baked (5 lb) stewing chicken water salt onion carrot stalk celery flour
+  chicken broth (from poaching) drops yellow food coloring ( cooked chicken ( frozen peas ( stock
 ---

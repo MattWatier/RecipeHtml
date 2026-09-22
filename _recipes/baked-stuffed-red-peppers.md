@@ -3,7 +3,6 @@ title: Baked Stuffed Red Peppers
 slug: baked-stuffed-red-peppers
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '4'
   unit: large
@@ -112,6 +111,6 @@ nutrition:
   fat_g: 39.4
   carbs_g: 31.9
 nutrition_confidence: partial
-search: baked stuffed red peppers sides 1990s baked red peppers spinach ricotta 2 t. milk grated smoked
-  cheese nuts scallions salt shallow
+search: baked stuffed red peppers sides baked red peppers spinach ricotta 2 t. milk grated smoked cheese
+  nuts scallions salt shallow
 ---

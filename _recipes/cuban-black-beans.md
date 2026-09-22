@@ -3,7 +3,6 @@ title: Cuban Black Beans
 slug: cuban-black-beans
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -117,6 +116,6 @@ nutrition:
   fat_g: 56
   carbs_g: 63.3
 nutrition_confidence: partial
-search: cuban black beans mains 1990s black beans green pepper onion sprigs fresh coriander oregano bay
-  leaf salt pork garlic coarsely olive oil vinegar sugar
+search: cuban black beans mains black beans green pepper onion sprigs fresh coriander oregano bay leaf
+  salt pork garlic coarsely olive oil vinegar sugar
 ---

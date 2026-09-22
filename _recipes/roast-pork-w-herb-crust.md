@@ -3,7 +3,6 @@ title: Roast Pork w/ Herb Crust
 slug: roast-pork-w-herb-crust
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -105,6 +104,6 @@ nutrition:
   fat_g: 6.7
   carbs_g: 5.1
 nutrition_confidence: partial
-search: roast pork w/ herb crust mains german 1990s baked pork tenderloin garlic fresh parsley pepper
-  thyme rosemary salt german mustard olive oil
+search: roast pork w/ herb crust mains german baked pork tenderloin garlic fresh parsley pepper thyme
+  rosemary salt german mustard olive oil
 ---

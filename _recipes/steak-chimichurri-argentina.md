@@ -3,7 +3,6 @@ title: Steak Chimichurri Argentina
 slug: steak-chimichurri-argentina
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '0.667'
   unit: cup
@@ -101,6 +100,6 @@ nutrition:
   fat_g: 18.6
   carbs_g: 11
 nutrition_confidence: partial
-search: steak chimichurri argentina mains italian 1980s sherry wine vinegar olive oil chopped flat italian
-  parsley chopped fresh oregano garlic red pepper flakes salt strip steaks shallow
+search: steak chimichurri argentina mains italian sherry wine vinegar olive oil chopped flat italian parsley
+  chopped fresh oregano garlic red pepper flakes salt strip steaks shallow
 ---

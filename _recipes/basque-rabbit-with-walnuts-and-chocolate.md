@@ -3,7 +3,6 @@ title: Basque Rabbit with Walnuts and Chocolate
 slug: basque-rabbit-with-walnuts-and-chocolate
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -139,6 +138,6 @@ nutrition:
   fat_g: 5.8
   carbs_g: 16.5
 nutrition_confidence: partial
-search: basque rabbit with walnuts and chocolate mains 1980s whole rabbit garlic sliced apple flour square
-  of unsweetened chocolate red wine white wine water walnuts butter
+search: basque rabbit with walnuts and chocolate mains whole rabbit garlic sliced apple flour square of
+  unsweetened chocolate red wine white wine water walnuts butter
 ---

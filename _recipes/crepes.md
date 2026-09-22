@@ -3,7 +3,6 @@ title: Crepes
 slug: crepes
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: ½
   unit: cup
@@ -94,5 +93,5 @@ nutrition:
   fat_g: 4.8
   carbs_g: 17.3
 nutrition_confidence: partial
-search: crepes breakfast french 1995s flour salt eggs milk cold water melted butter crepe thin
+search: crepes breakfast french flour salt eggs milk cold water melted butter crepe thin
 ---

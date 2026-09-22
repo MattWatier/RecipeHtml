@@ -3,7 +3,6 @@ title: How to Make Whipped Cream from Dry Milk
 slug: how-to-make-whipped-cream-from-dry-milk
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: ½
   unit: cup
@@ -62,5 +61,5 @@ nutrition:
   fat_g: 0.3
   carbs_g: 28.8
 nutrition_confidence: partial
-search: how to make whipped cream from dry milk sides 1995s dry milk ice water lemon juice sugar
+search: how to make whipped cream from dry milk sides dry milk ice water lemon juice sugar
 ---

@@ -3,7 +3,6 @@ title: Baeckeoffe - Alsatian Meat Stew
 slug: baeckeoffe-alsatian-meat-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '4'
   unit: cup
@@ -162,7 +161,7 @@ nutrition:
   fat_g: 45.3
   carbs_g: 13.4
 nutrition_confidence: partial
-search: 'baeckeoffe - alsatian meat stew mains 1980s baked casserole stew thinly sliced onion sliced carrot
+search: 'baeckeoffe - alsatian meat stew mains baked casserole stew thinly sliced onion sliced carrot
   sliced leek boneless beef shoulder boned pork blade steak thyme sprigs parsley stems cloves bay leaves
   garlic salt dry white wine small red potatoes salt (for layering: 1/4 t. + 1/4 t.) bouquet greased'
 ---

@@ -3,7 +3,6 @@ title: Dad's Favorite Dessert
 slug: dad-s-favorite-dessert
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '1'
   unit: qt
@@ -58,5 +57,5 @@ nutrition:
   fat_g: 3.1
   carbs_g: 77.2
 nutrition_confidence: partial
-search: dad's favorite dessert desserts 1995s buttermilk can sugar jar maraschino cherries vanilla
+search: dad's favorite dessert desserts buttermilk can sugar jar maraschino cherries vanilla
 ---

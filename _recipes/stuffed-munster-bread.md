@@ -3,7 +3,6 @@ title: Stuffed Munster Bread
 slug: stuffed-munster-bread
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '2'
   unit: pkg
@@ -146,6 +145,6 @@ nutrition:
   fat_g: 50.7
   carbs_g: 187.4
 nutrition_confidence: partial
-search: stuffed munster bread sides 1995s baked bread yeast warm water milk sugar salt egg melted butter
-  flour munster cheese egg (to mix with the cheese) soft circle round final
+search: stuffed munster bread sides baked bread yeast warm water milk sugar salt egg melted butter flour
+  munster cheese egg (to mix with the cheese) soft circle round final
 ---

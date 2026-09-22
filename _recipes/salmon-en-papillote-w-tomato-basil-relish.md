@@ -3,7 +3,6 @@ title: Salmon en Papillote w/ Tomato-Basil Relish
 slug: salmon-en-papillote-w-tomato-basil-relish
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: large
@@ -113,6 +112,6 @@ nutrition:
   fat_g: 4.7
   carbs_g: 1.7
 nutrition_confidence: partial
-search: salmon en papillote w/ tomato-basil relish mains 1990s baked roma tomatoes fresh basil shallots
-  garlic olive oil lemon juice salt loosely salmon fillets aluminum
+search: salmon en papillote w/ tomato-basil relish mains baked roma tomatoes fresh basil shallots garlic
+  olive oil lemon juice salt loosely salmon fillets aluminum
 ---

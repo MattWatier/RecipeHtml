@@ -3,7 +3,6 @@ title: Catalan Meatballs
 slug: catalan-meatballs
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -152,7 +151,7 @@ nutrition:
   fat_g: 29.3
   carbs_g: 51.3
 nutrition_confidence: partial
-search: catalan meatballs mains 1990s bread ground turkey garlic garlic cloves onion minced fresh parsley
-  egg fresh bread crumbs milk minced fresh thyme minced fresh rosemary olive oil plum tomatoes chicken
-  broth sherry slivered or toasted almonds frypan
+search: catalan meatballs mains bread ground turkey garlic garlic cloves onion minced fresh parsley egg
+  fresh bread crumbs milk minced fresh thyme minced fresh rosemary olive oil plum tomatoes chicken broth
+  sherry slivered or toasted almonds frypan
 ---

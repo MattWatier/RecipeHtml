@@ -3,7 +3,6 @@ title: Brodetto di Sogliole - Adriatic Sole Soup
 slug: brodetto-di-sogliole-adriatic-sole-soup
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -148,7 +147,7 @@ nutrition:
   fat_g: 26.5
   carbs_g: 7.5
 nutrition_confidence: partial
-search: brodetto di sogliole - adriatic sole soup mains 1980s bread soup fish bones and trimmings carrot
-  celery stalk parsley water extra virgin olive oil garlic anchovy fillets dry white wine ripe tomatoes
-  amount saffron sole fillets firm in
+search: brodetto di sogliole - adriatic sole soup mains bread soup fish bones and trimmings carrot celery
+  stalk parsley water extra virgin olive oil garlic anchovy fillets dry white wine ripe tomatoes amount
+  saffron sole fillets firm in
 ---

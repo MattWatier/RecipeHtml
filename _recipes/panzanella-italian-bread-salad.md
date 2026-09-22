@@ -3,7 +3,6 @@ title: Panzanella Italian Bread Salad
 slug: panzanella-italian-bread-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -94,6 +93,6 @@ nutrition:
   fat_g: 16.7
   carbs_g: 36.7
 nutrition_confidence: partial
-search: panzanella italian bread salad sides italian 1990s bread salad rather stale tuscan country-style
-  bread dead-ripe tomatoes red onion extra-virgin olive oil red wine vinegar balsamic vinegar salad fork
+search: panzanella italian bread salad sides italian bread salad rather stale tuscan country-style bread
+  dead-ripe tomatoes red onion extra-virgin olive oil red wine vinegar balsamic vinegar salad fork
 ---

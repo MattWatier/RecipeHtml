@@ -3,7 +3,6 @@ title: Chap Chae (Korean Noodles w/ Veggies)
 slug: chap-chae-korean-noodles-w-veggies
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -120,7 +119,7 @@ nutrition:
   fat_g: 11.9
   carbs_g: 8.7
 nutrition_confidence: partial
-search: chap chae (korean noodles w/ veggies) sides chinese 1990s (10 oz) pkg bean thread noodles sugar
-  (cut from 1/2 c. on the card) sesame oil finely soy sauce onion carrot red pepper mushrooms scallions
-  vegetable oil garnish
+search: chap chae (korean noodles w/ veggies) sides chinese (10 oz) pkg bean thread noodles sugar (cut
+  from 1/2 c. on the card) sesame oil finely soy sauce onion carrot red pepper mushrooms scallions vegetable
+  oil garnish
 ---

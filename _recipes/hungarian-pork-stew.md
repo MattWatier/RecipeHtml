@@ -3,7 +3,6 @@ title: Hungarian Pork Stew
 slug: hungarian-pork-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 2½
   unit: lb
@@ -111,6 +110,6 @@ nutrition_confidence: partial
 related:
 - title: Hungarian Stew
   slug: hungarian-stew
-search: hungarian pork stew mains 1980s stew cubed pork potatoes onion carrots chicken stock green pepper
-  can tomatoes mushrooms thyme sweet hungarian paprika
+search: hungarian pork stew mains stew cubed pork potatoes onion carrots chicken stock green pepper can
+  tomatoes mushrooms thyme sweet hungarian paprika
 ---

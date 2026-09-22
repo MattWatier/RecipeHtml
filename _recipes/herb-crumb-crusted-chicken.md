@@ -3,7 +3,6 @@ title: Herb-Crumb Crusted Chicken
 slug: herb-crumb-crusted-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: cup
@@ -135,6 +134,6 @@ nutrition:
   fat_g: 8.9
   carbs_g: 4.8
 nutrition_confidence: partial
-search: herb-crumb crusted chicken mains 1990s baked bread sour cream lemon juice salt black pepper hot
-  sauce garlic garlic clove skinless chicken breast halves dry mustard dried thyme paprika zip baking
+search: herb-crumb crusted chicken mains baked bread sour cream lemon juice salt black pepper hot sauce
+  garlic garlic clove skinless chicken breast halves dry mustard dried thyme paprika zip baking
 ---

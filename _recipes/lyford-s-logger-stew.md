@@ -3,7 +3,6 @@ title: Lyford's Logger Stew
 slug: lyford-s-logger-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 13.9
   carbs_g: 31
 nutrition_confidence: partial
-search: lyford's logger stew mains 1980s stew london broil onions carrots potatoes bay leaves paprika
-  (mild) allspice ground cloves lemon juice worcestershire sugar
+search: lyford's logger stew mains stew london broil onions carrots potatoes bay leaves paprika (mild)
+  allspice ground cloves lemon juice worcestershire sugar
 ---

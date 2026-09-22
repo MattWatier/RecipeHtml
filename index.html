@@ -1,6 +1,6 @@
 ---
 title: Home
-description: A family recipe box of 1980s, 1990s and 1995 recipe cards, transcribed and searchable.
+description: A family recipe box of handwritten and clipped cards, transcribed and searchable.
 ---
 {%- assign facets = site.data.facets -%}
 
@@ -31,14 +31,14 @@ description: A family recipe box of 1980s, 1990s and 1995 recipe cards, transcri
 </div>
 
 <div class="section-head">
-	<h2>Browse by era</h2>
+	<h2>Browse by cuisine</h2>
 </div>
 
 <div class="course-tiles">
-	{% for era in facets.eras %}
-		<a class="course-tile" href="{{ '/recipes/#era=' | append: era.key | relative_url }}">
-			<strong>{{ era.key }}</strong>
-			<span>{{ era.count }} cards</span>
+	{% for cuisine in facets.cuisines %}
+		<a class="course-tile" href="{{ '/recipes/#cuisine=' | append: cuisine.key | relative_url }}">
+			<strong>{{ cuisine.key }}</strong>
+			<span>{{ cuisine.count }} recipe{% if cuisine.count != 1 %}s{% endif %}</span>
 		</a>
 	{% endfor %}
 </div>
@@ -61,14 +61,6 @@ the collection instead of eight variations on the same thing.
 
 <div class="recipe-grid">
 	{% for recipe in picks %}
-		<a class="rcard" href="{{ recipe.url | relative_url }}">
-			<span class="rcard-course course-{{ recipe.course }}">{{ recipe.course_label }}</span>
-			<h3>{{ recipe.title }}</h3>
-			<span class="rcard-meta">
-				{%- if recipe.total_time %}<span>{{ recipe.total_time }}</span>{% endif -%}
-				{%- if recipe.servings %}<span>serves {{ recipe.servings }}</span>{% endif -%}
-				{%- if recipe.era %}<span>{{ recipe.era }}</span>{% endif -%}
-			</span>
-		</a>
+		{% include recipe-card.html recipe=recipe %}
 	{% endfor %}
 </div>

@@ -3,7 +3,6 @@ title: Lemon Chiffon - Atkins Diet
 slug: lemon-chiffon-atkins-diet
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '3'
   unit: ''
@@ -118,6 +117,6 @@ nutrition:
   fat_g: 11.2
   carbs_g: 1.7
 nutrition_confidence: partial
-search: lemon chiffon - atkins diet desserts 1990s egg egg yolks water pkt. sugar substitute diet lemon
-  gelatin lemon juice lemon extract lemon rind egg whites salt
+search: lemon chiffon - atkins diet desserts egg egg yolks water pkt. sugar substitute diet lemon gelatin
+  lemon juice lemon extract lemon rind egg whites salt
 ---

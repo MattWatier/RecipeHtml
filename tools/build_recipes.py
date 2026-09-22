@@ -67,7 +67,8 @@ VULGAR = {
     0.875: "\u215e",
 }
 
-# `tags` repeats the era; the era gets its own facet, so drop it from tags.
+# The vault's `era` values are placeholders rather than real dates, so they are
+# dropped here — both the field itself and the decade tags that mirror it.
 ERA_TAG = re.compile(r"^\d{4}s$")
 
 # Kaper step titles carry their own number ("1. Slice"); the template renders
@@ -261,7 +262,6 @@ def collect(vault: Path) -> list[dict]:
                 "course": course,
                 "course_label": COURSE_LABELS.get(course, course.title()),
                 "cuisine": clean(meta.get("cuisine")),
-                "era": clean(meta.get("era")),
                 "servings": to_number(meta.get("servings")),
                 "yield": clean(meta.get("yield")),
                 "difficulty": clean(kaper.get("difficulty")),
@@ -309,7 +309,6 @@ def front_matter(recipe: dict, by_stem: dict[str, dict]) -> dict:
         "slug": recipe["slug"],
         "course": recipe["course"],
         "course_label": recipe["course_label"],
-        "era": recipe["era"],
         "ingredients": recipe["ingredients"],
         "steps": recipe["steps"],
     }
@@ -342,7 +341,7 @@ def front_matter(recipe: dict, by_stem: dict[str, dict]) -> dict:
 
     # Everything the browse page matches free-text queries against, lowercased
     # once here so the filter script never has to normalise at keystroke time.
-    haystack = [recipe["title"], recipe["course_label"], recipe["cuisine"], recipe["era"]]
+    haystack = [recipe["title"], recipe["course_label"], recipe["cuisine"]]
     haystack += recipe["tags"]
     haystack += [item["name"] for item in recipe["ingredients"]]
     data["search"] = " ".join(part for part in haystack if part).lower()
@@ -367,14 +366,11 @@ def write_collection(recipes: list[dict], out_dir: Path) -> None:
 def write_facets(recipes: list[dict], out_file: Path) -> None:
     """Filter options for the browse page, ordered so the UI stays stable."""
     courses = collections.Counter()
-    eras = collections.Counter()
     cuisines = collections.Counter()
     tags = collections.Counter()
     allergens = collections.Counter()
     for recipe in recipes:
         courses[(recipe["course"], recipe["course_label"])] += 1
-        if recipe["era"]:
-            eras[recipe["era"]] += 1
         if recipe["cuisine"]:
             cuisines[recipe["cuisine"]] += 1
         tags.update(recipe["tags"])
@@ -396,7 +392,6 @@ def write_facets(recipes: list[dict], out_file: Path) -> None:
             ]
             for count in [courses[(key, label)]]
         ],
-        "eras": listed(eras, order="name"),
         "cuisines": listed(cuisines),
         "tags": listed(tags),
         "allergens": listed(allergens),

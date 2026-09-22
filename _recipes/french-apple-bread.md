@@ -3,7 +3,6 @@ title: French Apple Bread
 slug: french-apple-bread
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -150,6 +149,6 @@ nutrition:
   fat_g: 26.6
   carbs_g: 156.5
 nutrition_confidence: partial
-search: french apple bread sides french 1990s baked bread flour soda baking powder salt melted butter
-  sugar eggs applesauce diced grated sharp cheddar chopped walnuts raisins grated apples greased
+search: french apple bread sides french baked bread flour soda baking powder salt melted butter sugar
+  eggs applesauce diced grated sharp cheddar chopped walnuts raisins grated apples greased
 ---

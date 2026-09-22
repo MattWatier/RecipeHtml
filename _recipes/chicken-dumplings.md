@@ -3,7 +3,6 @@ title: Chicken + Dumplings
 slug: chicken-dumplings
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '1'
   unit: tsp
@@ -137,6 +136,6 @@ nutrition:
   fat_g: 44.1
   carbs_g: 22.3
 nutrition_confidence: partial
-search: chicken + dumplings mains 1995s stew margarine carrot celery stalk onion chicken thighs chicken
-  broth milk flour peas flour baking powder salt shortening milk
+search: chicken + dumplings mains stew margarine carrot celery stalk onion chicken thighs chicken broth
+  milk flour peas flour baking powder salt shortening milk
 ---

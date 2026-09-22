@@ -3,7 +3,6 @@ title: Atkins Diet - Turkey Meatballs
 slug: atkins-diet-turkey-meatballs
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: small
@@ -104,6 +103,6 @@ nutrition:
   fat_g: 15.8
   carbs_g: 1.3
 nutrition_confidence: partial
-search: atkins diet - turkey meatballs mains italian 1990s onion stalk of celery garlic ground turkey
-  salt parmesan cheese thyme egg curry powder
+search: atkins diet - turkey meatballs mains italian onion stalk of celery garlic ground turkey salt parmesan
+  cheese thyme egg curry powder
 ---

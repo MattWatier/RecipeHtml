@@ -3,7 +3,6 @@ title: Crumble à la Ratatouille
 slug: crumble-a-la-ratatouille
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: ¼
   unit: cup
@@ -147,7 +146,7 @@ nutrition:
   fat_g: 33.6
   carbs_g: 21.1
 nutrition_confidence: partial
-search: crumble à la ratatouille sides italian 1990s baked bread salad olive oil onion garlic garlic cloves
+search: crumble à la ratatouille sides italian baked bread salad olive oil onion garlic garlic cloves
   eggplant red pepper green pepper zucchini tomatoes (1 stick) minus 1 t. butter heaping cup bread crumbs
   (flour is crossed out on the card) grated parmesan pine nuts frying
 ---

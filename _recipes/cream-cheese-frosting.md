@@ -3,7 +3,6 @@ title: Cream Cheese Frosting
 slug: cream-cheese-frosting
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '1'
   unit: stick
@@ -175,7 +174,7 @@ nutrition:
   fat_g: 128.3
   carbs_g: 229
 nutrition_confidence: partial
-search: cream cheese frosting desserts 1990s baked softened butter cream cheese powdered sugar instant
-  coffee vanilla thick flour salt nutmeg cinnamon baking powder oil eggs carrots combined nuts and raisins
-  time greased
+search: cream cheese frosting desserts baked softened butter cream cheese powdered sugar instant coffee
+  vanilla thick flour salt nutmeg cinnamon baking powder oil eggs carrots combined nuts and raisins time
+  greased
 ---

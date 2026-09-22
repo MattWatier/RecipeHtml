@@ -3,7 +3,6 @@ title: Braised Pork Shoulder in Hoisin-Wine Sauce
 slug: braised-pork-shoulder-in-hoisin-wine-sauce
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -146,7 +145,7 @@ nutrition:
   fat_g: 23
   carbs_g: 6.8
 nutrition_confidence: partial
-search: braised pork shoulder in hoisin-wine sauce mains 1990s baked sake (marinade) hoisin sauce (marinade)
+search: braised pork shoulder in hoisin-wine sauce mains baked sake (marinade) hoisin sauce (marinade)
   garlic garlic cloves boston butt pork roast salt chopped onion chicken broth sake hoisin sauce pitted
   dried plums zip
 ---

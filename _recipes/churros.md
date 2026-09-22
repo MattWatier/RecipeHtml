@@ -3,7 +3,6 @@ title: Churros
 slug: churros
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -111,5 +110,5 @@ nutrition:
   fat_g: 28.4
   carbs_g: 27.6
 nutrition_confidence: partial
-search: churros sides 1995s water butter flour eggs of mass time pastry star continuous
+search: churros sides water butter flour eggs of mass time pastry star continuous
 ---

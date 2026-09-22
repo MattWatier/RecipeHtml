@@ -3,7 +3,6 @@ title: Banana Fritters (Zha Shiang-Jua)
 slug: banana-fritters-zha-shiang-jua
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '4'
   unit: ''
@@ -106,6 +105,6 @@ nutrition:
   fat_g: 109.1
   carbs_g: 40.3
 nutrition_confidence: partial
-search: banana fritters (zha shiang-jua) sides 1995s baked firm flour cornstarch baking powder water corn
-  oil superfine sugar smooth
+search: banana fritters (zha shiang-jua) sides baked firm flour cornstarch baking powder water corn oil
+  superfine sugar smooth
 ---

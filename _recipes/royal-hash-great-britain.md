@@ -3,7 +3,6 @@ title: Royal Hash - Great Britain
 slug: royal-hash-great-britain
 course: main
 course_label: Mains
-era: ''
 ingredients:
 - amount: '1'
   unit: tbsp

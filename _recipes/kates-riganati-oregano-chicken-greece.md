@@ -3,7 +3,6 @@ title: Kates Riganati - Oregano Chicken - Greece
 slug: kates-riganati-oregano-chicken-greece
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 58.3
   carbs_g: 6.4
 nutrition_confidence: partial
-search: kates riganati - oregano chicken - greece mains 1990s baked olive oil lemon juice salt chicken
-  butter tomatoes oregano pepper roasting
+search: kates riganati - oregano chicken - greece mains baked olive oil lemon juice salt chicken butter
+  tomatoes oregano pepper roasting
 ---

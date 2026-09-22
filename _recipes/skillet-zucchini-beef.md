@@ -3,7 +3,6 @@ title: Skillet Zucchini + Beef
 slug: skillet-zucchini-beef
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: lb
@@ -92,6 +91,6 @@ nutrition:
   fat_g: 20
   carbs_g: 67.5
 nutrition_confidence: partial
-search: skillet zucchini + beef mains 1980s hamburger oil onion green pepper tomato paste stewed tomatoes
-  salt oregano garlic powder zucchini
+search: skillet zucchini + beef mains hamburger oil onion green pepper tomato paste stewed tomatoes salt
+  oregano garlic powder zucchini
 ---

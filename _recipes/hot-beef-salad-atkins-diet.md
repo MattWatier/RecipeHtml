@@ -3,7 +3,6 @@ title: Hot Beef Salad - Atkins Diet
 slug: hot-beef-salad-atkins-diet
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: small
@@ -154,7 +153,7 @@ nutrition:
   fat_g: 22.8
   carbs_g: 3.5
 nutrition_confidence: partial
-search: hot beef salad - atkins diet mains chinese 1990s salad head boston lettuce chinese cabbage cucumber
+search: hot beef salad - atkins diet mains chinese salad head boston lettuce chinese cabbage cucumber
   red onion daikon tomatoes mint leaves coriander leaves walnut oil sirloin seasoned salt garlic garlic
   cloves fresh lime juice pkt sugar substitute tamari soy sauce crushed red pepper flakes sharp cheddar
 ---

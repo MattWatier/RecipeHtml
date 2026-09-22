@@ -18,13 +18,6 @@ courses:
 - key: drink
   label: Drinks
   count: 3
-eras:
-- key: 1980s
-  count: 104
-- key: 1990s
-  count: 169
-- key: 1995s
-  count: 69
 cuisines:
 - key: Italian
   count: 47

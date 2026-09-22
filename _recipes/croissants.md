@@ -3,7 +3,6 @@ title: Croissants
 slug: croissants
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: ¾
   unit: cup
@@ -180,6 +179,6 @@ nutrition:
   fat_g: 41.6
   carbs_g: 25
 nutrition_confidence: partial
-search: croissants sides 1995s baked milk sugar salt warm water active dry yeast to 2 1/2 cups flour butter
+search: croissants sides baked milk sugar salt warm water active dry yeast to 2 1/2 cups flour butter
   egg egg yolk dough floured ball greased half
 ---

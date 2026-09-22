@@ -3,7 +3,6 @@ title: Gulf Coast Pork Chops & Rice
 slug: gulf-coast-pork-chops-rice
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '5'
   unit: ''
@@ -177,7 +176,7 @@ nutrition:
   fat_g: 15.9
   carbs_g: 35.5
 nutrition_confidence: partial
-search: gulf coast pork chops & rice mains 1980s baked bone-in pork chops salt black pepper oil garlic
-  onion celery green bell pepper long-grain white rice dried thyme rubbed sage paprika white pepper bay
-  leaf chicken broth
+search: gulf coast pork chops & rice mains baked bone-in pork chops salt black pepper oil garlic onion
+  celery green bell pepper long-grain white rice dried thyme rubbed sage paprika white pepper bay leaf
+  chicken broth
 ---

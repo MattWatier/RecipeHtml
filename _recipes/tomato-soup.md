@@ -3,7 +3,6 @@ title: Tomato Soup
 slug: tomato-soup
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: medium
@@ -123,6 +122,6 @@ nutrition:
   fat_g: 12.4
   carbs_g: 3.5
 nutrition_confidence: partial
-search: tomato soup sides 1990s soup onions garlic garlic clove extra-virgin olive oil tomatoes salt sugar
-  sprigs fresh thyme bay leaf black peppercorns fresh basil cumin food
+search: tomato soup sides soup onions garlic garlic clove extra-virgin olive oil tomatoes salt sugar sprigs
+  fresh thyme bay leaf black peppercorns fresh basil cumin food
 ---

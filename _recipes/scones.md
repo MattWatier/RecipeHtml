@@ -3,7 +3,6 @@ title: Scones
 slug: scones
 course: breakfast
 course_label: Breakfast
-era: 1990s
 ingredients:
 - amount: 1¾
   unit: cup
@@ -149,6 +148,6 @@ nutrition:
   fat_g: 44.6
   carbs_g: 102.9
 nutrition_confidence: partial
-search: scones breakfast 1990s baked flour baking powder baking soda cream of tartar salt sugar butter
-  raisins cranberries walnuts buttermilk or yogurt egg egg yolk vanilla lemon extract circle baking
+search: scones breakfast baked flour baking powder baking soda cream of tartar salt sugar butter raisins
+  cranberries walnuts buttermilk or yogurt egg egg yolk vanilla lemon extract circle baking
 ---

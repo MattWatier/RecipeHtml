@@ -3,7 +3,6 @@ title: Stuffed Chicken Breast
 slug: stuffed-chicken-breast
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '6'
   unit: ''
@@ -66,5 +65,5 @@ nutrition:
   fat_g: 11.4
   carbs_g: 4.2
 nutrition_confidence: partial
-search: stuffed chicken breast mains 1995s baked casserole chicken breasts butter poultry stuffing
+search: stuffed chicken breast mains baked casserole chicken breasts butter poultry stuffing
 ---

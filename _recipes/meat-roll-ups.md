@@ -3,7 +3,6 @@ title: Meat Roll-ups
 slug: meat-roll-ups
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -56,5 +55,5 @@ total_time: 15 min
 total_iso: PT15M
 tags:
 - baked
-search: meat roll-ups mains 1990s baked rectangle greased
+search: meat roll-ups mains baked rectangle greased
 ---

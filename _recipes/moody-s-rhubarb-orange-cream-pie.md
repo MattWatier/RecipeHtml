@@ -3,7 +3,6 @@ title: Moody's Rhubarb-Orange Cream Pie
 slug: moody-s-rhubarb-orange-cream-pie
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: ¼
   unit: cup
@@ -130,6 +129,6 @@ nutrition:
   fat_g: 47.1
   carbs_g: 82.2
 nutrition_confidence: partial
-search: moody's rhubarb-orange cream pie desserts 1990s baked margarine orange juice egg egg yolks sugar
-  flour salt rhubarb egg whites unbaked 9-inch pie shell pecans
+search: moody's rhubarb-orange cream pie desserts baked margarine orange juice egg egg yolks sugar flour
+  salt rhubarb egg whites unbaked 9-inch pie shell pecans
 ---

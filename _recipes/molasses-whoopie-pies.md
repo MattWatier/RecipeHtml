@@ -3,7 +3,6 @@ title: Molasses Whoopie Pies
 slug: molasses-whoopie-pies
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '2'
   unit: ''
@@ -147,6 +146,6 @@ nutrition:
   fat_g: 63.8
   carbs_g: 245.7
 nutrition_confidence: estimated
-search: molasses whoopie pies desserts 1990s baked eggs sugar hot coffee salt shortening vinegar baking
-  soda molasses cinnamon ginger flour milk soft butter vanilla
+search: molasses whoopie pies desserts baked eggs sugar hot coffee salt shortening vinegar baking soda
+  molasses cinnamon ginger flour milk soft butter vanilla
 ---

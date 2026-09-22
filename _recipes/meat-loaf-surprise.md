@@ -3,7 +3,6 @@ title: Meat Loaf Surprise
 slug: meat-loaf-surprise
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -145,7 +144,7 @@ nutrition:
   fat_g: 20.6
   carbs_g: 31.6
 nutrition_confidence: partial
-search: meat loaf surprise mains italian 1980s baked bread casserole ground chuck eggs seasoned dried
-  bread crumbs grated parmesan garlic garlic clove salt pepper tomato sauce frozen spinach minced fresh
-  parsley or basil melted butter log
+search: meat loaf surprise mains italian baked bread casserole ground chuck eggs seasoned dried bread
+  crumbs grated parmesan garlic garlic clove salt pepper tomato sauce frozen spinach minced fresh parsley
+  or basil melted butter log
 ---

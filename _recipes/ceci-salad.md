@@ -3,7 +3,6 @@ title: Ceci Salad
 slug: ceci-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 74.1
   carbs_g: 131.7
 nutrition_confidence: partial
-search: ceci salad sides 1990s salad garbanzos wine vinegar olive oil salt paprika oregano garlic minced
-  scallion spinach avocado
+search: ceci salad sides salad garbanzos wine vinegar olive oil salt paprika oregano garlic minced scallion
+  spinach avocado
 ---

@@ -3,7 +3,6 @@ title: Rosemary & Thyme Pork Tenderloin
 slug: rosemary-thyme-pork-tenderloin
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tsp
@@ -75,6 +74,6 @@ nutrition:
   fat_g: 0.2
   carbs_g: 1.1
 nutrition_confidence: partial
-search: rosemary & thyme pork tenderloin mains 1990s baked white vinegar dried rosemary dried thyme black
-  pepper lean pork chops baking
+search: rosemary & thyme pork tenderloin mains baked white vinegar dried rosemary dried thyme black pepper
+  lean pork chops baking
 ---

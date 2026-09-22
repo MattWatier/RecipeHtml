@@ -3,7 +3,6 @@ title: Atkin Diet Salmon Soufflé
 slug: atkin-diet-salmon-souffle
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -147,6 +146,6 @@ nutrition:
   fat_g: 52.3
   carbs_g: 11.3
 nutrition_confidence: partial
-search: atkin diet salmon soufflé mains 1990s baked butter soy flour seasoned salt heavy cream salmon
-  egg egg yolks egg whites lemon juice souffl
+search: atkin diet salmon soufflé mains baked butter soy flour seasoned salt heavy cream salmon egg egg
+  yolks egg whites lemon juice souffl
 ---

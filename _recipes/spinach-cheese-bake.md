@@ -3,7 +3,6 @@ title: Spinach Cheese Bake
 slug: spinach-cheese-bake
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '4'
   unit: tbsp
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 52.8
   carbs_g: 32.3
 nutrition_confidence: partial
-search: spinach cheese bake sides 1995s baked butter eggs milk flour monterey jack cheese chopped onions
-  salt baking powder packages chopped spinach
+search: spinach cheese bake sides baked butter eggs milk flour monterey jack cheese chopped onions salt
+  baking powder packages chopped spinach
 ---

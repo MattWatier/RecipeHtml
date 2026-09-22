@@ -3,7 +3,6 @@ title: Viennese Chicken
 slug: viennese-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 11.6
   carbs_g: 14.2
 nutrition_confidence: partial
-search: viennese chicken mains 1980s butter onion chicken chicken (2-3 lb) green pepper carrots mushrooms
-  tomato chicken stock paprika salt flour sour cream wine (
+search: viennese chicken mains butter onion chicken chicken (2-3 lb) green pepper carrots mushrooms tomato
+  chicken stock paprika salt flour sour cream wine (
 ---

@@ -3,7 +3,6 @@ title: Poor Man's Poivrade
 slug: poor-man-s-poivrade
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -57,5 +56,5 @@ nutrition:
   fat_g: 0.1
   carbs_g: 3
 nutrition_confidence: partial
-search: poor man's poivrade sides 1980s coarse cracked pepper dry white wine bit
+search: poor man's poivrade sides coarse cracked pepper dry white wine bit
 ---

@@ -3,7 +3,6 @@ title: Braised Chicken with Potatoes & Indian Spices
 slug: braised-chicken-with-potatoes-indian-spices
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: 3½
   unit: lb
@@ -184,7 +183,7 @@ nutrition:
   fat_g: 93
   carbs_g: 77.7
 nutrition_confidence: partial
-search: braised chicken with potatoes & indian spices mains indian 1980s chicken pieces salt black pepper
-  butter vegetable oil onion carrots potatoes garlic garlic cloves minced fresh gingerroot plain yogurt
-  chicken stock cumin turmeric coriander cayenne pepper frozen peas
+search: braised chicken with potatoes & indian spices mains indian chicken pieces salt black pepper butter
+  vegetable oil onion carrots potatoes garlic garlic cloves minced fresh gingerroot plain yogurt chicken
+  stock cumin turmeric coriander cayenne pepper frozen peas
 ---

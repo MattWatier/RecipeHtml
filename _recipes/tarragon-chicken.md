@@ -3,7 +3,6 @@ title: Tarragon Chicken
 slug: tarragon-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -158,6 +157,6 @@ nutrition:
   fat_g: 20.6
   carbs_g: 9.6
 nutrition_confidence: partial
-search: tarragon chicken mains 1980s baked butter fryer chicken salt-free seasoning dried tarragon garlic
-  dry white wine broiler chicken olive oil balsamic vinegar roasting platter sauceboat
+search: tarragon chicken mains baked butter fryer chicken salt-free seasoning dried tarragon garlic dry
+  white wine broiler chicken olive oil balsamic vinegar roasting platter sauceboat
 ---

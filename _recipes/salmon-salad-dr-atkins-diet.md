@@ -3,7 +3,6 @@ title: Salmon Salad - Dr. Atkins Diet
 slug: salmon-salad-dr-atkins-diet
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -102,7 +101,6 @@ nutrition:
   fat_g: 27
   carbs_g: 8.2
 nutrition_confidence: partial
-search: salmon salad - dr. atkins diet mains 1990s salad (7 oz) can salmon scallions stalk celery tarragon
-  vinegar seasoned salt turns of the pepper mill olive oil heavy cream lemon juice crumbled roquefort
-  cheese
+search: salmon salad - dr. atkins diet mains salad (7 oz) can salmon scallions stalk celery tarragon vinegar
+  seasoned salt turns of the pepper mill olive oil heavy cream lemon juice crumbled roquefort cheese
 ---

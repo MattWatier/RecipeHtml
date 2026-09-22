@@ -3,7 +3,6 @@ title: Passato di Fagioli - Bean Purée
 slug: passato-di-fagioli-bean-puree
 course: side
 course_label: Sides
-era: 1980s
 ingredients:
 - amount: 2½
   unit: cup
@@ -66,5 +65,5 @@ nutrition:
   fat_g: 13.8
   carbs_g: 89.7
 nutrition_confidence: partial
-search: passato di fagioli - bean purée sides 1980s dried cannellini beans olive oil food
+search: passato di fagioli - bean purée sides dried cannellini beans olive oil food
 ---

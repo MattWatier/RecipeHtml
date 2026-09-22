@@ -3,7 +3,6 @@ title: White Wine - Sage Marinade
 slug: white-wine-sage-marinade
 course: condiment
 course_label: Condiments
-era: 1980s
 ingredients:
 - amount: ½
   unit: cup
@@ -58,6 +57,6 @@ nutrition:
   fat_g: 18.5
   carbs_g: 3.6
 nutrition_confidence: partial
-search: white wine - sage marinade condiments 1980s dry white wine olive or vegetable oil dried sage shallots
+search: white wine - sage marinade condiments dry white wine olive or vegetable oil dried sage shallots
   salt and pepper
 ---

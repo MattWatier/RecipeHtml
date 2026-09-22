@@ -3,7 +3,6 @@ title: Beef w/ Broccoli
 slug: beef-w-broccoli
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: lb
@@ -124,6 +123,6 @@ nutrition:
   fat_g: 35.6
   carbs_g: 30
 nutrition_confidence: partial
-search: beef w/ broccoli mains chinese 1990s flank or other steak soy sauce cornstarch dry sherry sugar
-  broccoli vegetable oil salt gingerroot mushrooms hot
+search: beef w/ broccoli mains chinese flank or other steak soy sauce cornstarch dry sherry sugar broccoli
+  vegetable oil salt gingerroot mushrooms hot
 ---

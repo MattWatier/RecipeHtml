@@ -3,7 +3,6 @@ title: Cranberry and Banana Bread
 slug: cranberry-and-banana-bread
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: ⅓
   unit: cup
@@ -122,6 +121,6 @@ nutrition:
   fat_g: 22.4
   carbs_g: 89.9
 nutrition_confidence: partial
-search: cranberry and banana bread sides 1995s baked bread shortening or margarine sugar eggs chopped
-  walnuts sifted all-purpose flour salt mashed ripe bananas chopped fresh cranberries baking powder greased
+search: cranberry and banana bread sides baked bread shortening or margarine sugar eggs chopped walnuts
+  sifted all-purpose flour salt mashed ripe bananas chopped fresh cranberries baking powder greased
 ---

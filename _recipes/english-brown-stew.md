@@ -3,7 +3,6 @@ title: English Brown Stew
 slug: english-brown-stew
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: lb
@@ -132,7 +131,7 @@ nutrition:
   fat_g: 26
   carbs_g: 33.5
 nutrition_confidence: partial
-search: english brown stew mains 1980s stew london broil onions potatoes carrots stalks celery garlic
-  tomato juice or 1 tablespoon tomato paste worcestershire lemon juice sugar allspice paprika (mild) beef
-  fat flour roux
+search: english brown stew mains stew london broil onions potatoes carrots stalks celery garlic tomato
+  juice or 1 tablespoon tomato paste worcestershire lemon juice sugar allspice paprika (mild) beef fat
+  flour roux
 ---

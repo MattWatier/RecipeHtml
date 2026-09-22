@@ -3,7 +3,6 @@ title: Lemon-Dill Salmon Croquettes
 slug: lemon-dill-salmon-croquettes
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -130,6 +129,6 @@ nutrition:
   fat_g: 12.5
   carbs_g: 16.7
 nutrition_confidence: estimated
-search: lemon-dill salmon croquettes mains 1990s bread egg flour chopped fresh dill mayonnaise grated
-  lemon rind pepper (15 oz) salmon egg white bread crumbs sour cream horseradish
+search: lemon-dill salmon croquettes mains bread egg flour chopped fresh dill mayonnaise grated lemon
+  rind pepper (15 oz) salmon egg white bread crumbs sour cream horseradish
 ---

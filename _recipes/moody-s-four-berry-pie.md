@@ -3,7 +3,6 @@ title: Moody's Four Berry Pie
 slug: moody-s-four-berry-pie
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -91,6 +90,6 @@ nutrition:
   fat_g: 0.9
   carbs_g: 83.6
 nutrition_confidence: partial
-search: moody's four berry pie desserts 1990s baked unbaked 9-inch pie shell strawberries blackberries
-  blueberries raspberries sugar tapioca cinnamon
+search: moody's four berry pie desserts baked unbaked 9-inch pie shell strawberries blackberries blueberries
+  raspberries sugar tapioca cinnamon
 ---

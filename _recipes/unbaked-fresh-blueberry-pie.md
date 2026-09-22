@@ -3,7 +3,6 @@ title: Unbaked Fresh Blueberry Pie
 slug: unbaked-fresh-blueberry-pie
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '3'
   unit: tbsp
@@ -86,6 +85,6 @@ nutrition:
   fat_g: 60.3
   carbs_g: 56.8
 nutrition_confidence: partial
-search: unbaked fresh blueberry pie desserts 1990s cornstarch cold water sugar blueberries lemon juice
-  graham cracker crust
+search: unbaked fresh blueberry pie desserts cornstarch cold water sugar blueberries lemon juice graham
+  cracker crust
 ---

@@ -3,7 +3,6 @@ title: Winter Salad
 slug: winter-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: medium
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 35.7
   carbs_g: 59.9
 nutrition_confidence: partial
-search: winter salad sides 1990s salad red potatoes broccoli florets scallions olive oil toasted sesame
-  seeds honey salt or more t. vinegar dried arame sea vegetable
+search: winter salad sides salad red potatoes broccoli florets scallions olive oil toasted sesame seeds
+  honey salt or more t. vinegar dried arame sea vegetable
 ---

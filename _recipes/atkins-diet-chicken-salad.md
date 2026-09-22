@@ -3,7 +3,6 @@ title: Atkins Diet Chicken Salad
 slug: atkins-diet-chicken-salad
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: large
@@ -97,6 +96,6 @@ nutrition_confidence: partial
 related:
 - title: Atkins Diet Pork Salad
   slug: atkins-diet-pork-salad
-search: atkins diet chicken salad mains 1990s salad chicken breast dill pickle hard-boiled eggs scallions
-  pepper sugar-free mayo sour cream drained capers fresh dill pecan
+search: atkins diet chicken salad mains salad chicken breast dill pickle hard-boiled eggs scallions pepper
+  sugar-free mayo sour cream drained capers fresh dill pecan
 ---

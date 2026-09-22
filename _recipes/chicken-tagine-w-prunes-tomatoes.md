@@ -3,7 +3,6 @@ title: Chicken Tagine w/ Prunes & Tomatoes
 slug: chicken-tagine-w-prunes-tomatoes
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '2'
   unit: ''
@@ -115,6 +114,6 @@ nutrition:
   fat_g: 3.7
   carbs_g: 13.6
 nutrition_confidence: partial
-search: chicken tagine w/ prunes & tomatoes mains 1980s chicken chicken breasts cumin turmeric olive oil
-  onion tomatoes pitted prunes cinnamon stick honey (card marks this with ??) serving
+search: chicken tagine w/ prunes & tomatoes mains chicken chicken breasts cumin turmeric olive oil onion
+  tomatoes pitted prunes cinnamon stick honey (card marks this with ??) serving
 ---

@@ -3,7 +3,6 @@ title: Two-Step Parmesan-Garlic Chicken
 slug: two-step-parmesan-garlic-chicken
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: ½
   unit: cup
@@ -77,6 +76,6 @@ nutrition:
   fat_g: 3.9
   carbs_g: 2.4
 nutrition_confidence: partial
-search: two-step parmesan-garlic chicken mains italian 1990s baked salad grated parmesan cheese garlic
-  powder (1 oz) envelope italian salad dressing mix boneless chicken breasts greased
+search: two-step parmesan-garlic chicken mains italian baked salad grated parmesan cheese garlic powder
+  (1 oz) envelope italian salad dressing mix boneless chicken breasts greased
 ---

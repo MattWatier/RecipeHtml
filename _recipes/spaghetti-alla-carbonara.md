@@ -3,7 +3,6 @@ title: Spaghetti alla Carbonara
 slug: spaghetti-alla-carbonara
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: tbsp
@@ -133,7 +132,7 @@ nutrition_confidence: partial
 related:
 - title: Spaghetti alla Carbonara
   slug: spaghetti-alla-carbonara-2
-search: spaghetti alla carbonara mains italian 1980s olive oil thinly sliced prosciutto or canadian bacon
-  (about 1/4 c.) garlic eggs chicken broth freshly ground pepper pasta (whole wheat) broccolini parmesan
-  or romano double slow metal
+search: spaghetti alla carbonara mains italian olive oil thinly sliced prosciutto or canadian bacon (about
+  1/4 c.) garlic eggs chicken broth freshly ground pepper pasta (whole wheat) broccolini parmesan or romano
+  double slow metal
 ---

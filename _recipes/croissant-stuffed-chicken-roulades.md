@@ -3,7 +3,6 @@ title: Croissant-Stuffed Chicken Roulades
 slug: croissant-stuffed-chicken-roulades
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: large
@@ -302,7 +301,7 @@ nutrition:
   fat_g: 13.3
   carbs_g: 3.8
 nutrition_confidence: partial
-search: croissant-stuffed chicken roulades mains 1980s baked mixing time even short lightly boneless salt
-  black pepper butter neutral oil stale croissants shallot garlic dry white wine dried poultry seasoning
-  dried thyme warm chicken stock
+search: croissant-stuffed chicken roulades mains baked mixing time even short lightly boneless salt black
+  pepper butter neutral oil stale croissants shallot garlic dry white wine dried poultry seasoning dried
+  thyme warm chicken stock
 ---

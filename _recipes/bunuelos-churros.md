@@ -3,7 +3,6 @@ title: Buñuelos (Churros)
 slug: bunuelos-churros
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '4'
   unit: cup
@@ -100,5 +99,5 @@ nutrition:
   fat_g: 2.9
   carbs_g: 19.4
 nutrition_confidence: partial
-search: buñuelos (churros) sides 1995s flour sugar salt baking powder eggs butter milk dough thin
+search: buñuelos (churros) sides flour sugar salt baking powder eggs butter milk dough thin
 ---

@@ -3,7 +3,6 @@ title: Moody's Pie Crust
 slug: moody-s-pie-crust
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -67,5 +66,5 @@ nutrition:
   fat_g: 46.2
   carbs_g: 79.6
 nutrition_confidence: partial
-search: moody's pie crust desserts 1990s heaping cup shortening flour salt cold water time
+search: moody's pie crust desserts heaping cup shortening flour salt cold water time
 ---

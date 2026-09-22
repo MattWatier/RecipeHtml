@@ -3,7 +3,6 @@ title: Pork Chops with Apples and Cranberries
 slug: pork-chops-with-apples-and-cranberries
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '3'
   unit: ''
@@ -71,6 +70,6 @@ nutrition:
   fat_g: 1.6
   carbs_g: 66.6
 nutrition_confidence: partial
-search: pork chops with apples and cranberries mains 1995s baked casserole pork chops apples cranberries
-  sweet cider buttered
+search: pork chops with apples and cranberries mains baked casserole pork chops apples cranberries sweet
+  cider buttered
 ---

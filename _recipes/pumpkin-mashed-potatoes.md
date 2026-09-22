@@ -3,7 +3,6 @@ title: Pumpkin Mashed Potatoes
 slug: pumpkin-mashed-potatoes
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: 2¾
   unit: cup
@@ -65,5 +64,5 @@ nutrition:
   fat_g: 30.8
   carbs_g: 87.5
 nutrition_confidence: partial
-search: pumpkin mashed potatoes sides 1990s pumpkin potatoes garlic garlic clove boiling water
+search: pumpkin mashed potatoes sides pumpkin potatoes garlic garlic clove boiling water
 ---

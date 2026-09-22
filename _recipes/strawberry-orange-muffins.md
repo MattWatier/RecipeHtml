@@ -3,7 +3,6 @@ title: Strawberry-Orange Muffins
 slug: strawberry-orange-muffins
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: 1¼
   unit: cup
@@ -115,6 +114,6 @@ nutrition:
   fat_g: 12.2
   carbs_g: 108.4
 nutrition_confidence: partial
-search: strawberry-orange muffins breakfast 1995s baked strawberries butter orange rind eggs flour sugar
-  baking powder salt toothpick
+search: strawberry-orange muffins breakfast baked strawberries butter orange rind eggs flour sugar baking
+  powder salt toothpick
 ---

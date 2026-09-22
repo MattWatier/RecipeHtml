@@ -3,7 +3,6 @@ title: Salmon Patties
 slug: salmon-patties
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -76,5 +75,5 @@ nutrition:
   fat_g: 10.7
   carbs_g: 7.6
 nutrition_confidence: partial
-search: salmon patties mains 1990s 14 3/4-oz can salmon oat bran egg scallions butter
+search: salmon patties mains 14 3/4-oz can salmon oat bran egg scallions butter
 ---

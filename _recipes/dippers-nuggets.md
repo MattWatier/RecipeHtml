@@ -3,7 +3,6 @@ title: Dippers Nuggets
 slug: dippers-nuggets
 course: main
 course_label: Mains
-era: 1995s
 ingredients:
 - amount: '6'
   unit: ''
@@ -105,6 +104,5 @@ nutrition:
   fat_g: 8.6
   carbs_g: 28.6
 nutrition_confidence: partial
-search: dippers nuggets mains 1995s baked whole chicken chicken breasts eggs water salt sesame seeds flour
-  batter
+search: dippers nuggets mains baked whole chicken chicken breasts eggs water salt sesame seeds flour batter
 ---

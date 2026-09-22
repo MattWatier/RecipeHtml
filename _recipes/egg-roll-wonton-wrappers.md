@@ -3,7 +3,6 @@ title: Egg Roll / Wonton Wrappers
 slug: egg-roll-wonton-wrappers
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '4'
   unit: cup
@@ -110,6 +109,5 @@ nutrition:
   fat_g: 62.7
   carbs_g: 96.5
 nutrition_confidence: partial
-search: egg roll / wonton wrappers sides 1995s white flour salt eggs cold water well ball time period
-  lightly
+search: egg roll / wonton wrappers sides white flour salt eggs cold water well ball time period lightly
 ---

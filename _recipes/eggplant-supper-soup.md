@@ -3,7 +3,6 @@ title: Eggplant Supper Soup
 slug: eggplant-supper-soup
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -128,6 +127,6 @@ nutrition:
   fat_g: 12.8
   carbs_g: 89.8
 nutrition_confidence: partial
-search: eggplant supper soup mains 1990s soup hamburger onions garlic eggplant stalks celery carrots can
-  tomatoes bay leaf oregano nutmeg parsley flakes uncooked macaroni sugar
+search: eggplant supper soup mains soup hamburger onions garlic eggplant stalks celery carrots can tomatoes
+  bay leaf oregano nutmeg parsley flakes uncooked macaroni sugar
 ---

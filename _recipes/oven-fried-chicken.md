@@ -3,7 +3,6 @@ title: Oven Fried Chicken
 slug: oven-fried-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: cup
@@ -147,6 +146,6 @@ nutrition_confidence: partial
 related:
 - title: Crunchy Oven Fried Chicken
   slug: crunchy-oven-fried-chicken
-search: oven fried chicken mains 1980s baked buttermilk egg whites flour cornmeal salt (for coating) black
-  pepper paprika salt (for chicken) chicken breasts chicken thighs chicken drumsticks canola oil shallow
+search: oven fried chicken mains baked buttermilk egg whites flour cornmeal salt (for coating) black pepper
+  paprika salt (for chicken) chicken breasts chicken thighs chicken drumsticks canola oil shallow
 ---

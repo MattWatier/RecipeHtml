@@ -3,7 +3,6 @@ title: Chicken Pot Pie
 slug: chicken-pot-pie
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: ⅓
   unit: cup
@@ -99,6 +98,6 @@ nutrition:
   fat_g: 33.6
   carbs_g: 14.7
 nutrition_confidence: partial
-search: chicken pot pie mains 1980s baked butter onion or leeks flour celery salt pepper chicken stock
-  milk cooked chicken
+search: chicken pot pie mains baked butter onion or leeks flour celery salt pepper chicken stock milk
+  cooked chicken
 ---

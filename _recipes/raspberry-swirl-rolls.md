@@ -3,7 +3,6 @@ title: Raspberry Swirl Rolls
 slug: raspberry-swirl-rolls
 course: dessert
 course_label: Desserts
-era: 1995s
 ingredients:
 - amount: '2'
   unit: cup
@@ -100,6 +99,6 @@ nutrition:
   fat_g: 16.1
   carbs_g: 102.8
 nutrition_confidence: partial
-search: raspberry swirl rolls desserts 1995s baked biscuit mix sour cream milk raspberry preserves nuts
-  powdered sugar
+search: raspberry swirl rolls desserts baked biscuit mix sour cream milk raspberry preserves nuts powdered
+  sugar
 ---

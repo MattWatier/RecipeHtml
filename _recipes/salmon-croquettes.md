@@ -3,7 +3,6 @@ title: Salmon Croquettes
 slug: salmon-croquettes
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '2'
   unit: tbsp
@@ -167,7 +166,7 @@ nutrition:
   fat_g: 28.7
   carbs_g: 6
 nutrition_confidence: partial
-search: salmon croquettes mains 1990s baked casserole butter leek celery stalk green bell pepper fresh
-  parsley salt black pepper fresh dill fresh lemon juice (14-15 oz) salmon hard-boiled eggs shredded swiss
-  cheese heavy cream
+search: salmon croquettes mains baked casserole butter leek celery stalk green bell pepper fresh parsley
+  salt black pepper fresh dill fresh lemon juice (14-15 oz) salmon hard-boiled eggs shredded swiss cheese
+  heavy cream
 ---

@@ -3,7 +3,6 @@ title: Bundled Broccoli
 slug: bundled-broccoli
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: small
@@ -93,6 +92,6 @@ nutrition:
   fat_g: 19.6
   carbs_g: 14.4
 nutrition_confidence: partial
-search: bundled broccoli sides 1990s heads fresh broccoli (or asparagus) water roux butter flour milk
-  swiss cheese white wine
+search: bundled broccoli sides heads fresh broccoli (or asparagus) water roux butter flour milk swiss
+  cheese white wine
 ---

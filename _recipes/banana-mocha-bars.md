@@ -3,7 +3,6 @@ title: Banana Mocha Bars
 slug: banana-mocha-bars
 course: dessert
 course_label: Desserts
-era: 1990s
 ingredients:
 - amount: '2'
   unit: medium
@@ -139,6 +138,6 @@ nutrition:
   fat_g: 58.1
   carbs_g: 92.3
 nutrition_confidence: partial
-search: banana mocha bars desserts 1990s baked ripe bananas instant coffee butter eggs vanilla flour baking
+search: banana mocha bars desserts baked ripe bananas instant coffee butter eggs vanilla flour baking
   powder chopped pecans or walnuts semi-sweet chocolate chips greased
 ---

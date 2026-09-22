@@ -3,7 +3,6 @@ title: Atkins Diet Hot Chocolate
 slug: atkins-diet-hot-chocolate
 course: drink
 course_label: Drinks
-era: 1990s
 ingredients:
 - amount: ⅓
   unit: cup
@@ -60,5 +59,5 @@ nutrition:
   fat_g: 16.4
   carbs_g: 6.4
 nutrition_confidence: partial
-search: atkins diet hot chocolate drinks 1990s cream water unsweetened cocoa pkt sugar substitute vanilla
+search: atkins diet hot chocolate drinks cream water unsweetened cocoa pkt sugar substitute vanilla
 ---

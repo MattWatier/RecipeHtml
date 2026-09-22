@@ -3,7 +3,6 @@ title: Garlic Soup - Soupe à l'Ail
 slug: garlic-soup-soupe-a-l-ail
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '2'
   unit: cup
@@ -70,5 +69,5 @@ nutrition:
   fat_g: 14.7
   carbs_g: 53.2
 nutrition_confidence: partial
-search: garlic soup - soupe à l'ail sides 1990s soup water garlic cloves potatoes carrots
+search: garlic soup - soupe à l'ail sides soup water garlic cloves potatoes carrots
 ---

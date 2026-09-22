@@ -3,7 +3,6 @@ title: Atkins Diet Mock Potato Salad
 slug: atkins-diet-mock-potato-salad
 course: side
 course_label: Sides
-era: 1990s
 ingredients:
 - amount: '1'
   unit: medium
@@ -101,6 +100,6 @@ nutrition:
   fat_g: 53.1
   carbs_g: 4.7
 nutrition_confidence: partial
-search: atkins diet mock potato salad sides 1990s salad rutabaga pkt sugar substitute lemon juice finely
-  chopped scallions dill pickle minced celery with leaves salt mayonnaise hard-boiled eggs salad
+search: atkins diet mock potato salad sides salad rutabaga pkt sugar substitute lemon juice finely chopped
+  scallions dill pickle minced celery with leaves salt mayonnaise hard-boiled eggs salad
 ---

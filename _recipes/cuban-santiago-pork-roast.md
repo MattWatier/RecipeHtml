@@ -3,7 +3,6 @@ title: Cuban Santiago Pork Roast
 slug: cuban-santiago-pork-roast
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: ''
@@ -111,6 +110,6 @@ nutrition:
   fat_g: 3.7
   carbs_g: 41.6
 nutrition_confidence: partial
-search: cuban santiago pork roast mains chinese 1990s baked loin of pork (6-7 lb) onion bay leaves salt
-  lime or lemon juice soy sauce sugar fresh ginger garlic roasting
+search: cuban santiago pork roast mains chinese baked loin of pork (6-7 lb) onion bay leaves salt lime
+  or lemon juice soy sauce sugar fresh ginger garlic roasting
 ---

@@ -3,7 +3,6 @@ title: Pecan Sour Cream Coffee Cake
 slug: pecan-sour-cream-coffee-cake
 course: breakfast
 course_label: Breakfast
-era: 1995s
 ingredients:
 - amount: '1'
   unit: cup
@@ -138,6 +137,6 @@ nutrition_confidence: partial
 related:
 - title: Sour Cream Coffee Cake
   slug: sour-cream-coffee-cake
-search: pecan sour cream coffee cake breakfast 1995s baked butter sugar eggs sour cream vanilla flour
-  baking powder salt tube time chopped pecans cinnamon
+search: pecan sour cream coffee cake breakfast baked butter sugar eggs sour cream vanilla flour baking
+  powder salt tube time chopped pecans cinnamon
 ---

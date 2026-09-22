@@ -3,7 +3,6 @@ title: Italian Sausage with Peppers & Tomatoes
 slug: italian-sausage-with-peppers-tomatoes
 course: main
 course_label: Mains
-era: 1990s
 ingredients:
 - amount: '1'
   unit: lb
@@ -128,6 +127,6 @@ nutrition:
   fat_g: 38.8
   carbs_g: 7.5
 nutrition_confidence: partial
-search: italian sausage with peppers & tomatoes mains italian 1990s package italian mild sausage olive
-  oil onion red bell pepper green bell pepper garlic black pepper tomatoes shredded parmesan cheese
+search: italian sausage with peppers & tomatoes mains italian package italian mild sausage olive oil onion
+  red bell pepper green bell pepper garlic black pepper tomatoes shredded parmesan cheese
 ---

@@ -3,7 +3,6 @@ title: Pollo Fritto - Fried Chicken
 slug: pollo-fritto-fried-chicken
 course: main
 course_label: Mains
-era: 1980s
 ingredients:
 - amount: '1'
   unit: ''
@@ -92,5 +91,5 @@ nutrition:
   fat_g: 272.5
   carbs_g: 18.2
 nutrition_confidence: partial
-search: pollo fritto - fried chicken mains 1980s baked (4 lb.) chicken flour eggs olive oil deep
+search: pollo fritto - fried chicken mains baked (4 lb.) chicken flour eggs olive oil deep
 ---

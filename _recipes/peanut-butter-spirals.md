@@ -3,7 +3,6 @@ title: Peanut Butter Spirals
 slug: peanut-butter-spirals
 course: side
 course_label: Sides
-era: 1995s
 ingredients:
 - amount: '12'
   unit: oz
@@ -98,6 +97,6 @@ nutrition:
   fat_g: 23.9
   carbs_g: 58.7
 nutrition_confidence: partial
-search: peanut butter spirals sides chinese 1995s spiral pasta peanut butter water soy sauce mild vinegar
-  scallion honey or syrup ground ginger chili powder frozen peas
+search: peanut butter spirals sides chinese spiral pasta peanut butter water soy sauce mild vinegar scallion
+  honey or syrup ground ginger chili powder frozen peas
 ---
