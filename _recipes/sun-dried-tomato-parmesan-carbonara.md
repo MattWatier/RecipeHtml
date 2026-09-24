@@ -102,8 +102,6 @@ allergens:
 - dairy
 - egg
 - mustard
-- egg
-- mustard
 nutrition:
   calories: 893
   protein_g: 43.4

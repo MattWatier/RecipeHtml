@@ -65,7 +65,6 @@ total_iso: PT8M
 allergens:
 - dairy
 - wheat
-- wheat
 nutrition:
   calories: 737
   protein_g: 3

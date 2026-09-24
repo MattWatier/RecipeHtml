@@ -73,7 +73,6 @@ total_iso: PT7M
 allergens:
 - dairy
 - mustard
-- mustard
 nutrition:
   calories: 100
   protein_g: 0.5

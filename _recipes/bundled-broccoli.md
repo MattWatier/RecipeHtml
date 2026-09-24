@@ -84,8 +84,6 @@ total_iso: PT13M
 allergens:
 - dairy
 - wheat
-- wheat
-- wheat
 nutrition:
   calories: 745
   protein_g: 6.4

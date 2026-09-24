@@ -137,8 +137,6 @@ tags:
 allergens:
 - dairy
 - tree-nut
-- tree-nut
-- tree-nut
 nutrition:
   calories: 900
   protein_g: 15.3

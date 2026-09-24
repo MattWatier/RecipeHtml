@@ -266,10 +266,6 @@ allergens:
 - dairy
 - wheat
 - soy
-- wheat
-- soy
-- wheat
-- soy
 nutrition:
   calories: 1277
   protein_g: 38.6

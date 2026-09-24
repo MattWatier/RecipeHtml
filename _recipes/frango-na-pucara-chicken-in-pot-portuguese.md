@@ -91,8 +91,6 @@ tags:
 allergens:
 - dairy
 - mustard
-- mustard
-- mustard
 nutrition:
   calories: 968
   protein_g: 14.4

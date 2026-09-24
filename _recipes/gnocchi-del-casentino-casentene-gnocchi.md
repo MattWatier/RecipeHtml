@@ -104,8 +104,6 @@ total_iso: PT13M
 allergens:
 - dairy
 - egg
-- egg
-- egg
 - wheat
 nutrition:
   calories: 937

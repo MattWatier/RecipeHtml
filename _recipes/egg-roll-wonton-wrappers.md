@@ -101,8 +101,6 @@ total_iso: PT11M
 allergens:
 - egg
 - wheat
-- wheat
-- wheat
 nutrition:
   calories: 4089
   protein_g: 11.2

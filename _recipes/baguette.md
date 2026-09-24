@@ -29,30 +29,10 @@ ingredients:
   name: bread flour
   note: ''
   text: 18½ cups bread flour
-- amount: '1'
-  unit: ''
-  name: mixing
-  note: ''
-  text: 1 mixing
-- amount: '1'
-  unit: ''
-  name: stiff
-  note: ''
-  text: 1 stiff
-- amount: '1'
-  unit: ''
-  name: long
-  note: ''
-  text: 1 long
-- amount: '1'
-  unit: ''
-  name: cloud
-  note: ''
-  text: 1 cloud
 steps:
 - title: Combine
   note: Combine in a mixing bowl warm water, yeast, and sugar. Proof the yeast.
-  tip: ''
+  tip: wait 5 minutes to see bubbles in the yeast
   minutes: 5
   duration: 5 min
   duration_iso: PT5M
@@ -62,40 +42,34 @@ steps:
   minutes: 10
   duration: 10 min
   duration_iso: PT10M
-- title: Let
-  note: Let rise until doubled - rising could take several hours (as noted on the card).
+- title: Let rise until doubled
+  note: Rising could take several hours depending on the warmth of the room.
   tip: ''
   minutes: 0
   duration: ''
   duration_iso: ''
 - title: Preheat
-  note: Preheat oven to 450°. Put an oven-proof dish in the bottom of the oven.
+  note: Preheat oven to 450°. Put an oven-proof metal dish in the bottom of the oven.
   tip: ''
   minutes: 0
   duration: ''
   duration_iso: ''
 - title: Divide
   note: When the dough has risen, divide in half and shape into a long skinny loaf. Place loaves on parchment
-    paper on a sheet pan.
+    paper on a sheet pan. cover and let rise for 15 minutes
   tip: ''
-  minutes: 3
-  duration: 3 min
-  duration_iso: PT3M
+  minutes: 15
+  duration: 15 min
+  duration_iso: PT15M
 - title: Top
   note: Paint the top with egg white and slash the top with several short diagonal strokes.
   tip: ''
   minutes: 0
   duration: ''
   duration_iso: ''
-- title: Put
-  note: Put the bread in the oven. Put water in the hot dry dish; this will produce a cloud of steam to
-    give the bread a good crust.
-  tip: ''
-  minutes: 8
-  duration: 8 min
-  duration_iso: PT8M
 - title: Bake
-  note: Close the door and bake.
+  note: Put the bread in the oven. Put water in the hot dry dish; this will produce a cloud of steam to
+    give the bread a good crust. Close the door and bake.
   tip: ''
   minutes: 10
   duration: 10 min
@@ -124,12 +98,11 @@ tags:
 - bread
 allergens:
 - wheat
-- wheat
 nutrition:
   calories: 1672
   protein_g: 72.8
   fat_g: 25.9
   carbs_g: 295.3
 nutrition_confidence: partial
-search: baguette sides baked bread warm water yeast sugar salt bread flour mixing stiff long cloud
+search: baguette sides baked bread warm water yeast sugar salt bread flour
 ---

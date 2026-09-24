@@ -92,10 +92,6 @@ allergens:
 - dairy
 - egg
 - fish
-- egg
-- fish
-- egg
-- fish
 nutrition:
   calories: 466
   protein_g: 19.8

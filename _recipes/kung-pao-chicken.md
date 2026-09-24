@@ -151,8 +151,6 @@ total_iso: PT32M
 allergens:
 - soy
 - sesame
-- sesame
-- sesame
 nutrition:
   calories: 961
   protein_g: 60.8

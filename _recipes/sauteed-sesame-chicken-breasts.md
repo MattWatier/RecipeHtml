@@ -57,7 +57,6 @@ total_iso: PT8M
 allergens:
 - egg
 - sesame
-- sesame
 nutrition:
   calories: 181
   protein_g: 7.1

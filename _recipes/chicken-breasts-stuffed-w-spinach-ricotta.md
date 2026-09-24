@@ -106,10 +106,6 @@ tags:
 allergens:
 - dairy
 - egg
-- egg
-- egg
-- egg
-- egg
 nutrition:
   calories: 105
   protein_g: 5.7

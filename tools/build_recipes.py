@@ -270,7 +270,13 @@ def collect(vault: Path) -> list[dict]:
                 "prep_minutes": prep,
                 "cook_minutes": cook,
                 "total_minutes": total,
-                "allergens": [clean(a) for a in (meta.get("allergens") or []) if clean(a)],
+                # A note can repeat an allergen; dedupe so the recipe page does
+                # not show it twice and the facet count stays honest.
+                "allergens": list(
+                    dict.fromkeys(
+                        clean(a) for a in (meta.get("allergens") or []) if clean(a)
+                    )
+                ),
                 "tags": sorted(set(tags)),
                 "nutrition": {
                     key: to_number(meta.get(field))

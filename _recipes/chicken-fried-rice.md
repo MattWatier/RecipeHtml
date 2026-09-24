@@ -85,10 +85,6 @@ allergens:
 - egg
 - soy
 - peanut
-- soy
-- peanut
-- soy
-- peanut
 nutrition:
   calories: 165
   protein_g: 7.5

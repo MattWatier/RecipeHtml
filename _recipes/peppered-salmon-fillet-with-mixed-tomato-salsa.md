@@ -102,7 +102,6 @@ total_iso: PT17M
 allergens:
 - fish
 - mustard
-- mustard
 nutrition:
   calories: 86
   protein_g: 2.4

@@ -51,23 +51,23 @@ tags:
 - key: stew
   count: 15
 allergens:
-- key: wheat
-  count: 321
-- key: egg
-  count: 213
 - key: dairy
   count: 188
+- key: wheat
+  count: 135
+- key: egg
+  count: 100
 - key: mustard
-  count: 48
-- key: fish
-  count: 47
-- key: tree-nut
-  count: 34
-- key: soy
   count: 23
+- key: fish
+  count: 22
+- key: tree-nut
+  count: 13
+- key: soy
+  count: 12
 - key: sesame
-  count: 19
+  count: 9
 - key: peanut
-  count: 14
+  count: 7
 - key: shellfish
-  count: 6
+  count: 3

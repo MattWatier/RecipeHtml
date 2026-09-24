@@ -85,7 +85,6 @@ tags:
 allergens:
 - dairy
 - wheat
-- wheat
 nutrition:
   calories: 315
   protein_g: 2.5

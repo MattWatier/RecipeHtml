@@ -86,11 +86,6 @@ allergens:
 - wheat
 - soy
 - peanut
-- wheat
-- soy
-- peanut
-- wheat
-- soy
 nutrition:
   calories: 528
   protein_g: 22.1

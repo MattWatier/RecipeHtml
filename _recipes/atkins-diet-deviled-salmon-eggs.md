@@ -78,10 +78,6 @@ allergens:
 - egg
 - fish
 - mustard
-- fish
-- mustard
-- fish
-- mustard
 nutrition:
   calories: 281
   protein_g: 10.5

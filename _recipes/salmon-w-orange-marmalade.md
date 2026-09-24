@@ -87,7 +87,6 @@ tags:
 allergens:
 - soy
 - fish
-- fish
 nutrition:
   calories: 545
   protein_g: 39.4

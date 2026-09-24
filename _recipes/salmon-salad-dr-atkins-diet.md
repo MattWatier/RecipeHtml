@@ -94,7 +94,6 @@ tags:
 allergens:
 - dairy
 - fish
-- fish
 nutrition:
   calories: 517
   protein_g: 5.1

@@ -74,8 +74,6 @@ total_iso: PT21M
 allergens:
 - dairy
 - peanut
-- peanut
-- peanut
 nutrition:
   calories: 535
   protein_g: 10

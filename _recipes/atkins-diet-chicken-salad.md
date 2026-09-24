@@ -83,10 +83,6 @@ allergens:
 - dairy
 - egg
 - tree-nut
-- egg
-- tree-nut
-- egg
-- tree-nut
 nutrition:
   calories: 884
   protein_g: 7.6

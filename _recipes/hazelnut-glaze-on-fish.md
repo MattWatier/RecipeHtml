@@ -67,8 +67,6 @@ total_iso: PT12M
 allergens:
 - tree-nut
 - fish
-- fish
-- fish
 nutrition:
   calories: 195
   protein_g: 4.5

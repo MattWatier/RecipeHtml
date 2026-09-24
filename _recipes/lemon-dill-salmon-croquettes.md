@@ -120,9 +120,6 @@ allergens:
 - egg
 - wheat
 - fish
-- egg
-- wheat
-- fish
 nutrition:
   calories: 327
   protein_g: 12.3

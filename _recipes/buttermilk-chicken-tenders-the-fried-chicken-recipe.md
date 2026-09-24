@@ -85,8 +85,6 @@ total_iso: PT30M
 allergens:
 - egg
 - wheat
-- wheat
-- wheat
 - peanut
 nutrition:
   calories: 944

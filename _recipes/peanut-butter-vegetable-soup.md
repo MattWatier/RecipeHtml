@@ -111,7 +111,6 @@ tags:
 allergens:
 - dairy
 - peanut
-- peanut
 nutrition:
   calories: 260
   protein_g: 7.9

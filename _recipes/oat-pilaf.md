@@ -61,7 +61,6 @@ total_iso: PT11M
 allergens:
 - dairy
 - egg
-- egg
 nutrition:
   calories: 1270
   protein_g: 10.9

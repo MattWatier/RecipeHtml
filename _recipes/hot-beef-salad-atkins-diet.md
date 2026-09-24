@@ -143,10 +143,6 @@ allergens:
 - dairy
 - soy
 - tree-nut
-- soy
-- tree-nut
-- soy
-- tree-nut
 nutrition:
   calories: 505
   protein_g: 35.6

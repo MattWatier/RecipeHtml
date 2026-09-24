@@ -129,12 +129,6 @@ allergens:
 - egg
 - wheat
 - tree-nut
-- egg
-- wheat
-- tree-nut
-- egg
-- wheat
-- tree-nut
 nutrition:
   calories: 2035
   protein_g: 13.5

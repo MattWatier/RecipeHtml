@@ -92,8 +92,6 @@ allergens:
 - dairy
 - wheat
 - mustard
-- wheat
-- mustard
 nutrition:
   calories: 170
   protein_g: 2.3

@@ -83,8 +83,6 @@ allergens:
 - dairy
 - fish
 - shellfish
-- fish
-- shellfish
 nutrition:
   calories: 737
   protein_g: 31.1

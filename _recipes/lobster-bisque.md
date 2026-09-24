@@ -142,9 +142,6 @@ allergens:
 - egg
 - fish
 - shellfish
-- egg
-- fish
-- shellfish
 nutrition:
   calories: 1493
   protein_g: 44.1

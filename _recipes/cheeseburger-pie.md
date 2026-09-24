@@ -133,9 +133,6 @@ allergens:
 - egg
 - wheat
 - mustard
-- egg
-- wheat
-- mustard
 nutrition:
   calories: 596
   protein_g: 40.2

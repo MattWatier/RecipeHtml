@@ -54,8 +54,6 @@ total_iso: PT5M
 allergens:
 - dairy
 - mustard
-- mustard
-- mustard
 nutrition:
   calories: 488
   protein_g: 1.4

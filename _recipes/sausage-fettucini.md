@@ -83,8 +83,6 @@ total_iso: PT3M
 allergens:
 - dairy
 - wheat
-- wheat
-- wheat
 nutrition:
   calories: 528
   protein_g: 18.1

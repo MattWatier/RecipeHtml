@@ -105,14 +105,6 @@ allergens:
 - dairy
 - wheat
 - fish
-- wheat
-- fish
-- wheat
-- fish
-- wheat
-- fish
-- wheat
-- fish
 nutrition:
   calories: 777
   protein_g: 3.4

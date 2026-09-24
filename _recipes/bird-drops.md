@@ -84,7 +84,6 @@ total_iso: PT49M
 allergens:
 - dairy
 - peanut
-- peanut
 nutrition:
   calories: 872
   protein_g: 12.5

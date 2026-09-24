@@ -140,8 +140,6 @@ allergens:
 - dairy
 - egg
 - wheat
-- egg
-- wheat
 nutrition:
   calories: 2053
   protein_g: 7.3

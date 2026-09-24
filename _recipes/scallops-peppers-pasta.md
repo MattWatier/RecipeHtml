@@ -106,7 +106,6 @@ total_iso: PT32M
 allergens:
 - wheat
 - fish
-- fish
 nutrition:
   calories: 156
   protein_g: 21

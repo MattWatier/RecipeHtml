@@ -56,8 +56,6 @@ total_iso: PT5M
 allergens:
 - dairy
 - fish
-- fish
-- fish
 nutrition:
   calories: 79
   protein_g: 0

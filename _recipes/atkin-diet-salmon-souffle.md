@@ -132,14 +132,6 @@ allergens:
 - wheat
 - soy
 - fish
-- egg
-- wheat
-- soy
-- fish
-- egg
-- wheat
-- soy
-- fish
 nutrition:
   calories: 1005
   protein_g: 32.3

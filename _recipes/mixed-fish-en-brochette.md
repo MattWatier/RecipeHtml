@@ -114,8 +114,6 @@ allergens:
 - fish
 - shellfish
 - mustard
-- shellfish
-- mustard
 nutrition:
   calories: 135
   protein_g: 8.1

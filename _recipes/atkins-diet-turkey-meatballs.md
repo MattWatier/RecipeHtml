@@ -96,7 +96,6 @@ total_iso: PT43M
 allergens:
 - dairy
 - egg
-- egg
 nutrition:
   calories: 304
   protein_g: 33.1

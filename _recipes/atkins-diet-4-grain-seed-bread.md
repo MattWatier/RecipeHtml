@@ -143,12 +143,6 @@ allergens:
 - egg
 - wheat
 - sesame
-- egg
-- wheat
-- sesame
-- egg
-- wheat
-- sesame
 nutrition:
   calories: 686
   protein_g: 17.4
